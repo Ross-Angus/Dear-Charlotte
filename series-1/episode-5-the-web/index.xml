@@ -155,7 +155,7 @@
 		<p>The two silver people introduce themselves to Blake:</p>
 
 		<biog>
-			<src>/img/characters/novara.png</src>
+			<src>/Dear-Charlotte/img/characters/novara.png</src>
 			<info type="Name">Novara</info>
 			<info type="Job">Lab assistant / Thin white duke</info>
 			<info type="Dramatic role">Counterpoint to primitive lettuce people</info>
@@ -164,7 +164,7 @@
 		</biog>
 
 		<biog>
-			<src>/img/characters/geela.png</src>
+			<src>/Dear-Charlotte/img/characters/geela.png</src>
 			<info type="Name">Geela</info>
 			<info type="Job">Lab assistant / Aquarist</info>
 			<info type="Dramatic role">Demonstrating creepy liver-based medicine</info>

@@ -49,7 +49,7 @@
 		<p>Blake and Jenna are observed by a noisy camera which pokes out of a nearby rock. Ro, a slender geezer dressed in burgundy velvet with gold trim, watches them on his floating plasma screen. He alerts some Federation guards to the intruders and the guards scamper off toward Blake and Jenna.</p>
 
 		<biog>
-			<src>/img/characters/ro.png</src>
+			<src>/Dear-Charlotte/img/characters/ro.png</src>
 			<info type="Name">Ro</info>
 			<info type="Job">Ruler of Horizon</info>
 			<info type="Narrative role">Ethnic pawn</info>
@@ -79,7 +79,7 @@
 		<p>Elsewhere in the cave, a Kommissar and an Assistant Kommissar are discussing Ro. Seems he was taken away from <em>Horizon</em> as a child, in order to receive a Federation education, then returned to take his rightful place. The Kommissar was his trusted tutor and has just arrived on the freighter wot we saw at the start of the episode. The Kommissar tells Ro that production from the mine isn't meeting the quotas and is curious about Ro's prisoners.</p>
 
 		<biog>
-			<src>/img/characters/kommissar.png</src>
+			<src>/Dear-Charlotte/img/characters/kommissar.png</src>
 			<info type="Name">Kommissar</info>
 			<info type="Job">Kommissar (nominative determinism) / Tutor at the Central Educational Complex</info>
 			<info type="Narrative role">Evil face of the Federation</info>
@@ -108,7 +108,7 @@
 		</char>
 
 		<biog>
-			<src>/img/characters/assistant.png</src>
+			<src>/Dear-Charlotte/img/characters/assistant.png</src>
 			<info type="Name">He doesn't seem to have one</info>
 			<info type="Job">Assistant Kommissar</info>
 			<info type="Narrative role">Lackey</info>
@@ -259,7 +259,7 @@
 		<p>Jenna meets Ro's bride-to-be Selma there. She explains that The Kommissar suggested to Ro that she go for training and when she refused, she was sent to work in the mines.</p>
 
 		<biog>
-			<src>/img/characters/selma.png</src>
+			<src>/Dear-Charlotte/img/characters/selma.png</src>
 			<info type="Name">Selma</info>
 			<info type="Job">Freelance miner</info>
 			<info type="Narrative role">Ro's moral compass</info>

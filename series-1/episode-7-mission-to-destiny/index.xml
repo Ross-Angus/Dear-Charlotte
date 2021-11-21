@@ -31,7 +31,7 @@
 		</ross>
 
 		<biog>
-			<src>/img/characters/sara.png</src>
+			<src>/Dear-Charlotte/img/characters/sara.png</src>
 			<info type="Name">Sara</info>
 			<info type="Job">Hyperventilation</info>
 			<info type="Dramatic role">Timid lady character</info>
@@ -41,7 +41,7 @@
 		</biog>
 
 		<biog>
-			<src>/img/characters/mandrian.png</src>
+			<src>/Dear-Charlotte/img/characters/mandrian.png</src>
 			<info type="Name">Nanjew Mandrian</info>
 			<info type="Job">Emergency Brillo pad</info>
 			<info type="Dramatic role">Second most suspicious character</info>
@@ -68,7 +68,7 @@
 		<p>We meet the Captain:</p>
 
 		<biog>
-			<src>/img/characters/kendall.png</src>
+			<src>/Dear-Charlotte/img/characters/kendall.png</src>
 			<info type="Name">Dr Kendall</info>
 			<info type="Job">Captain, moral compass</info>
 			<info type="Dramatic role">Sympathetic character</info>
@@ -105,7 +105,7 @@
 		<p>On the flight deck of <em>The Ortega</em>, Cally is still trying to work out what <q>54124</q> means. She notices that the air is stale and Levett:</p>
 
 		<biog>
-			<src>/img/characters/levett.png</src>
+			<src>/Dear-Charlotte/img/characters/levett.png</src>
 			<info type="Name">Levett</info>
 			<info type="Job">Ship's cynic</info>
 			<info type="Dramatic role">Belittling Sonheim, getting on with stuff</info>
@@ -117,7 +117,7 @@
 		<p>She asks Sonheim:</p>
 
 		<biog>
-			<src>/img/characters/sonheim.png</src>
+			<src>/Dear-Charlotte/img/characters/sonheim.png</src>
 			<info type="Name">Sonheim</info>
 			<info type="Job">Sex pest</info>
 			<info type="Dramatic role">Main suspect</info>
@@ -130,7 +130,7 @@
 		<p>... where the storage hold is, and he's kind of a dick about it. Pascal:</p>
 
 		<biog>
-			<src>/img/characters/pascal.png</src>
+			<src>/Dear-Charlotte/img/characters/pascal.png</src>
 			<info type="Name">Pascal</info>
 			<info type="Job">Meat in the room</info>
 			<info type="Dramatic role">Man in background</info>
@@ -158,7 +158,7 @@
 		<p>Grovane:</p>
 
 		<biog>
-			<src>/img/characters/grovane.png</src>
+			<src>/Dear-Charlotte/img/characters/grovane.png</src>
 			<info type="Name">Grovane</info>
 			<info type="Job">Secret weekend wizard</info>
 			<info type="Dramatic role">Nerd, wrong-hypothesis-haver</info>

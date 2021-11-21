@@ -60,7 +60,7 @@
 		<p>Giroc speaks to both crews and explains that they cannot use their ships then poofs Blake and Travis down to the planet. Sinofar and Giroc introduce themselves, so let's do that:</p>
 
 		<biog>
-			<src>/img/characters/sinofar.png</src>
+			<src>/Dear-Charlotte/img/characters/sinofar.png</src>
 			<info type="Name">Sinofar</info>
 			<info type="Job">The Guardian</info>
 			<info type="Dramatic role">Wise alien archetype, exciter of Dads</info>
@@ -73,7 +73,7 @@
 		</ross>
 
 		<biog>
-			<src>/img/characters/giroc.png</src>
+			<src>/Dear-Charlotte/img/characters/giroc.png</src>
 			<info type="Name">Giroc</info>
 			<info type="Job">The Keeper</info>
 			<info type="Dramatic role">Violence fan</info>
@@ -208,7 +208,7 @@
 		<p>Travis gets his Mutoid pilot gal-pal:</p>
 
 		<biog>
-			<src>/img/characters/mutoid.png</src>
+			<src>/Dear-Charlotte/img/characters/mutoid.png</src>
 			<info type="Name">The Mutoid previously known as Keyeira</info>
 			<info type="Job">Pilot / Travis' wingman</info>
 			<info type="Dramatic role">Introduction to Mutoids</info>

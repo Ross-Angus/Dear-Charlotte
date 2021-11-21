@@ -100,7 +100,7 @@
 		<p><em>The Liberator</em> arrives as XK-72 and Blake tells them they're an experimental Earth ship. The station agrees to let them come aboard and meet their neurosurgeon. Blake teleports into an office where Farren, the administrator and Professor Kayn, the Neurosurgeon, are talking about <em>The Liberator</em>. You can tell they're both important, because they've got three silver stripes on each shoulder.</p>
 		
 		<biog>
-			<src>/img/characters/farren.png</src>
+			<src>/Dear-Charlotte/img/characters/farren.png</src>
 			<info type="Name">Farren</info>
 			<info type="Job">Administrator</info>
 			<info type="Dramatic role">Bureaucratic speed bump</info>
@@ -119,7 +119,7 @@
 		</char>
 		
 		<biog>
-			<src>/img/characters/kayn.png</src>
+			<src>/Dear-Charlotte/img/characters/kayn.png</src>
 			<info type="Name">Professor Kayn</info>
 			<info type="Job">Neurosurgeon</info>
 			<info type="Metal level"><a href="https://www.youtube.com/watch?v=otuVawEShi4" title="That Limmy sketch where it is explained that A-ha are metal">A-ha</a></info>
@@ -141,7 +141,7 @@
 		<p>Blake sends in Jenna to talk to Renor, Kayn's assistant. He wants her to get information about Kayn, using her [WINK] feminine [WINK] wiles. Luckily Renor is a class one lounge lizard:</p>
 
 		<biog>
-			<src>/img/characters/renor.png</src>
+			<src>/Dear-Charlotte/img/characters/renor.png</src>
 			<info type="Name">Renor</info>
 			<info type="Job">Brain-nurse</info>
 			<info type="Dramatic role">Surprisingly sympathetic sex-pest</info>

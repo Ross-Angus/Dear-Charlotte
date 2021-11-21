@@ -8,7 +8,7 @@
 	<content type="main">
 		<h1>Travis</h1>
 		<biog>
-			<src>/img/characters/travis.png</src>
+			<src>/Dear-Charlotte/img/characters/travis.png</src>
 			<info type="Name">Travis</info>
 			<info type="Special skills">Cold, sexless violence. Swiss Army hand.</info>
 			<info type="Dramatic role">Sub-boss</info>
@@ -35,7 +35,7 @@
 		</char>
 
 		<biog>
-			<src>/img/characters/travis2.png</src>
+			<src>/Dear-Charlotte/img/characters/travis2.png</src>
 			<info type="Name">Travis (2)</info>
 			<info type="Job">Servalan's Blake Murder Sub-contractor</info>
 			<info type="Narrative role">Twelve stone of fury, attached to a blaster-ring</info>
