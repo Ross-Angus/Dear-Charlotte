@@ -95,7 +95,8 @@
 	<xsl:template match="link" name="next-nav">
 		<xsl:param name="url"/>
 		<!-- Is there any child links to write out? -->
-		<xsl:if test="link">
+		<xsl:choose>
+		<xsl:when test="link">
 			<ul>
 				<xsl:for-each select="link">
 					<li>
@@ -108,7 +109,13 @@
 					</li>
 				</xsl:for-each>
 			</ul>
-		</xsl:if>
+		</xsl:when>
+		<xsl:otherwise>
+			<ul>
+				<li>No LINK found</li>
+			</ul>
+		</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 
 	<!--
