@@ -3,7 +3,7 @@
 <page>
 	<meta>
 		<description>A human-readable page about the privacy on www.dear-charlote.com.</description>
-		<path>/privacy/</path>
+		<path>/Dear-Charlotte/privacy/</path>
 	</meta>
 	<content type="main">
 		<h1>Privacy information</h1>

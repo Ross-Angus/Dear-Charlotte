@@ -3,7 +3,7 @@
 <page>
 	<meta>
 		<description>A subjective introduction to Blake's 7, from the perspective of someone who grew up with it.</description>
-		<path>/about-blakes-7/</path>
+		<path>/Dear-Charlotte/about-blakes-7/</path>
 	</meta>
 	<content type="main">
 		<h1>An introduction to <em>Blake's&#160;7</em></h1>
@@ -12,7 +12,7 @@
 		<p>I suspect he was aiming at a more serious audience. But I don't think that was understood by all of the crew.</p>
 		
 		<figure>
-			<img SRC="/Dear-Charlotte/img/cast-photo.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/cast-photo.jpg" alt=""/>
 			<figcaption>Series two cast photo.</figcaption>
 		</figure>
 

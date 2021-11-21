@@ -3,7 +3,7 @@
 <page>
 	<meta>
 		<description>Stuff and people to thank, for bringing you www.dear-charlote.com.</description>
-		<path>/acknowledgements/</path>
+		<path>/Dear-Charlotte/acknowledgements/</path>
 	</meta>
 	<content type="main">
 		<h1>Acknowledgements</h1>
@@ -46,6 +46,6 @@
 		<p>I'm grateful to <em><a href="https://yourloyalsubjects.bandcamp.com/">Your Loyal Subjects</a></em>, for providing a heavy metal consultancy service, improving a so-called running joke about baddies being metal.</p>
 
 		<h2>Charlotte</h2>
-		<p>I set up this site without consulting <a href="/">Charlotte</a>, using her as a sort of mental audience for my writing. To my delight, not only was she not freaked out by the site, but has agreed to help out with it too. Or at least store her accumulated 4th Doctor facts here, which amounts to much the same thing.</p>
+		<p>I set up this site without consulting <a href="/Dear-Charlotte/">Charlotte</a>, using her as a sort of mental audience for my writing. To my delight, not only was she not freaked out by the site, but has agreed to help out with it too. Or at least store her accumulated 4th Doctor facts here, which amounts to much the same thing.</p>
 	</content>
 </page>

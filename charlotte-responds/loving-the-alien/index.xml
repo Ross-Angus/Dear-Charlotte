@@ -3,7 +3,7 @@
 <page>
 	<meta>
 		<description>David Bowie tribute, by Charlotte</description>
-		<path>/charlotte-responds/loving-the-alien/</path>
+		<path>/Dear-Charlotte/charlotte-responds/loving-the-alien/</path>
 	</meta>
 	<content type="main">
 		<h1>Loving the Alien</h1>
@@ -14,7 +14,7 @@
 		<p><!--Many people have written tributes that are far more eloquent and original than mine. -->These are just a few reasons why, for me Bowie was and still is awesome. Also why I think he might say to the Doctor: <q>we are not so different you and I.</q> Probably whilst wearing ten metre wide concrete trousers, paired with a beautifully tailored velour poncho and kitten heels.</p>
 
 		<figure>
-			<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/bowie-trousers.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/bowie-trousers.jpg" alt=""/>
 			<figcaption>Image from Masayoshi Sukita / David Bowie Archive</figcaption>
 		</figure>
 
@@ -25,7 +25,7 @@
 		<figure class="bakerfact">
 			<a href="#clothes-maketh-the-man" class="toggle-link">
 				<i class="sticker">Tom Baker fact!</i>
-				<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
+				<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
 			</a>
 			<figcaption class="js-hidden" id="clothes-maketh-the-man">In Tom Baker’s autobiography he admits he didn’t really know who he was until he played the Doctor. In later years he apparently took to wearing the outfit full-time. But then, with that outfit, you would wouldn’t you?</figcaption>
 		</figure>
@@ -37,7 +37,7 @@
 		<figure class="bakerfact">
 			<a href="#always-leave-em-wanting-more" class="toggle-link">
 				<i class="sticker">Tom Baker fact!</i>
-				<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
+				<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
 			</a>
 			<figcaption class="js-hidden" id="always-leave-em-wanting-more">Sadly this wasn’t the case with Baker. Arguably the most successful Doctor, he was elbowed out by the 80s and JNT who of course I don’t bear any grudge against at all. Baker chose to leave. Did he fall or was he pushed? Well, he wasn't actually pushed. More sort of 'tipped' off the Pharos Project by the Master. <a href="https://www.youtube.com/watch?v=l3w-BHsXt4I" title="The climax of 'Logopolis'">Haven't you seen Logopolis?</a></figcaption>
 		</figure>
@@ -47,7 +47,7 @@
 		<p>I almost didn’t put the above quote as it’s such an obvious one, but Bowie was all about change. No sooner were people used to one personality than it evolved into another: David Jones, David Bowie, Ziggy Stardust, Aladdin Sane, the Thin White Duke. The music changed as well, sometimes shockingly. A couple of times I’ve bought an album listened to it and wondered whether I actually liked it. Some songs feature ear-bleeding guitar work and a voice so raw, often shouting. He pushed me to enjoy what might initially be disturbing. Of course I eventually loved those songs.</p>
 
 		<figure>
-			<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/david-bowie-doctor-who.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/david-bowie-doctor-who.jpg" alt=""/>
 			<figcaption>It's tricky to establish the origin of this image - <a href="http://tineye.com/">TinEye</a> suggests that <a href="https://plus.google.com/+JonathanSeyghal">Jonathan Seyghal</a> created it, but there's an almost illegible username in the bottom left hand corner</figcaption>
 		</figure>
 
@@ -56,7 +56,7 @@
 		<figure class="bakerfact">
 			<a href="#regeneration" class="toggle-link">
 				<i class="sticker">Tom Baker fact!</i>
-				<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
+				<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
 			</a>
 			<figcaption class="js-hidden" id="regeneration">Regeneration is an obvious link with the Doctor. Regeneration was a stroke of genius, allowing the show to continue when William Hartnell no longer could. The longevity of the programme is entirely due to the main role being able to evolve into a completely different character. Elements of the Dr, as with elements of Bowie, are core. The rest is up for grabs.</figcaption>
 		</figure>
@@ -66,7 +66,7 @@
 		<p>Growing up in a village I have a soft spot for eccentricity. Country life has its fair share of odd-bods. Perhaps because you are expected to follow a set pattern (job, partner, marriage, house, kids etc.) breaking the norm was breaking free. It was also alienating.</p>
 
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/ashes-to-ashes.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/ashes-to-ashes.jpg" alt=""/>
 			<figcaption>Still from the <em>Ashes to Ashes</em> music video</figcaption>
 		</figure>
 
@@ -78,7 +78,7 @@
 		<figure class="bakerfact">
 			<a href="#loner" class="toggle-link">
 				<i class="sticker">Tom Baker fact!</i>
-				<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
+				<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
 			</a>
 			<figcaption class="js-hidden" id="loner">Of course the Doctor is a loner. He’s nomadic and has a series of companions who can never live out his life with him because he’s ageless. No sooner has he got the situation sorted, saved the world, than he leaves again. Baker, too, comes across as a loner in his autobiography. He grows up as a Catholic schoolboy, tries being a monk, an army nurse and working on a building site before he finally gets cast as the Doctor. His portrayal apparently excited <jargon type="BBC"/> staff as he was the first to show the Dr for the alien he really is.</figcaption>
 		</figure>
@@ -87,7 +87,7 @@
 		<p><q>People stared at the make-up on his face...</q></p>
 
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/the-man-who-sold-the-world.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/the-man-who-sold-the-world.jpg" alt=""/>
 			<figcaption>Cover of <em>The Man Who Sold the World</em></figcaption>
 		</figure>
 
@@ -95,7 +95,7 @@
 		<p>Again from the V&amp;A book, it recalls the 1972 <em>Melody Maker</em> when Bowie declared himself gay. This was a big thing as no one had ever publicly outed a British pop musician. Philip Hoare notes all the gay role models before Bowie had been <q cite="https://shop.vam.ac.uk/shop/index/view/David-Bowie-Is-Deluxe-Hardback/119209">patronising</q> Again they <q cite="https://shop.vam.ac.uk/shop/index/view/David-Bowie-Is-Deluxe-Hardback/119209">boxed</q>. Bowie was saying: you can do anything.</p>
 
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/labyrinth.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/labyrinth.jpg" alt=""/>
 			<figcaption>David Bowie, from the film <em>Labyrinth</em></figcaption>
 		</figure>
 
@@ -104,9 +104,9 @@
 		<figure class="bakerfact">
 			<a href="#sexuality" class="toggle-link">
 				<i class="sticker">Tom Baker fact!</i>
-				<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
+				<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
 			</a>
-			<figcaption class="js-hidden" id="sexuality">Asexuality in Doctor Who is a difficult one. Up until Paul McGann, <a href="/charlotte-responds/women-in-the-fourth-doctor-era/" title="Women in the fourth Doctor era">as I’ve discussed elsewhere</a>, there was no Doctor-snog. The Doctor was a man, but an alien. He was hundreds of years old and travelled through space and time, largely on his own. I liked the asexuality of the character. It made him far more interesting. The story was about the concepts and the characters, not the all too human relations that push their way into other sci-fi/adventure stories. Thus for me, New Who is tricky. Ok, it has got a lot more girls watching it. But then I have to push them out of the way to get David Tennant’s autograph and I feel bad elbowing 9 year olds.</figcaption>
+			<figcaption class="js-hidden" id="sexuality">Asexuality in Doctor Who is a difficult one. Up until Paul McGann, <a href="/Dear-Charlotte/charlotte-responds/women-in-the-fourth-doctor-era/" title="Women in the fourth Doctor era">as I’ve discussed elsewhere</a>, there was no Doctor-snog. The Doctor was a man, but an alien. He was hundreds of years old and travelled through space and time, largely on his own. I liked the asexuality of the character. It made him far more interesting. The story was about the concepts and the characters, not the all too human relations that push their way into other sci-fi/adventure stories. Thus for me, New Who is tricky. Ok, it has got a lot more girls watching it. But then I have to push them out of the way to get David Tennant’s autograph and I feel bad elbowing 9 year olds.</figcaption>
 		</figure>
 
 		<h2>6- Defeating your enemies with humour</h2>
@@ -116,7 +116,7 @@
 		<figure class="bakerfact">
 			<a href="#use-of-humour" class="toggle-link">
 				<i class="sticker">Tom Baker fact!</i>
-				<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
+				<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
 			</a>
 			<figcaption class="js-hidden" id="use-of-humour">Of course this is one of the best things about the Doctor. Violence is a last resort. If you can defeat your enemies with intellect, humour and a pan-galactic neutron de-fuser made from paper clips and string, that’s just so much more satisfying than shooting them in the face.</figcaption>
 		</figure>
@@ -125,7 +125,7 @@
 		<p><q>Put on your red shoes and dance the blues.</q></p>
 
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/cobweb.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/cobweb.jpg" alt=""/>
 			<figcaption>Cobweb costume with fake hands by Natasha Korniloff (1973)</figcaption>
 		</figure>
 
@@ -134,7 +134,7 @@
 		<figure class="bakerfact">
 			<a href="#costume-changes" class="toggle-link">
 				<i class="sticker">Tom Baker fact!</i>
-				<img SRC="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
+				<img src="/Dear-Charlotte/img/charlotte-responds/loving-the-alien/peeping-top.png" alt=""/>
 			</a>
 			<figcaption class="js-hidden" id="costume-changes">Not quite the kitten-heels, but I love the Doctor’s wardrobe. Later regenerations ended up with a bit of a ‘uniform’ but the fourth Doctor’s outfit evolved from early red jacket and brogues, to the later dashing adventurer style frock coat with long boots. He even ditched the scarf ensemble in a couple of stories, dressing up as Sherlock Holmes in one story and in a floppy pirate shirt in another. I’m just going to finish here …</figcaption>
 		</figure>

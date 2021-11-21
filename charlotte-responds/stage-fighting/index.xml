@@ -3,7 +3,7 @@
 <page>
 	<meta>
 		<description>An introduction to Doctor Who, part 3: Stage fighting</description>
-		<path>/charlotte-responds/stage-fighting/</path>
+		<path>/Dear-Charlotte/charlotte-responds/stage-fighting/</path>
 	</meta>
 	<content type="main">
 		<h1>Stage fighting</h1>
@@ -12,7 +12,7 @@
 		<p>There are lots of terrible stage jaw punches. The Doctor even knocks Sarah Jane out with one. Normally this is friend-breaking behaviour but her brain has been taken over so apparently that’s totally acceptable. As it hypnotising her afterwards. There’s a whole feminist essay in there.</p>
 
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/charlotte-responds/the-doctor-vs-soltaran.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/charlotte-responds/the-doctor-vs-soltaran.jpg" alt=""/>
 			<figcaption>The Doctor battles a Soltaran in <em>The Sontaran Experiment</em></figcaption>
 		</figure>
 

@@ -3,14 +3,14 @@
 <page>
 	<meta>
 		<description>Series 2 of Blake's 7.</description>
-		<path>/series-2/</path>
+		<path>/Dear-Charlotte/series-2/</path>
 	</meta>
 	<content type="main">
 		<h1>Series 2 of <em>Blake's 7</em></h1>
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/series-2/paul-darrow-and-friend.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/series-2/paul-darrow-and-friend.jpg" alt=""/>
 			<figcaption>Here's a picture of Paul Darrow, while you wait.</figcaption>
 		</figure>
-		<p>After I've reviewed each episode, I'll update this page with something along the lines of what I did at the end of <a href="/series-1/">series one</a>. So nothing to see here yet. Sorry!</p>
+		<p>After I've reviewed each episode, I'll update this page with something along the lines of what I did at the end of <a href="/Dear-Charlotte/series-1/">series one</a>. So nothing to see here yet. Sorry!</p>
 	</content>
 </page>

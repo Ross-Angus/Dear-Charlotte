@@ -3,7 +3,7 @@
 <page>
 	<meta>
 		<description>An introduction to Charlotte's essay and introduction to Doctor Who.</description>
-		<path>/charlotte-responds/</path>
+		<path>/Dear-Charlotte/charlotte-responds/</path>
 	</meta>
 	<content type="main">
 		<h1>Charlotte responds</h1>
@@ -14,7 +14,7 @@
 		</char>
 
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/charlotte-responds/tom-baker.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/charlotte-responds/tom-baker.jpg" alt=""/>
 			<figcaption>Tom Baker</figcaption>
 		</figure>
 		

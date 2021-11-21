@@ -3,7 +3,7 @@
 <page>
 	<meta>
 		<description>Quick character summary of Travis</description>
-		<path>/about-blakes-7/travis/</path>
+		<path>/Dear-Charlotte/about-blakes-7/travis/</path>
 	</meta>
 	<content type="main">
 		<h1>Travis</h1>
@@ -19,7 +19,7 @@
 
 		<p>Travis one has a touch of the public - or at least Grammar - school about him. You could imagine him ordering around his <a href="https://en.wikipedia.org/wiki/Fagging">fags</a> with utter disdain.</p>
 
-		<p>One insight we get into his character is the conversations he has with his Mutoid on the planet's surface during <em><a href="/series-1/episode-8-duel/">Duel</a></em>. He attempts to upset her by talking about who she was before the surgery turned her into a mutoid, but she is uninterested. It almost seems as if he's trying to make a connection with her, albeit in a clumsy way.</p>
+		<p>One insight we get into his character is the conversations he has with his Mutoid on the planet's surface during <em><a href="/Dear-Charlotte/series-1/episode-8-duel/">Duel</a></em>. He attempts to upset her by talking about who she was before the surgery turned her into a mutoid, but she is uninterested. It almost seems as if he's trying to make a connection with her, albeit in a clumsy way.</p>
 
 		<ross>
 			<p>Stephen Greif managed to avoid <em>Doctor Who</em> in the 1970s, but was drafted to provide the voice for Gurney, in 2007's <jargon type="TV"/> movie <em>Doctor Who: The Infinite Quest</em>.</p>
@@ -28,7 +28,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/characters/doctor-who/gurney.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/characters/doctor-who/gurney.jpg" alt=""/>
 				<figcaption>Gurney from <em>Doctor Who: The Infinite Quest</em></figcaption>
 			</figure>
 
@@ -50,7 +50,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/characters/doctor-who/borg.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/characters/doctor-who/borg.jpg" alt=""/>
 				<figcaption>A rare look at Croucher's left eye, playing Borg from <em>The Robots of Death</em></figcaption>
 			</figure>
 

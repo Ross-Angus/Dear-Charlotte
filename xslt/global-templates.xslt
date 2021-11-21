@@ -51,7 +51,7 @@
                     <strong class="logo-terran-federation shape" title="{$logo-name}"><i class="sr-only" itemprop="name"><xsl:value-of select="$logo-name"/></i></strong>
                 </xsl:when>
                 <xsl:otherwise>
-                    <a href="/" class="logo-terran-federation shape" title="Return to home page"><i class="sr-only" itemprop="name"><xsl:value-of select="$logo-name"/></i></a>
+                    <a href="/Dear-Charlotte/" class="logo-terran-federation shape" title="Return to home page"><i class="sr-only" itemprop="name"><xsl:value-of select="$logo-name"/></i></a>
                 </xsl:otherwise>
             </xsl:choose>
         </p>
@@ -76,6 +76,7 @@
 							<xsl:with-param name="url"><xsl:value-of select="$url"/></xsl:with-param>
 						</xsl:call-template>
 						<!-- Child links will only display if this is the current section -->
+						<!-- This is why the navigation isn't working - need to find out how these variables are determined. -->
 						<xsl:if test="descendant-or-self::link[@url = $url]">
 							<xsl:call-template name="next-nav">
 								<xsl:with-param name="url"><xsl:value-of select="$url"/></xsl:with-param>
@@ -95,8 +96,7 @@
 	<xsl:template match="link" name="next-nav">
 		<xsl:param name="url"/>
 		<!-- Is there any child links to write out? -->
-		<xsl:choose>
-		<xsl:when test="link">
+		<xsl:if test="link">
 			<ul>
 				<xsl:for-each select="link">
 					<li>
@@ -109,13 +109,7 @@
 					</li>
 				</xsl:for-each>
 			</ul>
-		</xsl:when>
-		<xsl:otherwise>
-			<ul>
-				<li>No LINK found</li>
-			</ul>
-		</xsl:otherwise>
-		</xsl:choose>
+		</xsl:if>
 	</xsl:template>
 
 	<!--

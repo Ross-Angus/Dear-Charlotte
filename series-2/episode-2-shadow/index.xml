@@ -3,7 +3,7 @@
 <page>
 	<meta>
 		<description>Episode 2: Shadow. Blake tries to cut a deal with the Terra Nostra (space mafia) but fails, then runs away, with a couple of junkies on a drug called 'Shadow'. They go to the planet Zombar, where Shadow is made, so Blake can stop production. Turns out the drug is harvisted from sentient cacti called 'Moon disks' who telepathically help Cally escape from Orac's clutches, because he's been taken over by something called The Darkness.</description>
-		<path>/series-2/episode-2-shadow/</path>
+		<path>/Dear-Charlotte/series-2/episode-2-shadow/</path>
 		<type>episode</type>
 	</meta>
 	<content type="main">
@@ -17,7 +17,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/face-of-evil.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/face-of-evil.jpg" alt=""/>
 				<figcaption>The tribe of Sevateem from <em>Face of Evil</em></figcaption>
 			</figure>
 
@@ -32,7 +32,7 @@
 		</char>
 
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/space-city.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/space-city.jpg" alt=""/>
 			<figcaption><em>Space City</em>, a space city, situated in space.</figcaption>
 		</figure>
 
@@ -67,7 +67,7 @@
 
 		<ross>
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/jacko.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/jacko.jpg" alt=""/>
 				<figcaption>Karl Howman, as Jacko in <em>Brush Strokes</em></figcaption>
 			</figure>
 
@@ -92,7 +92,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/veet.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/veet.jpg" alt=""/>
 				<figcaption>Veet (left) and Goudry (right) from <em>The Sun Makers</em></figcaption>
 			</figure>
 
@@ -100,7 +100,7 @@
 			<p>I digress. The peculiar thing about <em>Sunmakers</em> is it was written as a rant by Holmes who'd been stung by a massive tax bill. So we get the Doctor pitted against a foe who is taxing humanity to death. I kid you not.</p>
 
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/the-sun-makers-hair.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/the-sun-makers-hair.jpg" alt=""/>
 				<figcaption>The Collector plays with the Doctor's hair in <em>The Sun Makers</em></figcaption>
 			</figure>
 
@@ -108,7 +108,7 @@
 		</char>
 
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/rough-guide-to-space-city.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/rough-guide-to-space-city.jpg" alt=""/>
 			<figcaption>The book <em>The Rough Guide to Space City on a budget</em> is full of interesting titbits</figcaption>
 		</figure>
 
@@ -118,7 +118,7 @@
 		<p>He hopes that Jenna's previous encounter with Largo will persuade them to work together. Largo tried to hire Jenna to transport a shipment of Shadow, in her smuggling days, but she refused, for moral reasons. Jenna has a strong suspicion that Largo got her arrested, when she refused to carry Shadow for him. Because if there's one thing organised crime is famous for, it's their unswerving loyalty to those who have wronged them in the past.</p>
 
 		<ross>
-			<p>Gan has moral objections to working with the Terra Nostra, which perhaps discredits <a href="/about-blakes-7/olag-gan/">my elaborate conspiracy theory that he is a psychopath</a>.</p>
+			<p>Gan has moral objections to working with the Terra Nostra, which perhaps discredits <a href="/Dear-Charlotte/about-blakes-7/olag-gan/">my elaborate conspiracy theory that he is a psychopath</a>.</p>
 		</ross>
 
 		<h2>Carried away by a moonlight Shadow</h2>
@@ -127,10 +127,10 @@
 
 		<char>
 			<h2>Sex and drugs and rock and roll</h2>
-			<p>I've already <a href="/series-1/episode-6-seek-locate-destroy/#charlotte-comment-2">noted elsewhere that <em>Nightmare of Eden</em> covers the drug abuse theme</a> (as do others) but I'm not aware of <em>Doctor Who</em> doing much about sexy ladies, at least not in the 70s. They normally turn out to be robots, aliens, or vampires. Or hologrammatic psi-projections of old ladies, as in <em>Pirate</em>.</p>
+			<p>I've already <a href="/Dear-Charlotte/series-1/episode-6-seek-locate-destroy/#charlotte-comment-2">noted elsewhere that <em>Nightmare of Eden</em> covers the drug abuse theme</a> (as do others) but I'm not aware of <em>Doctor Who</em> doing much about sexy ladies, at least not in the 70s. They normally turn out to be robots, aliens, or vampires. Or hologrammatic psi-projections of old ladies, as in <em>Pirate</em>.</p>
 
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/paradise-towers.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/paradise-towers.jpg" alt=""/>
 				<figcaption>One of the robotic cleaners from <em>Paradise Towers</em></figcaption>
 			</figure>
 
@@ -142,7 +142,7 @@
 
 		<ross>
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/wall-boobs.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/wall-boobs.jpg" alt=""/>
 				<figcaption>The tits-and-arse based relief in Largo's lounge</figcaption>
 			</figure>
 
@@ -154,7 +154,7 @@
 			<h2>Inappropriate wallpaper</h2>
 
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/painting-the-tardis.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/painting-the-tardis.jpg" alt=""/>
 				<figcaption>The Doctor wears his painting outfit during <em>Underworld</em></figcaption>
 			</figure>
 
@@ -166,14 +166,14 @@
 		<p>On <em>Space City</em>, Blake, Jenna and Avon negotiate with Largo, while Gan provides a bit of backup muscle by hiding in a corridor and listening to his <a href="https://www.fitbit.com/" title="The fitbit site, because every joke on the Internet about fitbits is dull and predictable">fitbit</a> like a lummox. Blake wants Largo to make introductions to the Terra Nostra on his behalf, but Largo denies the organisation even exists.</p>
 		<p>Avon realises negotiations are pointless but before they can leave, Largo's enforcer comes in, and holds them all at gunpoint. Someone else holds up Gan<note>We never find out who - it's implied that this happens at the same time as the enforcer bursts into Largo's plinth room</note>:</p>
 
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/WoYbh"><a href="//imgur.com/WoYbh"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/WoYbh"><a href="/Dear-Charlotte//imgur.com/WoYbh"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 		<h2>Tearing off a strip</h2>
 		<p>Back on <em>The Liberator</em>, Cally realises that Vila has scarpered. She quizzes Zen about it, and it turns out that Orac is Up To Something, as usual. Cally calls Vila, and it's implied that he's either at a strip show, or with a sex worker or some kind<note>Vila's breathing is rather laboured. Who knows - perhaps he's at the gym.</note>.</p>
 
 		<char>
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/the-adventuress-of-henrietta-street.jpg" alt="The cover of 'The Adventuress of Henrietta Street'"/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/the-adventuress-of-henrietta-street.jpg" alt="The cover of 'The Adventuress of Henrietta Street'"/>
 			</figure>
 
 			<p>Actually I've just remembered, the 8th Doctor sets up home in a brothel in a <em>The Adventuress of Henrietta Street</em> (another spin off novel). There's no funny business at all, despite him looking like Paul McGann. The story is INCOMPREHENSIBLE (not just for that reason).</p>
@@ -185,7 +185,7 @@
 		<h2>Feeling feint</h2>
 		<p>Cally realises that Largo's a wrong 'un and she needs to take action fast: she gets the battle computers on-line, puts up the shield and clears the neutron blasters for firing. Then she contacts central control on <em>Space City</em> and threatens her way to getting Blake and the others released. <em>Space City</em> sends an attack ship after <em>The Liberator</em> and Cally either blows it up, or fires a warning shot (it's not quite clear):</p>
 
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/bsgwn"><a href="//imgur.com/bsgwn"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/bsgwn"><a href="/Dear-Charlotte//imgur.com/bsgwn"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 		<ross>
 			<p>At the end of series one, both Sally Knyvette (Jenna) and Jan Chappell (Cally) <a href="http://www.blakes7online.com/articles.php?article_id=7">felt that their characters hadn't had enough time for development</a>. It's great to see Cally getting a chance to operate <em>The Liberator</em> by herself and fire the neutron blasters for the first time since <em><a href="https://www.dear-charlotte.com/series-1/episode-5-the-web/">The Web</a></em>.</p>
@@ -199,7 +199,7 @@
 		<h2>Think tank</h2>
 		<p>Cally has a weird feeling about Orac and goes hunting for him again. She wanders down a corridor and he gets on the Tannoy again,  whispering <q cite="http://blakes7.wikia.com/wiki/Shadow_(dialogue_transcript)">I - warned you - not - to look - for me</q> then this happens:</p>
 
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/vzMZ9"><a href="//imgur.com/vzMZ9"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/vzMZ9"><a href="/Dear-Charlotte//imgur.com/vzMZ9"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 		<ross>
 			<p>This is by far my favourite <jargon type="TMS"/> of the series so far. It makes a nice comparison between Orac and a cage, it's visually interesting and has a witty ending, where it cuts from Orac saying <q cite="http://blakes7.wikia.com/wiki/Shadow_(dialogue_transcript)">I warned you not to look for me</q> to Largo saying <q cite="http://blakes7.wikia.com/wiki/Shadow_(dialogue_transcript)">I know where to look for them, chairman</q>.</p>
@@ -218,11 +218,11 @@
 
 		<char>
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/scientist-the-war-games.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/scientist-the-war-games.jpg" alt=""/>
 				<figcaption>The unnamed scientist from <em>The War Games</em> (top), played by Verdon Dobtcheff</figcaption>
 			</figure>
 			<p><em>The War Games</em>, as you quite correctly point out, is the second Doctor's final story. As such it's a little off my radar but here are my thoughts anyway because never pass up the opportunity to waffle about your specialist subject.</p>
-			<p>It's a strange story about attempting to take over the galaxy using soldiers from earth, who are stolen from their respective time zones and forced to fight in simulations, so the cream of the warriors can be picked out. This sort of 'survival / selection of the fittest' is a theme <em>Who</em> returns to a few times. I've already mentioned <a href="/series-1/episode-11-bounty/#charlotte-comment-3"><em>Greatest Show</em></a> and indeed <em>Face of Evil</em> covers it too.</p>
+			<p>It's a strange story about attempting to take over the galaxy using soldiers from earth, who are stolen from their respective time zones and forced to fight in simulations, so the cream of the warriors can be picked out. This sort of 'survival / selection of the fittest' is a theme <em>Who</em> returns to a few times. I've already mentioned <a href="/Dear-Charlotte/series-1/episode-11-bounty/#charlotte-comment-3"><em>Greatest Show</em></a> and indeed <em>Face of Evil</em> covers it too.</p>
 			<p>For me the striking point is we first find out the Doctor's true relationship with the Time Lords. It turns out he nicked the <jargon type="TARDIS"/> and ran off because he didn't like their policy of non-intervention. From this point on, the Time Lords like to use the Doctor to do their dirty work, like those curtain twitchers who notice you've parked in the wrong place or chained your bike up or put something on your balcony they don't like and don't tell you to your face, but instead put a laminated notice through your door and watch you while you're reading it.</p>
 			<p>The Time Lords also choose the Doctor's next appearance (whole essay in there) and banish him to Earth, where he regenerates into Jon Pertwee and colour <jargon type="TV"/>.</p>
 		</char>
@@ -236,7 +236,7 @@
 		<h2>Colonel Mustard, with the poison, in the lounge</h2>
 
 		<figure class="img-r">
-			<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/death-by-mustard.jpg" alt=""/>
+			<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/death-by-mustard.jpg" alt=""/>
 			<figcaption>Largo's mustardy death</figcaption>
 		</figure>
 
@@ -247,13 +247,13 @@
 			<p>We don't know <em>how</em> Largo was killed, but it involves a disgusting yellow fluid coming out of his mouth. Unless he was killed while eating.</p>
 		</ross>
 
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/0LWi6"><a href="//imgur.com/0LWi6"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/0LWi6"><a href="/Dear-Charlotte//imgur.com/0LWi6"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 		<h2>Cruise control</h2>
 		<p>On board <em>The Liberator</em>, Vila leaves the teleporter unattended, while he gets something for his head. Gan complains, so Vila switches on Orac, so he can watch it instead. </p>
 		<p>We get another <jargon type="TMS"/> of Cally, where Orac tells her she is alone and he is <em>The Darkness</em>:</p>
 
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/QnS2w"><a href="//imgur.com/QnS2w"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/QnS2w"><a href="/Dear-Charlotte//imgur.com/QnS2w"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 		<p>Cally runs to the teleporter and Orac teleports her down to Zombar. She carries on running once she reaches the planet surface.</p>
 		<p>Blake, Jenna and Avon come across a small pond, which has more moon disks around it, plus some equipment which looks a bit like space parasols. Jenna says she can hear them singing again.</p>
@@ -276,17 +276,17 @@
 		<h2>A View from the Bridge</h2>
 		<p>Vila goes to turn off Orac, but gets an electric shock from his <q cite="http://blakes7.wikia.com/wiki/Shadow_(dialogue_transcript)">key</q><note>I suppose in modern terms, we might be tempted to call it a <q>dongle</q>. Well, <em>I</em> would anyway.</note>. Orac tells him <q cite="http://blakes7.wikia.com/wiki/Shadow_(dialogue_transcript)">You will not disconnect. The bridge is almost complete</q>.</p>
 
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/UYNao"><a href="//imgur.com/UYNao"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/UYNao"><a href="/Dear-Charlotte//imgur.com/UYNao"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 		<h2>Silver service</h2>
 		<p>Blake, Jenna and Avon are listlessly wandering about, sticking sensors in the ground like a more-exciting-than-average version of <em>Gardener's World</em> when a man in a silver suit starts watching them from a nearby dune. Avon's not too happy about this. Look:</p>
 
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/mLXJz"><a href="//imgur.com/mLXJz"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/mLXJz"><a href="/Dear-Charlotte//imgur.com/mLXJz"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 		<h2>Get busy with the fizzy</h2>
 		<p>Orac announces <q cite="http://blakes7.wikia.com/wiki/Shadow_(dialogue_transcript)">the bridge is complete</q> and <em>The Liberator</em> immediately starts to lose power from all systems and fall into the gravity well of the planet. Gan implores Vila to do something, but apparently he prefers a death where he impacts on the surface of Zombar to getting another shock from Orac. Floppy Hanna steps up and high-fives Orac's power switch and gets zapped TO A FIZZY STATIC DEATH:</p>
 
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/upJCk"><a href="//imgur.com/upJCk"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/upJCk"><a href="/Dear-Charlotte//imgur.com/upJCk"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 		<p>Orac <em>hates</em> high-fives.</p>
 		<p><em>The Liberator</em>'s speed increases, to the point where a VIDEO EFFECT is used, and everyone's pushed into the soft-furnishings.</p>
@@ -294,7 +294,7 @@
 		<h2>The ghost in the machine</h2>
 		<p>Cally's surrounded by Moon Disks, some of which have clambered onto of her, like eager kittens. A sort of ghost version of her steps out from her body and speaks to them with telepathy<note>Coincidentally, <q>Cally and the Moon Disks</q> is also the name of my prog-rock band</note>:</p>
 
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/MCx1T"><a href="//imgur.com/MCx1T"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/MCx1T"><a href="/Dear-Charlotte//imgur.com/MCx1T"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 		<p>There's a lot of guff about Cally being in The Darkness's dimension, Orac's carrier waves, bridges and energy.</p>
 
@@ -305,14 +305,14 @@
 			<p>That said, for a children's show (there, I've said it) it didn't shy away from horror or surrealism. A favourite sequence for many is <a href="https://youtu.be/_7QiQUFQ53U?t=2m14s">the Tardis exploding in <em>the Mind Robber</em></a>. (For some the attraction may be Zoe's sparkly bottom spinning off into space.)</p>
 
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/warriors-gate-coin.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/warriors-gate-coin.jpg" alt=""/>
 				<figcaption>Adric tosses a coin in <em>Warriors Gate</em></figcaption>
 			</figure>
 
 			<p>Moving into the Douglas Adams and John Nathan-Turner eras, <em>Doctor Who</em> got a lot weirder. <em>Warriors Gate</em> is surely bewildering for most adults, let alone kids. Lots of scenes of Adric flipping a coin in a white vacuum. Psychic lions. <q>Daddy what's Dwarf Star alloy?</q> <q>How the hell should I know, son?</q></p>
 
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/the-land-of-dreams-and-fantasy.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/the-land-of-dreams-and-fantasy.jpg" alt=""/>
 				<figcaption>Leela and the Doctor from <em>The Invisible Enemy</em></figcaption>
 			</figure>
 
@@ -323,7 +323,7 @@
 			</ol>
 
 			<figure class="img-r">
-				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/gallifreyan-prison-wear.jpg" alt=""/>
+				<img src="/Dear-Charlotte/img/series-2/episode-2-shadow/gallifreyan-prison-wear.jpg" alt=""/>
 				<figcaption>Gallifreyan prison uniform</figcaption>
 			</figure>
 
