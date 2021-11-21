@@ -7,9 +7,9 @@
 
 	<xsl:template match="/">
 		<html itemscope="" itemtype="http://schema.org/WebPage" class="no-js">
-			<xsl:apply-templates select="/Dear-Charlotte/page/meta" mode="lang"/>
+			<xsl:apply-templates select="/page/meta" mode="lang"/>
 			<head>
-				<xsl:apply-templates select="/Dear-Charlotte/page/meta" mode="meta">
+				<xsl:apply-templates select="/page/meta" mode="meta">
 					<xsl:with-param name="url"><xsl:value-of select="/page/meta/path"/></xsl:with-param>
 				</xsl:apply-templates>
 				<link rel="stylesheet" href="/Dear-Charlotte/css/main.css"/>
