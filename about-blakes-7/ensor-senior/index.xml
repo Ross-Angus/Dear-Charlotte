@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Quick character summary of Ensor Senior</description>
@@ -23,7 +23,7 @@
 		
 		<ross>
 			<figure class="img-r">
-				<img src="/img/characters/terry-nation/terry-nation-early.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/characters/terry-nation/terry-nation-early.jpg" alt=""/>
 			</figure>
 			<p>Terry Nation started work as a scriptwriter when he was twenty-five years old. Initially, he worked in comedy, producing scripts for Spike Milligan, Peter Sellers, Frankie Howerd and Tony Hancock.</p>
 			<p>The scriptwriter David Whitaker contacted Nation, to offer him work on a <jargon type="sci-fi"/> show which was in development at the <jargon type="BBC"/>.</p>
@@ -35,7 +35,7 @@
 		<ross>
 			<p>Nation's professional relationship with Tony Handcock broke down in 1963, following an argument. He contacted Whitaker and agreed to write for the show, eventually producing the second story for <em>Doctor Who</em>, <em>The Daleks</em>. The Daleks quickly became the series' most popular villains. Indeed, many credit Nation's scripts as saving the show from cancellation and winning over the hearts of the public.</p>
 			<figure class="img-r">
-				<img src="/img/characters/terry-nation/terry-nation-tom-baker.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/characters/terry-nation/terry-nation-tom-baker.jpg" alt=""/>
 			</figure>
 			<p>Because Nation wasn't employed by the <jargon type="BBC"/> as a staff writer, he retained copyright of the Daleks. When they exploded in popularity, a deal was struck where the merchandising royalties for Dalek products were split evenly between the <jargon type="BBC"/> and Terry Nation. This meant he was comfortably off for the rest of his life, but also allowed him to control exactly how the Daleks were depicted<note>One of the few times he authorised <a href="https://www.youtube.com/watch?v=C0n88tZQc4Q" title="Spike Milligan was kind of a genius, but this sketch is rubbish.">the use of Daleks for comic effect was for Spike Milligan</a>, who gave him an early break in his writing career.</note>.</p>
 			<p>Nation produced many more scripts for <em>Doctor Who</em>, creating other adversaries for The Doctor to defeat with his cunning and guile. But Nation also contributed scripts to shows such as <em>The Avengers</em>, <em>The Baron</em>, <em>The Champions</em>, <em>Department S</em>, <em>The Persuaders!</em> and <em>The Saint</em>.</p>
@@ -46,7 +46,7 @@
 			<p>It is interesting that a writer known largely for comedy should create one of the most successful and brutal monsters in Doctor Who. <note>There were some brave decisions taken with the early show, perhaps because no-one knew whether it would last. For example, casting Hartnell, who was known for heavy men and army generals, as a children’s hero.</note></p>
 
 			<figure class="img-r">
-				<img src="/img/characters/terry-nation/movellans.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/characters/terry-nation/movellans.jpg" alt=""/>
 				<figcaption>Movellans from <em>Destiny of the Daleks</em></figcaption>
 			</figure>
 			
@@ -88,7 +88,7 @@
 		
 		<ross>
 			<figure class="img-r">
-				<img src="/img/characters/terry-nation/terry-nation-late.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/characters/terry-nation/terry-nation-late.jpg" alt=""/>
 			</figure>
 			<p>Nation enjoyed the lifestyle in Los Angeles and within television circles was respected. He attended fan conventions and saw first-hand the impact his work had had on people.</p>
 			<p>Unfortunately, there's little to show for Terry Nation's remaining seventeen years in Los Angeles. He wrote scripts for <em>MacGyver</em> and a <jargon type="TV"/> movie.</p>

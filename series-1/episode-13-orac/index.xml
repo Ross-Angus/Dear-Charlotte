@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 13: Orac. The Liberator turns up at Aristo, where Ensor senior lives. Everyone who went playing on the planet last week is riddled with radiation, and The Liberator is out of drugs. Servalan and Travis arrive first and start making their way through some tunnels to Ensor, to bypass the security. Blake and Cally teleport down and get to come in the front door because they're POLITE. They collect Ensor, Orac (which is a perspex supercomputer) and some anti-radiation drugs, and leave, pursued by Servalan and Travis. Luckily Avon's teleported down too, so Travis' ambush doesn't work. Orac predicts the destruction of a ship which looks suspiciously like The Liberator.</description>
@@ -15,7 +15,7 @@
 		<p>Blake has suspicions about the crash of Ensor Jr.'s ship, so plays back his own flight log, ostensibly for Avon's benefit. This means we get a complete recap of <a href="/series-1/episode-12-deliverance/">the previous episode</a>, in case we missed it. This definitely won't happen again.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-13-orac/tricorder.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-13-orac/tricorder.jpg" alt=""/>
 			<figcaption>Cally checks Avon for sarcasm. The readings are off the chart.</figcaption>
 		</figure>
 
@@ -41,7 +41,7 @@
 
 		<ross>
 			<figure class="img-r">
-				<img src="/img/series-1/episode-13-orac/star-maidens.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-13-orac/star-maidens.jpg" alt=""/>
 				<figcaption>Gareth <q>Badger</q> Thomas</figcaption>
 			</figure>
 			<p>Derek Farr, who played Ensor Sr., wasn't in <em>Doctor Who</em>, but <em>was</em> in a show I hadn't heard of, until I was researching this episode: <a href="https://www.youtube.com/watch?v=vaDLf2wJ9Jg" title="The opening titles of 'Star Maidens', I guess?"><em>Star Maidens</em></a>. It's 1970s <jargon type="sci-fi"/>, the twist being that a planet with a matriarchal society strays into our solar system and gets up to shenanigans with Earth. It also starred Gareth Thomas (Blake), sporting a dramatic poliosis.</p>
@@ -102,7 +102,7 @@
 		
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-1/episode-13-orac/planet-of-evil-drone.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-13-orac/planet-of-evil-drone.jpg" alt=""/>
 				<figcaption>The drone from <em>Planet of Evil</em></figcaption>
 			</figure>
 			<p>I love a remote drone. There's one in <em>Planet of Evil</em> (a rather excellent Jekyll and Hyde rip). Other than being a bit like an irritating, mobile <jargon type="CCTV"/> I can't see why they're terrifying.  Its like persistent wasps who want your ice cream. Or trying to run along a pavement dodging kids on wheels. (Trainers with wheels. On a five year old. When did that become a good idea?)</p>
@@ -116,7 +116,7 @@
 		<p>Blake and Cally find Ensor's greenhouse and he grumpily greets them, under the misconception that they are medics. Cally recounts the plot of <em>Deliverance</em> a <em>third</em> time, because it's possible that some of the audience weren't following what was going on, because they were thinking about <q>Wuthering Heights</q> by Kate Bush. Ensor points Cally toward the decontamination drugs.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-13-orac/orac.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-13-orac/orac.jpg" alt=""/>
 			<figcaption>The power of perspex: Orac is finally shown.</figcaption>
 		</figure>
 
@@ -147,7 +147,7 @@
 		</ross>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-13-orac/hairy-hand.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-13-orac/hairy-hand.jpg" alt=""/>
 			<figcaption>Travis' weird hairy hand</figcaption>
 		</figure>
 
@@ -161,7 +161,7 @@
 			<h2>Swiss Army hand</h2>
 
 			<figure class="img-r">
-				<img src="/img/series-1/episode-13-orac/loaded-finger.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-13-orac/loaded-finger.jpg" alt=""/>
 				<figcaption>The Astronauts from <em>The Android Invasion</em></figcaption>
 			</figure>
 
@@ -182,7 +182,7 @@
 		<char>
 
 			<figure class="img-r">
-				<img src="/img/series-1/episode-13-orac/the-captain-pirate-planet.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-13-orac/the-captain-pirate-planet.jpg" alt=""/>
 				<figcaption>The Captain from <em>The Pirate Planet</em></figcaption>
 			</figure>
 

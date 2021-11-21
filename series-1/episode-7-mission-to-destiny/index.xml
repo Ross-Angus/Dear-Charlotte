@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 7: Mission to Destiny. The Liberator finds a striken ship circling in space and finds the crew unconscious. They recover and Avon and Cally investigate the murders of various crew members while Blake races to the Destiny, the ship's home planet, with a device which may save their people. Avon and Cally uncover the murderer and Blake discovers that the device isn't on The Liberator after all, so he returns just in time to save the crew from the murderous buyers of the device.</description>
@@ -11,7 +11,7 @@
 		<p>In the last episode, Blake and his gang stole a cypher machine, exploded a Federation base and we met Servalan and Travis. But that has no bearing on <em>this</em> episode whatsoever.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-7-mission-to-destiny/glaxy-class-cruiser-ortega.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-7-mission-to-destiny/glaxy-class-cruiser-ortega.jpg" alt=""/>
 			<figcaption><em>This</em> is what I signed up for: <a href="https://en.wikipedia.org/wiki/Scratch_building">scratch-built</a> spaceship models.</figcaption>
 		</figure>
 

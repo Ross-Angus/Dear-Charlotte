@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 9: Project Avalon. Travis captures Avalon, a resistance leader who is trying to liberate an ice planet. He knows Blake will try and free Avalon, so he sets up a trap involving a tiny pink ball of death. Blake, Vila, Cally and Chevner (another member of the resistance) break Avalon out of jail with apparent ease, but Blake realises that it's a trap. Avalon turns out to be a robot so Avon reprograms her and Blake uses her to extract the real Avalon.</description>
@@ -10,7 +10,7 @@
 		<h1>Episode 9: Project Avalon</h1>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-9-project-avalon/travis-in-a-cave.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-9-project-avalon/travis-in-a-cave.jpg" alt=""/>
 			<figcaption>Hey Travis. <em>Travis</em>. Travis. TRAVIS. Travis: What do you call a big prick in a cave? A stalactite. A ha ha ha ha ha ha ha oh God, I'm so lonely.</figcaption>
 		</figure>
 
@@ -70,7 +70,7 @@
 		<ross>
 
 			<figure class="img-r">
-				<img src="/img/series-1/episode-9-project-avalon/yts-mutoid.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-9-project-avalon/yts-mutoid.jpg" alt=""/>
 				<figcaption>Travis' <jargon type="YTS"/> Mutoid</figcaption>
 			</figure>
 		
@@ -96,7 +96,7 @@
 		</biog>
 		
 		<ross>
-			<a href="/img/series-1/episode-9-project-avalon/levett-hope-poster.svg" class="img-r" title="Download the poster in SVG format"><img src="/img/series-1/episode-9-project-avalon/levett-hope-poster.png" alt=""/></a>
+			<a href="/img/series-1/episode-9-project-avalon/levett-hope-poster.svg" class="img-r" title="Download the poster in SVG format"><img SRC="/Dear-Charlotte/img/series-1/episode-9-project-avalon/levett-hope-poster.png" alt=""/></a>
 			<h2>Casting call</h2>
 			<p>Avalon's supposed to be this great inspirational figure, who's set up rebellion cells on multiple worlds, but you wouldn't know it from Julia Vidler's performance. I'm concerned that the casting criteria was <q>will look good with her erogenous zones covered with thin strips of bandage, while getting a strobe light to the face</q><note>I've since learnt that Julia Vidler was in the original running for the character of Jenna.</note>.</p>
 			<p>A much better choice (in my opinion) would have been Kate Coleridge, who played <a href="/series-1/episode-7-mission-to-destiny/#levett">Levett</a> in <em>Mission to Destiny</em>: she barely gets two lines, but makes it quite clear that she takes no nonsense from anyone.</p>
@@ -171,7 +171,7 @@
 		<ross>
 
 			<figure class="img-r">
-				<img src="/img/series-1/episode-9-project-avalon/sarah-android.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-9-project-avalon/sarah-android.jpg" alt=""/>
 				<figcaption>One more crack about Doctor Who and I'll wipe that smile off your face.</figcaption>
 			</figure>
 			
@@ -188,7 +188,7 @@
 		<p>Blake wants Avon to reprogram the Avalon-bot for something, then returns to the <em>Sparkletown</em> so they can rescue the meat-and-bones Avalon. He teleports down and Travis threatens to shoot him, with his weird old lady ring, but Blake's got that pink ball of McGuffin, and Travis doesn't want to break it.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-9-project-avalon/hot-pink-pursuit-ships.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-9-project-avalon/hot-pink-pursuit-ships.jpg" alt=""/>
 			<figcaption>This season's hot pink Pursuit ships</figcaption>
 		</figure>
 

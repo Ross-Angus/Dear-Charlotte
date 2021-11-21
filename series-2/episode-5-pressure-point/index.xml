@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 5: Pressure Point</description>
@@ -39,7 +39,7 @@
 		<p>Onboard <em>The Liberator</em>, there's been another costume change. The cast are all done up like this:</p>
 
 		<figure>
-			<img src="/img/cast-photo.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/cast-photo.jpg" alt=""/>
 			<figcaption>I especially like Vila's outfit, which subtly suggests he's the jester.</figcaption>
 		</figure>
 
@@ -57,7 +57,7 @@
 		<p>Blake won't ask any of his crew to accompany him, because the operation is too dangerous. Instead, he's contacted Kasabi, a resistance leader on Earth and supervisor to the two mannequins we watched getting exploded at the start of the episode.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-2/episode-5-pressure-point/cctv-owl.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-2/episode-5-pressure-point/cctv-owl.jpg" alt=""/>
 			<figcaption>Like a robotic, cyclops owl: The Federation <jargon type="CCTV"/> camera</figcaption>
 		</figure>
 		<p>Meanwhile, on Earth, <a href="http://www.imdb.com/name/nm2228384/">Veron</a> (a resistance fighter) asks <a href="http://www.imdb.com/name/nm1519700/">Kasabi</a> (her mother) about Arle and Berg. Kasabi is not optimistic. Kasabi and her troop of olive drab revolutionaries have arranged to meet Blake at the outskirts of the forbidden zone. They move off. A Federation <jargon type="CCTV"/> camera watchens them from a nearby tree, like a cheeky owl.</p>

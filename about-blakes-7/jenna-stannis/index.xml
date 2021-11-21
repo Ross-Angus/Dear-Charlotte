@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Quick character summary of Jenna Stannis</description>
@@ -21,7 +21,7 @@
 		<p>Jenna used to be a smuggler and is an excellent pilot, consorting with <a href="/series-1/episode-11-bounty/#tarvin">Tarvin</a>, who we meet during <a href="/series-1/episode-11-bounty/">Bounty</a>.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-8-duel/up-a-tree-in-duel.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-8-duel/up-a-tree-in-duel.jpg" alt=""/>
 			<figcaption>Jenna and Blake spend the night up a tree during <em>Duel</em>.</figcaption>
 		</figure>
 

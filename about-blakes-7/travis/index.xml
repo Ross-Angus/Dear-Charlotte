@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Quick character summary of Travis</description>
@@ -28,7 +28,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img src="/img/characters/doctor-who/gurney.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/characters/doctor-who/gurney.jpg" alt=""/>
 				<figcaption>Gurney from <em>Doctor Who: The Infinite Quest</em></figcaption>
 			</figure>
 
@@ -50,7 +50,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img src="/img/characters/doctor-who/borg.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/characters/doctor-who/borg.jpg" alt=""/>
 				<figcaption>A rare look at Croucher's left eye, playing Borg from <em>The Robots of Death</em></figcaption>
 			</figure>
 

@@ -1,5 +1,5 @@
 <!DOCTYPE xsl:stylesheet [
-	<!ENTITY global-path '/data/global.xml'>
+	<!ENTITY global-path '/Dear-Charlotte/data/global.xml'>
 ]>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:import href="global-templates.xslt"/>
@@ -7,17 +7,17 @@
 
 	<xsl:template match="/">
 		<html itemscope="" itemtype="http://schema.org/WebPage" class="no-js">
-			<xsl:apply-templates select="/page/meta" mode="lang"/>
+			<xsl:apply-templates select="/Dear-Charlotte/page/meta" mode="lang"/>
 			<head>
-				<xsl:apply-templates select="/page/meta" mode="meta">
+				<xsl:apply-templates select="/Dear-Charlotte/page/meta" mode="meta">
 					<xsl:with-param name="url"><xsl:value-of select="/page/meta/path"/></xsl:with-param>
 				</xsl:apply-templates>
-				<link rel="stylesheet" href="/css/main.css"/>
-				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
-				<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32"/>
-				<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16"/>
-				<link rel="manifest" href="/manifest.json"/>
-				<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"/>
+				<link rel="stylesheet" href="/Dear-Charlotte/css/main.css"/>
+				<link rel="apple-touch-icon" sizes="180x180" href="/Dear-Charlotte/apple-touch-icon.png"/>
+				<link rel="icon" type="image/png" href="/Dear-Charlotte/favicon-32x32.png" sizes="32x32"/>
+				<link rel="icon" type="image/png" href="/Dear-Charlotte/favicon-16x16.png" sizes="16x16"/>
+				<link rel="manifest" href="/Dear-Charlotte/manifest.json"/>
+				<link rel="mask-icon" href="/Dear-Charlotte/safari-pinned-tab.svg" color="#5bbad5"/>
 				<meta name="theme-color" content="#000000"/>
 				<!--[if lt IE 9]>
 				<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>

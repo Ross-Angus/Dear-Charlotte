@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 3: Cygnus Alpha. Blake, Jenna and Avon get to Cygnus Alpha, which turns out to be the home of a cult. Gan and Vila fall ill and are given an antidote by the monks, but they need to keep taking it for the rest of their lives. Blake beams down and is captured. There's a big duff-up and everyone plus the cult leader ends up on The Liberator. The cult leader gets beamed into space and RUDDY EXPLODES.</description>
@@ -40,7 +40,7 @@
 		<ross>
 		
 			<figure class="img-r">
-				<img src="/img/series-1/episode-3-cygnus-alpha/gravel-pit.jpg" height="120" width="120" alt="Blake, pursued by evil monks, tries to escape up a gravel pit"/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-3-cygnus-alpha/gravel-pit.jpg" height="120" width="120" alt="Blake, pursued by evil monks, tries to escape up a gravel pit"/>
 			</figure>
 
 			<h2>This is the pits</h2>
@@ -52,7 +52,7 @@
 		
 		<p>The prisoners spot this castle:</p>
 		<figure>
-			<img src="/img/series-1/episode-3-cygnus-alpha/early-maniac.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-3-cygnus-alpha/early-maniac.jpg" alt=""/>
 			<figcaption>Vila memorably describes the architectural style as <q>Early maniac</q></figcaption>
 		</figure>
 		<p>They <a href="/charlotte-responds/weird-cults/">meet some cultist</a> one of whom is a SEXY LADY<note>She's called <q>Kara</q> and doesn't have a page on the <a href="http://blakes7.wikia.com/">Blake's 7 Wiki</a>. This is sad.</note>. Then she kisses Gan. Because of course she does.</p>
@@ -79,7 +79,7 @@
 		
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-1/episode-3-cygnus-alpha/nicola-bryant-as-peri.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-3-cygnus-alpha/nicola-bryant-as-peri.jpg" alt=""/>
 				<figcaption>Nicola Bryant as Peri</figcaption>
 			</figure>
 			<p>Brian Blessed did in fact turn up in the later Colin Baker era (no relation, less hair) as King Ycarnos. The companion at the time was Peri, played by the very beautiful Nicola Bryant. Because the story is set in a Time Lord trial, her character has two alternative endings:</p>

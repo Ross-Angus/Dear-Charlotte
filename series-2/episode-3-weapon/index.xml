@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 3: Weapon. Coser, a weapon scientist and Rashel, an ex-slave, run away from the Federation with Imipak, a creepy weapon. Servalan wants Imipak and intends to use a clone of Blake to persuade Coser to hand it over. Blake wants it too and they all end up on the same planet together, marked for death by Imipak. Luckily, clone Blake and Rashel pinch Imipak and promise not to use it, in exchange for being ignored.</description>
@@ -15,7 +15,7 @@
 		<p>BOSH! The episode starts with a Spacemaster 5 blowing up on an unnamed planet's surface<note>What is it with the special effects teams and <a href="http://imgur.com/gallery/xnyX4Jc">blowing up Spacemaster 5's all to hell</a>?</note>. Coser and Rashel watch, from some nearby wheat. They're faking their own deaths, because they're on the lam from the Federation.</p>
 
 		<figure>
-			<img src="/img/series-2/episode-3-weapon/eno-coser.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-2/episode-3-weapon/eno-coser.jpg" alt=""/>
 			<figcaption>Eno (left) and Coser (right), his evil twin.</figcaption>
 		</figure>
 
@@ -36,14 +36,14 @@
 		<char>
 			<h3>Invasion of the Dinosaurs</h3>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-3-weapon/general-finch.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-3-weapon/general-finch.jpg" alt=""/>
 				<figcaption>John Bennett played General Finch in <em>Invasion of the Dinosaurs</em></figcaption>
 			</figure>
 			<p><em>Invasion of the Dinosaurs</em> is classic Pertwee era: an earth bound story with monsters invading <q>somewhere in the south of England</q>. In this case: London. Apparently aliens in the 70s just couldn't keep their claws / prongs / mandibles / suckers off earth. They loved a bit of it. No one ever remembers these invasions, but then it was the 70s I suppose. The story also features <jargon type="UNIT"/>, a sort of quasi military group the Doctor hangs out with a lot in this period. (The fourth Doctor doesn't seem as interested, preferring to mooch about space being grumpy.) I like the story, which involves a plan to revert London to pre-technology, but it's fair to say the dinosaurs look just the tiniest bit unrealistic.</p>
 
 			<h3>Talons of Weng Chiang</h3>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-3-weapon/li-h-sen-chang.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-3-weapon/li-h-sen-chang.jpg" alt=""/>
 				<figcaption>John Bennett played Li H'sen Chang in <em>The Talons of Weng-Chiang</em></figcaption>
 			</figure>
 
@@ -147,7 +147,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-3-weapon/duplicate-doctor.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-3-weapon/duplicate-doctor.jpg" alt=""/>
 				<figcaption>The Doctor and his duplicate android fight, during <em>The Android Invasion</em></figcaption>
 			</figure>
 
@@ -197,7 +197,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-3-weapon/maximillian-stael.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-3-weapon/maximillian-stael.jpg" alt=""/>
 				<figcaption>Maximillian Stael (left) from <em>Image of the Fendahl</em></figcaption>
 			</figure>
 
@@ -206,7 +206,7 @@
 			<h3>Day of the Daleks</h3>
 
 			<figure class="img-r">
-				<img src="/img/series-2/episode-3-weapon/boaz.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-3-weapon/boaz.jpg" alt=""/>
 				<figcaption>Boaz (centre) from <em>Day of the Daleks</em></figcaption>
 			</figure>
 
@@ -279,7 +279,7 @@
 			<p>You might be quite reasonably wondering why I'm showing you the official Federation database entry for such a minor character. I have many (three) reasons:</p>
 
 			<figure class="img-r">
-				<img src="/img/series-2/episode-3-weapon/hiker.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-3-weapon/hiker.jpg" alt=""/>
 				<figcaption>The unnamed hiker from <em>Image of the Fendahl</em></figcaption>
 			</figure>
 
@@ -392,7 +392,7 @@
 		<p>Blake figures that if he leaves, Servalan will kill him, so he intends to use the planet as a shield between Servalan and <em>The Liberator</em>. It's a desperate move.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-2/episode-3-weapon/imipak-standoff.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-2/episode-3-weapon/imipak-standoff.jpg" alt=""/>
 			<figcaption>Rashel and Fake Blake, in a stand-off with Travis</figcaption>
 		</figure>
 
@@ -402,7 +402,7 @@
 		<p><em>The Liberator</em> has hit a mine, trying to get behind the planet. Zen starts repairing the damage, but warns the crew that pursuit ships are inbound. Blake manages to escape from <em>British Home Stores</em>'s gravity well.</p>
 
 		<figure class="img-l">
-			<img src="/img/series-2/episode-3-weapon/servalan-moment.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-2/episode-3-weapon/servalan-moment.jpg" alt=""/>
 			<figcaption>Servalan is complemented by Carnell</figcaption>
 		</figure>
 

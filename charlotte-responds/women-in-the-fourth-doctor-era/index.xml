@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>An introduction to Doctor Who, part 7: Women in the fourth Doctor era</description>
@@ -11,7 +11,7 @@
 		<p>And on to my specialist subject...</p>
 
 		<figure class="img-r">
-			<img src="/img/charlotte-responds/katy-manning.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/katy-manning.jpg" alt=""/>
 			<figcaption>Katy Manning</figcaption>
 		</figure>
 
@@ -20,7 +20,7 @@
 		<p>Tom Baker is a big man. Seriously. He’s door sized. I’ve met him twice. It’s hard to imagine a man of his size being in any sort of serious peril. So in this era there are a lot more baddies who are defeated by intellect. Mad scientists, mad millionaires, mad computers. And there are some awesome lady villains too. Eldrad, before she turns into STEPHEN THORNE, is played by a stunningly tall, very sexy lady who somehow manages not to be sexualised. She tricks the Doctor’s arse into taking her back to her dead planet. Then there’s lady Adrasta with her psycho-grandma side-kick. And the goodies too, like the Thal Bettan in <em>Genesis</em>. She’s well-ard. Yeah, go the girls.</p>
 
 		<figure>
-			<img src="/img/charlotte-responds/tom-baker-fans.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/tom-baker-fans.jpg" alt=""/>
 			<figcaption>Tom Baker in Northern Ireland</figcaption>
 		</figure>
 
@@ -30,7 +30,7 @@
 		<h2>Sarah-Jane</h2>
 
 		<figure class="img-r">
-			<img src="/img/charlotte-responds/sarah-jane.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/sarah-jane.jpg" alt=""/>
 			<figcaption>Sarah-Jane</figcaption>
 		</figure>
 
@@ -41,7 +41,7 @@
 		<h2>Leela</h2>
 
 		<figure class="img-r">
-			<img src="/img/charlotte-responds/leela.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/leela.jpg" alt=""/>
 			<figcaption>Leela</figcaption>
 		</figure>
 
@@ -50,7 +50,7 @@
 		<h2>Romanas 1 and 2</h2>
 
 		<figure class="img-r">
-			<img src="/img/charlotte-responds/romana1.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/romana1.jpg" alt=""/>
 			<figcaption>Romana (played by Mary Tamm)</figcaption>
 		</figure>
 
@@ -58,7 +58,7 @@
 		<p>So Mary Tamm regenerates into Lalla Ward. Tom Baker is very happy about this.</p>
 
 		<figure class="img-r">
-			<img src="/img/charlotte-responds/romana2.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/romana2.jpg" alt=""/>
 			<figcaption>Romana (played by Lalla Ward)</figcaption>
 		</figure>
 
@@ -69,7 +69,7 @@
 		<p>Nyssa. Tegan. Adric.</p>
 
 		<figure>
-			<img src="/img/charlotte-responds/nyssa-tegan-adric.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/nyssa-tegan-adric.jpg" alt=""/>
 			<figcaption>From left to right: Nyssa, more hair than Baker, Tegan, hair restrained by pressure valve, Adric the combo-breaker / Poundland Micky Dolenz.</figcaption>
 		</figure>
 

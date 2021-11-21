@@ -1,8 +1,8 @@
 <!DOCTYPE xsl:stylesheet [
-	<!ENTITY global-path '/data/global.xml'>
+	<!ENTITY global-path '/Dear-Charlotte/data/global.xml'>
 ]>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-	<xsl:import href="/xslt/global-templates.xsl"/>
+	<xsl:import href="/Dear-Charlotte/xslt/global-templates.xsl"/>
 	<xsl:output method="xml" encoding="utf-8" indent="yes" media-type="text/xml"/>
 
 	<xsl:template match="/">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 5: The Web. Cally sabotages The Liberator so it goes to a planet wrapped in an inescapable web. She's been mind controlled by Saymon, one of 'the lost', a group of Cally's people exiled from their planet. They need new power cells, but when Blake realises they intend to use them to eliminate a race of sentient life-forms called the Decimas, he refuses to hand over the cells. The Decimas attack and The Liberator escapes.</description>
@@ -11,7 +11,7 @@
 		<p>In the last episode, Blake picked up <a href="/about-blakes-7/cally/">Cally</a> from Saurian Major, where she was a freelance terrorist<note>Once Blake blew up the only Federation building on the planet, she'd run out of things to terrorise</note>. There was also a bunch of stuff with men in leather bikinis, but that's not important right now. Cally suffers from telepathy. That's the salient fact.</p>
 		
 		<figure class="img-r">
-			<img src="/img/series-1/episode-5-the-web/saymon.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-5-the-web/saymon.jpg" alt=""/>
 			<figcaption>I have no words</figcaption>
 		</figure>
 		
@@ -29,7 +29,7 @@
 		<p><em>The Liberator</em>'s speed is increasing without Jenna doing owt to the space-throttle. Then we see Cally skulking about and  doing something well dodge in what looks like the space-basement (spacement?) in the middle of the night<note>Always difficult to tell in space</note>. Jenna hails Blake, we learn the disturbing fact that Blake likes to sleep topless under a bomber jacket, unpopped to the navel. Good lord, man, think of the <em>children</em>.</p>
 
 		<figure>
-			<img src="/img/series-1/episode-5-the-web/nightwear.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-5-the-web/nightwear.jpg" alt=""/>
 			<figcaption>Pictured: appropriate night-wear</figcaption>
 		</figure>
 
@@ -137,7 +137,7 @@
 		
 		<char>
 			<figure class="img-r">
-				<img src="/img/charlotte-responds/creature-from-the-pit.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/charlotte-responds/creature-from-the-pit.jpg" alt=""/>
 				<figcaption>A reminder: Doctor Who was a <em>children's</em> show.</figcaption>
 			</figure>
 

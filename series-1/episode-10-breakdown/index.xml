@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 10: Breakdown. Gan's limiter goes wonky and he turns into an angry caveman. The crew set sail for XK-72, a neutral space station, so they can get his head fixed up nice. On the way they fly through a gravitational vortex, so that we can have freaky wobbly shots of the cast looking scared. They borrow the neurosurgeon from XK-72, but he turns out to be a rotter and phones up some pursuit ships, then delays the operation on Gan. Blake forces him to work, then sends him back to his space station, and legs it. A stray blast from one of the pursuit ships destroys the base, but it's OK, because Gan has a funny brain.</description>
@@ -44,7 +44,7 @@
 		<blockquote class="imgur-embed-pub" lang="en" data-id="a/JHR14"><a href="//imgur.com/JHR14"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 		
 		<figure class="purhundi">
-			<img src="/img/the-purhundi.png" alt=""/>
+			<img SRC="/Dear-Charlotte/img/the-purhundi.png" alt=""/>
 			<figcaption class="details">I have no concept of cause-and-effect.</figcaption>
 		</figure>
 
@@ -85,7 +85,7 @@
 		</char>
 		
 		<figure class="purhundi">
-			<img src="/img/the-purhundi.png" alt=""/>
+			<img SRC="/Dear-Charlotte/img/the-purhundi.png" alt=""/>
 			<figcaption class="details">I don't ignore you out of passive-aggression. It's because I find your eye contact intimidating and aggressive.</figcaption>
 		</figure>
 
@@ -111,7 +111,7 @@
 		
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-1/episode-10-breakdown/zarbi.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-10-breakdown/zarbi.jpg" alt=""/>
 				<figcaption><em>Doctor Who and the Zarbi</em> or <em>When Insects Attack</em></figcaption>
 			</figure>
 			<p>Ian Thompson, who plays Farren, was in a bunch of Doctor Who episodes including <em>The Death of Time</em>, <em>The Centre</em>, <em>Invasion</em> and <em>Crater of Needles</em>. That was when they didn't bother naming whole stories, just individual episodes. Much like film noir being a sort of post-adopted title for a genre (after thought perhaps?) they only linked together the episodes and named the stories later, possibly for the <jargon type="TV"/> novelisations.</p>
@@ -155,7 +155,7 @@
 		<p>On XK-72, Avon is offering Farren teleporter technology. Before he'll negotiate, he asks Farren to guarantee the safety of Blake and his crew.</p>
 		
 		<figure class="purhundi">
-			<img src="/img/the-purhundi.png" alt=""/>
+			<img SRC="/Dear-Charlotte/img/the-purhundi.png" alt=""/>
 			<figcaption class="details">When I lie on my back, it's to show you that you're dominant. When you touch my belly, it feels like a terrible betrayal of trust.</figcaption>
 		</figure>
 		<ross>
@@ -164,7 +164,7 @@
 		</ross>
 		
 		<figure class="img-r">
-			<img src="/img/series-1/episode-10-breakdown/blackberry.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-10-breakdown/blackberry.jpg" alt=""/>
 			<figcaption>Kayn uses a Blackberry, in product placement which was approximately thirty years ahead of its time.</figcaption>
 		</figure>
 
@@ -258,7 +258,7 @@
 		</ross>
 		
 		<figure class="purhundi">
-			<img src="/img/the-purhundi.png" alt=""/>
+			<img SRC="/Dear-Charlotte/img/the-purhundi.png" alt=""/>
 			<figcaption class="details">If only you could feel the exquisite joy which comes from taking another creature's life.</figcaption>
 		</figure>
 

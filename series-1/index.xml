@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Series 1 of Blake's 7.</description>
@@ -11,7 +11,7 @@
 		<p>The episodes in series one could be slotted into various arbitrary categories. For example:</p>
 		
 		<figure class="img-r">
-			<img src="/img/series-1/the-way-back-opening-shot.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/the-way-back-opening-shot.jpg" alt=""/>
 			<figcaption>The opening shot of <em><a href="/series-1/episode-1-the-way-back/">The Way Back</a></em>.</figcaption>
 		</figure>
 
@@ -22,7 +22,7 @@
 		<p>Aside from the city in <em><a href="/series-1/episode-1-the-way-back/">The Way Back</a></em>, we don't see anything of ordinary life under Federation control, just a series of Federation outposts which Blake is intent on blowing up, such as the one on <a href="/series-1/episode-4-time-squad/">Saurian Major</a> or <a href="/series-1/episode-6-seek-locate-destroy/">Centero</a>.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-1/mission-to-destiny.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/mission-to-destiny.jpg" alt=""/>
 			<figcaption>Avon does his Sherlock bit in <em><a href="/series-1/episode-7-mission-to-destiny/">Mission to Destiny</a></em>.</figcaption>
 		</figure>
 
@@ -35,7 +35,7 @@
 		<p>These types of episodes also tend to be ones where a <jargon type="TMS"/> might occur at any moment. Space magic is my personal least favourite part of <em>Blake's 7</em>.</p>
 		
 		<figure class="img-r">
-			<img src="/img/series-1/cally-saurian-major.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/cally-saurian-major.jpg" alt=""/>
 			<figcaption>Cally on Saurian Major during <em><a href="/series-1/episode-4-time-squad/">Time Squad</a></em>.</figcaption>
 		</figure>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Quick character summary of Cally</description>
@@ -16,7 +16,7 @@
 		</biog>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-11-bounty/cally-attack.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-11-bounty/cally-attack.jpg" alt=""/>
 			<figcaption>Cally gets her boots on the ground during <em>Bounty</em></figcaption>
 		</figure>
 

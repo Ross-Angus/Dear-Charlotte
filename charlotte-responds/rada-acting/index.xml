@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>An introduction to Doctor Who, part 4: RADA acting</description>
@@ -12,7 +12,7 @@
 		<p>Oh and if Blake’s 7 had Brian Blessed, Doctor Who had STEPHEN THORNE!!!!!</p>
 
 		<figure>
-			<img src="/img/charlotte-responds/stephen-thorne-roles.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/stephen-thorne-roles.jpg" alt=""/>
 			<figcaption>The many faces of Stephen Thorne. From left to right, Eldrad, Azal and Omega.</figcaption>
 		</figure>
 

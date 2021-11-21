@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 8: Duel. The Liberator holeds up around an apparently dead planet, after fleeing the Federation. Travis attacks, but is stopped by magic space magic and Blake and Travis are forced to do battle in a woodland. Blake has the help of Jenna, Travis his Mutoid pilot. Blake wins but chooses not to kill Travis for solid, practical reasons.</description>
@@ -10,7 +10,7 @@
 		<h1>Episode 8: Duel</h1>
 		<p>In the last episode, Avon and Cally got to play at Sherlock Holmes in a <del>haunted house</del> stricken spaceship. It had quite a complicated plot with red herrings and McGuffins. This time, Blake and Travis go to a wood and hit each other with sticks.</p>
 		<figure class="img-r">
-			<img src="/img/series-1/episode-8-duel/sinofar.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-8-duel/sinofar.jpg" alt=""/>
 			<figcaption>Can anyone else hear <a href="https://www.youtube.com/watch?v=lcOxhH8N3Bo" title="Total Eclipse of the Heart official video">Bonnie Tyler</a>?</figcaption>
 		</figure>
 		<h2>Holding out for a hero</h2>
@@ -22,7 +22,7 @@
 		</ross>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-8-duel/starburst-class.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-8-duel/starburst-class.jpg" alt=""/>
 			<figcaption>Travis' brand new Starburst Class ships (the previous generation of ships were called the <q>Opal Fruits Class</q>)</figcaption>
 		</figure>
 
@@ -47,7 +47,7 @@
 		</char>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-8-duel/relay-race.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-8-duel/relay-race.jpg" alt=""/>
 			<figcaption>It's supposed to be a broken weapon.</figcaption>
 		</figure>
 

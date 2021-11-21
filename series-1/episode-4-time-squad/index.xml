@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 4: Time Squad. Blake finds a loose space probe full of frozen leather men, and brings it aboard The Liberator. Avon defrosts them and then follows Blake and Vila down to Saurian Major, where they plan to blow up a Federation communications relay. They meet Cally, a resistance fighter, team up and destroy the relay. Meanwhile, Gan and Jenna have various struggles with the leather men, who all end up dead. We learn that Gan has a brain implant which stops him from killing people.</description>
@@ -13,7 +13,7 @@
 		<ross>
 			<h2>Model behaviour</h2>
 			<figure class="img-r">
-				<img src="/img/series-1/episode-4-time-squad/cardboard-liberator.jpg" width="200" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-4-time-squad/cardboard-liberator.jpg" width="200" alt=""/>
 				<figcaption>The cardboard Liberator</figcaption>
 			</figure>
 			<p>The episode starts with a 2D animated <em>Liberator</em> in space. The special effects in <em>Blake's 7</em> shift between <a href="https://en.wikipedia.org/wiki/Rostrum_camera">rostrum camera work</a> and proper, <a href="https://en.wikipedia.org/wiki/Gerry_Anderson">Gerry Anderson</a> style models, seemingly at will. I've no problem with the flat style appearing in the opening titles, but for whatever reason, this method sometimes makes it into the body of the episodes too. As a child, this would make me <em>furious</em>. Couldn't they see that <em>The Liberator</em> was the second-most important character (after Vila)? This would be like if they <a href="https://www.youtube.com/watch?v=mufix337VbQ" title="That scene in 'Scrubs' where the janitor makes a cutout of JD.">made the main character of a <jargon type="TV"/> series out of cardboard</a>, and expected you not to notice. As an adult, I've learnt to hide this fury.</p>
@@ -59,7 +59,7 @@
 		<p>Gan's gone missing on <em>The Liberator</em>, so Jenna goes looking for him. She notices that someone is recharging the probe, but decides not to mess with the huge cable, snaking across the floor. Jenna enters the probe and notices that all of the cryogenic chambers are empty. She somehow misses that Gan is there too, semi-conscious. One of the men attacks her. He's dressed like a <a href="http://gameofthrones.wikia.com/wiki/Dothraki">Dothraki</a>. She gives him a good zapping and Gan crawls out of the probe.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-4-time-squad/ebe.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-4-time-squad/ebe.jpg" alt=""/>
 			<figcaption>Gan's <jargon type="EBE"/></figcaption>
 		</figure>
 

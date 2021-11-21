@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>A subjective introduction to Blake's 7, from the perspective of someone who grew up with it.</description>
@@ -12,7 +12,7 @@
 		<p>I suspect he was aiming at a more serious audience. But I don't think that was understood by all of the crew.</p>
 		
 		<figure>
-			<img src="/img/cast-photo.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/cast-photo.jpg" alt=""/>
 			<figcaption>Series two cast photo.</figcaption>
 		</figure>
 

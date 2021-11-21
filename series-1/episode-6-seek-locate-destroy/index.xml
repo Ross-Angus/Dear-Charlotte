@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 6: Seek-Locate-Destroy. Blake and crew break into the Federation base on Centero, in order to steal a Cypher machine, partially destroying the plant, in order to cover up this fact. Cally is accidentally left behind. We meet Servalan who appoints Travis, a man Blake thought he had killed, to hunt down Blake. Travis uses Cally to set a trap for Blake, but Blake turns the tables and knocks his silly robot hand off, for good measure.</description>
@@ -50,7 +50,7 @@
 		<blockquote class="imgur-embed-pub" lang="en" data-id="5SCc3Wl"><a href="//imgur.com/5SCc3Wl">This is what it looks like to teleport.</a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 		
 		<figure class="img-r">
-			<img src="/img/series-1/episode-6-seek-locate-destroy/future-iphone.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-6-seek-locate-destroy/future-iphone.jpg" alt=""/>
 			<figcaption>Seriously, the iPhone 6 will just fall out your hand like a bar of soap.</figcaption>
 		</figure>
 		
@@ -67,7 +67,7 @@
 		<h2>Mini-boss</h2>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-6-seek-locate-destroy/moustache.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-6-seek-locate-destroy/moustache.jpg" alt=""/>
 			<figcaption>The balaclava. Truly, the most intimidating of garments.</figcaption>
 		</figure>
 		
@@ -104,7 +104,7 @@
 		<p>The guards find Cally in the wreckage. She's alive, but still unconscious. Travis takes her to the space station.</p>
 		
 		<figure class="img-r">
-			<img src="/img/series-1/episode-6-seek-locate-destroy/travis.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-6-seek-locate-destroy/travis.jpg" alt=""/>
 			<figcaption>Travis proving that there's nothing as permanent as a temporary repair.</figcaption>
 		</figure>
 		

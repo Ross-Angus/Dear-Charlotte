@@ -2,5 +2,5 @@
 <!DOCTYPE doc [
 	<!ENTITY nav SYSTEM '/data/global.xml'>
 ]>
-<?xml-stylesheet type="text/xsl" href="/xslt/sitemap.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/sitemap.xslt"?>
 <root>&nav;</root>

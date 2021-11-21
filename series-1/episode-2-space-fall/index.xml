@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 2: Space Fall. Blake, Vila, Avon, Jenna and Gan try to take over The London but are foiled by Vila's comic timing. Instead, they're put on board The Liberator by the crew of The London and are like "kthanxby".</description>
@@ -199,7 +199,7 @@
 		<p>They extend a <q>transfer tube</q> into what for all the world looks like a face:</p>
 		
 		<figure class="img-r">
-			<img src="/img/series-1/episode-2-space-fall/transfer-tube-face.jpg" alt="Not the face"/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-2-space-fall/transfer-tube-face.jpg" alt="Not the face"/>
 			<figcaption>Not the face!</figcaption>
 		</figure>
 		

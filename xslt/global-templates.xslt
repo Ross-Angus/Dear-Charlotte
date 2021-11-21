@@ -1,5 +1,5 @@
 <!DOCTYPE xsl:stylesheet [
-	<!ENTITY global-path '/data/global.xml'>
+	<!ENTITY global-path '/Dear-Charlotte/data/global.xml'>
 ]>
 <!--
 * * * * * * * * * * * * * * * * * * * * * * * * * * * *

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 11: Bounty. Blake and Cally are on a nameless planet, trying to spring ex-president Sarkoff from self-imposed exile. In orbit, The Liberator encounters a ship sending a distress signal and Gan goes on board. Blake persuades Sarkoff and his driver, Tyce, to teleport back to The Liberator, only to be captured by Tarvin, a man Jenna as worked with in the past. He intends to sell Blake and The Liberator to the Federation and enslaves the crew with exploding collars. Jenna pretends to join his side. Vila picks the lock on Blake's collar and Blake teams up with Jenna to confront Tarvin. Space President Sarkoff shoots Tarvin, then agrees to go back to his home planet to unite his people.</description>
@@ -11,7 +11,7 @@
 		<p>In the last episode, Gan's limiter went out of warranty and they had to find a brain doctor quick. Avon pointed them toward XK-72, a medical and weapons research station which he had planned to escape to, if things with Blake ever went tits-up. The journey to XK-72 was so risky that Avon threatened to leave Blake, then wandered about XK-72 for a spell. Avon heard that some Federation ships were inbound and returned to <em>The Liberator</em> to warn Blake, and get the hell out of dodge.</p>
 
 		<figure class="img-r">
-			<img src="/img/series-1/episode-11-bounty/old-car.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-11-bounty/old-car.jpg" alt=""/>
 			<figcaption>Bottom left: Tyce. Right: Sarkoff. Top left: unnamed Federation guard who is depressed because the recruitment brochure never said his life would be like this.</figcaption>
 		</figure>
 
@@ -33,7 +33,7 @@
 		<p>As Blake and Cally move to follow the car, they trigger a movement detector which sounds like a frog, but looks like a billiard ball. Some guards move in to investigate, their nylon uniforms making an incredible racket as they move<note><strong>Nylon uniforms</strong><br/> Weight: 0.5kg<br/> Value: 2 gold<br/> Charisma: -1<br/> Armour: +2<br/> Stealth: -3</note>.</p>
 		
 		<figure class="img-r">
-			<img src="/img/series-1/episode-11-bounty/the-chocolatiere.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-11-bounty/the-chocolatiere.jpg" alt=""/>
 			<figcaption><em>The Chocolatiere</em> from <em>Harry and Paul</em>. This reference will become hilarious, once you find out what planet Sarkoff comes from.</figcaption>
 		</figure>
 
@@ -152,7 +152,7 @@
 		
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-1/episode-11-bounty/the-captain.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-1/episode-11-bounty/the-captain.jpg" alt=""/>
 				<figcaption>The Captain from <em>The Greatest Show in the Galaxy</em></figcaption>
 			</figure>
 			<p>The feel of this era of was of a show that knew it was ending. There were returns from the 'golden age': the Master, the Brigadier and Coal Hill School. Underneath were themes which were quite adult and bitter, which is possibly why I found them frightening. <em>Ghostlight</em>, <em>the Happiness Patrol</em> and <em>Curse of Fenric</em> all had these. Terrifying monsters too (like a psychopathic Bertie Basset). <em>Greatest Show</em> was, I found later, about the pressure to entertain. Like <em>Trial of a Time Lord</em>, both the Doctor and the series were fighting for their lives. A 'fan' even met his death in the ring. The mirror eyed clowns and billowing circus tents were designed to scare. The Captain was a terrific character in an extremely dark piece. In the same way as I love the Gothic Hinchcliffe era, which wasn't afraid to take the show to unsettling places, I have an affection for these stories. They had nothing to lose.</p>

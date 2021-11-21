@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>An introduction to Doctor Who, part 2: Use of quarries</description>
@@ -9,7 +9,7 @@
 		<h1>Use of quarries</h1>
 
 		<figure class="img-r">
-			<img src="/img/charlotte-responds/brain-of-morbius-castle.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/brain-of-morbius-castle.jpg" alt=""/>
 			<figcaption>The castle from <em>Brain of Morbius</em></figcaption>
 		</figure>
 
@@ -17,7 +17,7 @@
 		<p>Alien planets in Doctor Who come in two types: crazy studio sets and gravel pits. The former include <em>Brain of Morbius</em>, whose gothic castle looks strikingly similar to the one in <a href="/series-1/episode-3-cygnus-alpha/"><em>Cygnus Alpha</em></a>. The rocks make a clunky noise when Sarah (Elizabeth Sladen) walks up them in her platforms. Even the splendid forest-scape in Planet of Evil has a bit where Tom Baker steps through the polystyrene.</p>
 
 		<figure class="img-r">
-			<img src="/img/charlotte-responds/hand-of-fear.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/hand-of-fear.jpg" alt=""/>
 			<figcaption>The quarry in <em>Hand of Fear</em></figcaption>
 		</figure>
 

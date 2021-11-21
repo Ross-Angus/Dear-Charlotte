@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 1: The Way Back. Roj Blake has had his mind rubbed out, so he's forgotten that he's a resistance leader. There's a bit of a massacre of his resistance buddies and he gets arrested on fake charges and sent to a prison planet.</description>
@@ -13,7 +13,7 @@
 		<blockquote class="imgur-embed-pub" lang="en" data-id="dd2mXy0"><a href="//imgur.com/dd2mXy0">View post on imgur.com</a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 		
 		<figure class="img-r">
-			<img src="/img/series-1/episode-1-the-way-back/tom-baker.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-1-the-way-back/tom-baker.jpg" alt=""/>
 			<figcaption>Tom Baker has crazy hair, is what I'm saying.</figcaption>
 		</figure>
 		<p>I mean, where do we start? The hand on hips? The beige? The <em>hair</em>? But of course Charlotte, you're used to much wilder hair than that.</p>
@@ -21,7 +21,7 @@
 		
 		<char>
 			<figure class="img-r">
-				<img src="/img/charlotte-responds/driscoll.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/charlotte-responds/driscoll.jpg" alt=""/>
 				<figcaption>Driscoll from <em>Hand of Fear</em></figcaption>
 			</figure>
 
@@ -51,7 +51,7 @@
 		
 		<p>The episode shifts focus to Tel, who investigates Blake's claims of the massacre. He finds the bodies and takes <q>picture tapes</q> of them, with this load of old nonsense:</p>
 		<figure>
-			<img src="/img/series-1/episode-1-the-way-back/picture-tapes.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-1/episode-1-the-way-back/picture-tapes.jpg" alt=""/>
 			<figcaption>Much like the blasters, the future video camera needs to be attached to a power pack with a huge curly cable. Note also Tel's unconventional camera technique.</figcaption>
 		</figure>
 		<p>Unfortunately, the conspiracy against Blake moves against Tel and murders him and his wife, allowing Blake's transportation to Cygnus Alpha, the <em>London</em><note>Here's a fun fact. Ready? The short-lived comedy sci-fi show <a href="https://en.wikipedia.org/wiki/Hyperdrive_(TV_series)">Hyperdrive</a> used place names of the <jargon type="UK"/> as spaceship names too, but it was done for comedy reasons. For example the  <em><jargon type="HMS"/> Camden Lock</em>.</note>, to take off.</p>

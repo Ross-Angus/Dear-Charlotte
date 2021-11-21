@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>Episode 2: Shadow. Blake tries to cut a deal with the Terra Nostra (space mafia) but fails, then runs away, with a couple of junkies on a drug called 'Shadow'. They go to the planet Zombar, where Shadow is made, so Blake can stop production. Turns out the drug is harvisted from sentient cacti called 'Moon disks' who telepathically help Cally escape from Orac's clutches, because he's been taken over by something called The Darkness.</description>
@@ -17,7 +17,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/face-of-evil.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/face-of-evil.jpg" alt=""/>
 				<figcaption>The tribe of Sevateem from <em>Face of Evil</em></figcaption>
 			</figure>
 
@@ -32,7 +32,7 @@
 		</char>
 
 		<figure class="img-r">
-			<img src="/img/series-2/episode-2-shadow/space-city.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/space-city.jpg" alt=""/>
 			<figcaption><em>Space City</em>, a space city, situated in space.</figcaption>
 		</figure>
 
@@ -67,7 +67,7 @@
 
 		<ross>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/jacko.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/jacko.jpg" alt=""/>
 				<figcaption>Karl Howman, as Jacko in <em>Brush Strokes</em></figcaption>
 			</figure>
 
@@ -92,7 +92,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/veet.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/veet.jpg" alt=""/>
 				<figcaption>Veet (left) and Goudry (right) from <em>The Sun Makers</em></figcaption>
 			</figure>
 
@@ -100,7 +100,7 @@
 			<p>I digress. The peculiar thing about <em>Sunmakers</em> is it was written as a rant by Holmes who'd been stung by a massive tax bill. So we get the Doctor pitted against a foe who is taxing humanity to death. I kid you not.</p>
 
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/the-sun-makers-hair.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/the-sun-makers-hair.jpg" alt=""/>
 				<figcaption>The Collector plays with the Doctor's hair in <em>The Sun Makers</em></figcaption>
 			</figure>
 
@@ -108,7 +108,7 @@
 		</char>
 
 		<figure class="img-r">
-			<img src="/img/series-2/episode-2-shadow/rough-guide-to-space-city.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/rough-guide-to-space-city.jpg" alt=""/>
 			<figcaption>The book <em>The Rough Guide to Space City on a budget</em> is full of interesting titbits</figcaption>
 		</figure>
 
@@ -130,7 +130,7 @@
 			<p>I've already <a href="/series-1/episode-6-seek-locate-destroy/#charlotte-comment-2">noted elsewhere that <em>Nightmare of Eden</em> covers the drug abuse theme</a> (as do others) but I'm not aware of <em>Doctor Who</em> doing much about sexy ladies, at least not in the 70s. They normally turn out to be robots, aliens, or vampires. Or hologrammatic psi-projections of old ladies, as in <em>Pirate</em>.</p>
 
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/paradise-towers.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/paradise-towers.jpg" alt=""/>
 				<figcaption>One of the robotic cleaners from <em>Paradise Towers</em></figcaption>
 			</figure>
 
@@ -142,7 +142,7 @@
 
 		<ross>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/wall-boobs.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/wall-boobs.jpg" alt=""/>
 				<figcaption>The tits-and-arse based relief in Largo's lounge</figcaption>
 			</figure>
 
@@ -154,7 +154,7 @@
 			<h2>Inappropriate wallpaper</h2>
 
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/painting-the-tardis.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/painting-the-tardis.jpg" alt=""/>
 				<figcaption>The Doctor wears his painting outfit during <em>Underworld</em></figcaption>
 			</figure>
 
@@ -173,7 +173,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/the-adventuress-of-henrietta-street.jpg" alt="The cover of 'The Adventuress of Henrietta Street'"/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/the-adventuress-of-henrietta-street.jpg" alt="The cover of 'The Adventuress of Henrietta Street'"/>
 			</figure>
 
 			<p>Actually I've just remembered, the 8th Doctor sets up home in a brothel in a <em>The Adventuress of Henrietta Street</em> (another spin off novel). There's no funny business at all, despite him looking like Paul McGann. The story is INCOMPREHENSIBLE (not just for that reason).</p>
@@ -218,7 +218,7 @@
 
 		<char>
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/scientist-the-war-games.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/scientist-the-war-games.jpg" alt=""/>
 				<figcaption>The unnamed scientist from <em>The War Games</em> (top), played by Verdon Dobtcheff</figcaption>
 			</figure>
 			<p><em>The War Games</em>, as you quite correctly point out, is the second Doctor's final story. As such it's a little off my radar but here are my thoughts anyway because never pass up the opportunity to waffle about your specialist subject.</p>
@@ -236,7 +236,7 @@
 		<h2>Colonel Mustard, with the poison, in the lounge</h2>
 
 		<figure class="img-r">
-			<img src="/img/series-2/episode-2-shadow/death-by-mustard.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/death-by-mustard.jpg" alt=""/>
 			<figcaption>Largo's mustardy death</figcaption>
 		</figure>
 
@@ -305,14 +305,14 @@
 			<p>That said, for a children's show (there, I've said it) it didn't shy away from horror or surrealism. A favourite sequence for many is <a href="https://youtu.be/_7QiQUFQ53U?t=2m14s">the Tardis exploding in <em>the Mind Robber</em></a>. (For some the attraction may be Zoe's sparkly bottom spinning off into space.)</p>
 
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/warriors-gate-coin.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/warriors-gate-coin.jpg" alt=""/>
 				<figcaption>Adric tosses a coin in <em>Warriors Gate</em></figcaption>
 			</figure>
 
 			<p>Moving into the Douglas Adams and John Nathan-Turner eras, <em>Doctor Who</em> got a lot weirder. <em>Warriors Gate</em> is surely bewildering for most adults, let alone kids. Lots of scenes of Adric flipping a coin in a white vacuum. Psychic lions. <q>Daddy what's Dwarf Star alloy?</q> <q>How the hell should I know, son?</q></p>
 
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/the-land-of-dreams-and-fantasy.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/the-land-of-dreams-and-fantasy.jpg" alt=""/>
 				<figcaption>Leela and the Doctor from <em>The Invisible Enemy</em></figcaption>
 			</figure>
 
@@ -323,7 +323,7 @@
 			</ol>
 
 			<figure class="img-r">
-				<img src="/img/series-2/episode-2-shadow/gallifreyan-prison-wear.jpg" alt=""/>
+				<img SRC="/Dear-Charlotte/img/series-2/episode-2-shadow/gallifreyan-prison-wear.jpg" alt=""/>
 				<figcaption>Gallifreyan prison uniform</figcaption>
 			</figure>
 

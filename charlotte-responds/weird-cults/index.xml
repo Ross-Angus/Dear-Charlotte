@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<?xml-stylesheet type="text/xsl" href="/Dear-Charlotte/xslt/page.xslt"?>
 <page>
 	<meta>
 		<description>An introduction to Doctor Who, part 6: Weird cults</description>
@@ -11,7 +11,7 @@
 		<p>Quasi religions, sacrifices and dens of weirdos form an essential plot staple of this era of Doctor Who. There is potentially a whole philosophy essay to be written about the Doctor’s opinion of religion and morality. Anyway, at various points the companion or the Doctor get tied up in part of some dodgy ceremony. Sometimes they get tied up together, only not in a weird way. It’s a children’s show people.</p>
 		<h2>A few examples...</h2>
 		<figure class="img-r">
-			<img src="/img/charlotte-responds/robot.jpg" alt=""/>
+			<img SRC="/Dear-Charlotte/img/charlotte-responds/robot.jpg" alt=""/>
 			<figcaption>A still from <em>Robot</em>, without the benefit of modern colour-correction.</figcaption>
 		</figure>
 
