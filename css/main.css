@@ -630,7 +630,7 @@ main > .img-l {margin: 0 1em 1em -20%;}
 	www.flickr.com/photos/markturner/14310057931
 	*/
 	.ross:before, .charlotte:before {
-		background: url(/img/sprite-comments.png) 0 0 no-repeat;
+		background: url(/Dear-Charlotte/img/sprite-comments.png) 0 0 no-repeat;
 		background-size: 100px 210px;
 		bottom: 0;
 		height: 100px;
@@ -814,7 +814,7 @@ threading of messages in Twitter at some point. It's done in a sort of 2005 styl
 
 	/* Profile image */
 	.tarial header i {
-		background: url(/img/sprite-tarial.jpg);
+		background: url(/Dear-Charlotte/img/sprite-tarial.jpg);
 		/* Remember to update this, if the number of profiles increases */
 		background-size: 250px 100px;
 		float: left;
