@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>Here are some words which I typed into a computer, so it could remember it for me.</description>
+		<path>/writing/</path>
+	</meta>
+	<content type="main">
+		<h1>Writing</h1>
+		<p>Here are some words which I typed into a computer, so it could remember it for me.</p>
+	</content>
+</page>

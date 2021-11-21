@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>Quick character summary of Servalan</description>
+		<path>/about-blakes-7/servalan/</path>
+	</meta>
+	<content type="main">
+		<h1>Servalan</h1>
+		<biog>
+			<src>/img/characters/servalan.png</src>
+			<info type="Name">Servalan</info>
+			<info type="Special skills">Ruling the galaxy, giving weird boners to both men and women</info>
+			<info type="Dramatic role">Antagonist</info>
+			<info type="Metal level">Whitesnake</info>
+		</biog>
+		<p>Servalan took her original title - that of Supreme Commander - seriously, and vowed to dress like one of <a href="https://www.google.co.uk/search?tbm=isch&amp;q=The+Supremes">The Supremes</a> from that day forth.</p>
+	</content>
+</page>

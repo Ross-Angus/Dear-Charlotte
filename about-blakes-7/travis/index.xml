@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>Quick character summary of Travis</description>
+		<path>/about-blakes-7/travis/</path>
+	</meta>
+	<content type="main">
+		<h1>Travis</h1>
+		<biog>
+			<src>/img/characters/travis.png</src>
+			<info type="Name">Travis</info>
+			<info type="Special skills">Cold, sexless violence. Swiss Army hand.</info>
+			<info type="Dramatic role">Sub-boss</info>
+			<info type="Metal level">Judas Priest</info>
+		</biog>
+
+		<p>Travis lost his eye and hand to Blake before the events of the first episode of <em>Blake's 7</em>. This has left him consumed by the thought of taking revenge on Blake, a revenge which seems to be slowly eating away at his sanity.</p>
+
+		<p>Travis one has a touch of the public - or at least Grammar - school about him. You could imagine him ordering around his <a href="https://en.wikipedia.org/wiki/Fagging">fags</a> with utter disdain.</p>
+
+		<p>One insight we get into his character is the conversations he has with his Mutoid on the planet's surface during <em><a href="/series-1/episode-8-duel/">Duel</a></em>. He attempts to upset her by talking about who she was before the surgery turned her into a mutoid, but she is uninterested. It almost seems as if he's trying to make a connection with her, albeit in a clumsy way.</p>
+
+		<ross>
+			<p>Stephen Greif managed to avoid <em>Doctor Who</em> in the 1970s, but was drafted to provide the voice for Gurney, in 2007's <jargon type="TV"/> movie <em>Doctor Who: The Infinite Quest</em>.</p>
+			<p>Charlotte's not that interested in New Who, but let's see if she's seen it, eh?</p>
+		</ross>
+
+		<char>
+			<figure class="img-r">
+				<img src="/img/characters/doctor-who/gurney.jpg" alt=""/>
+				<figcaption>Gurney from <em>Doctor Who: The Infinite Quest</em></figcaption>
+			</figure>
+
+		</char>
+
+		<biog>
+			<src>/img/characters/travis2.png</src>
+			<info type="Name">Travis (2)</info>
+			<info type="Job">Servalan's Blake Murder Sub-contractor</info>
+			<info type="Narrative role">Twelve stone of fury, attached to a blaster-ring</info>
+			<info type="Metal level">Motörhead</info>
+		</biog>
+
+		<p>Travis two has a more borstal air about him. Brian Croucher's performance seems to be inspired by the punk and Oi bands of the time. His Travis is unpredictable and has an edge of fear he tries to hide.</p>
+
+		<ross>
+			<p>Brian Croucher appeared in the 1977 <em>Doctor Who</em> story <em>The Robots of Death</em> as <q>Borg</q>. Much better. Fourth-Doctor fun.</p>
+		</ross>
+
+		<char>
+			<figure class="img-r">
+				<img src="/img/characters/doctor-who/borg.jpg" alt=""/>
+				<figcaption>A rare look at Croucher's left eye, playing Borg from <em>The Robots of Death</em></figcaption>
+			</figure>
+
+		</char>
+	</content>
+</page>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>Episode 11: Bounty. Blake and Cally are on a nameless planet, trying to spring ex-president Sarkoff from self-imposed exile. In orbit, The Liberator encounters a ship sending a distress signal and Gan goes on board. Blake persuades Sarkoff and his driver, Tyce, to teleport back to The Liberator, only to be captured by Tarvin, a man Jenna as worked with in the past. He intends to sell Blake and The Liberator to the Federation and enslaves the crew with exploding collars. Jenna pretends to join his side. Vila picks the lock on Blake's collar and Blake teams up with Jenna to confront Tarvin. Space President Sarkoff shoots Tarvin, then agrees to go back to his home planet to unite his people.</description>
+		<path>/series-1/episode-11-bounty/</path>
+		<type>episode</type>
+	</meta>
+	<content type="main">
+		<h1>Episode 11: Bounty</h1>
+		<p>In the last episode, Gan's limiter went out of warranty and they had to find a brain doctor quick. Avon pointed them toward XK-72, a medical and weapons research station which he had planned to escape to, if things with Blake ever went tits-up. The journey to XK-72 was so risky that Avon threatened to leave Blake, then wandered about XK-72 for a spell. Avon heard that some Federation ships were inbound and returned to <em>The Liberator</em> to warn Blake, and get the hell out of dodge.</p>
+
+		<figure class="img-r">
+			<img src="/img/series-1/episode-11-bounty/old-car.jpg" alt=""/>
+			<figcaption>Bottom left: Tyce. Right: Sarkoff. Top left: unnamed Federation guard who is depressed because the recruitment brochure never said his life would be like this.</figcaption>
+		</figure>
+
+		<p>This week, the loyalty of a different crew member comes into question...</p>
+		<p>Cally and Blake are scuttling about in another nice foggy wood. Cally's wearing a leopardskin coat because she's heard it's good camouflage (she's wrong). Blake is carrying Vila's bright pink picnic box<note>For some reason, this box keeps being mentioned in dialogue, as if it's carrying something especially significant. As far as I can tell, it contains a couple of teleport bracelets and a grappling hook.</note>.</p>
+		
+		<h2>Guarding Tess</h2>
+		<p>There's a few Federation guards patrolling about and Blake mentions a prison when an old-fashioned motor car, driven by a eccentric woman (Tyce) approaches.</p>
+		
+		<ross>
+			<p>This is the first nod to <em>The Prisoner</em>, the late-sixties <jargon type="TV"/> series seemingly designed to induce <a href="https://youtu.be/x_hyG0uZMjo?t=20s" title="That scene in 'Withnail and I' where 'I' gets freaked out">The Fear</a><note>Blah blah blah Paul McGann, who stars in <em>Withnail and I</em> briefly played The Doctor in a forgettable <jargon type="TV"/> movie. (It's so easy being Charlotte)</note>.</p>
+			<p><em>The Prisoner</em>'s unique art direction combined elements of British history with modernism and late sixties space age design. Both <em>The Prisoner</em> and this episode of <em>Blake's 7</em> appropriate elements of British colonialism in a similar way to The Beatles on <em>Sergeant Pepper</em>.</p>
+		</ross>
+		
+		<char>
+			<p>During the Pertwee era the Doctor was exiled to earth by the Time Lords for 'interfering' <small>(coughs <em>budget</em>)</small>. The third Doctor was a secret alpha male, despite the velvet, and amused himself making vehicles with bits of paperclips, hairdryer parts and junk found lying around the <jargon type="UNIT"/> <jargon type="HQ"/>, like a one man camp A Team. I mention this because he liked to drive a vintage yellow car, <a href="https://www.youtube.com/watch?v=p2yhqx2X9_M" title="A scene from 'The Daemons', where Bessie drives herself">Bessie</a>. Also a tiny helicopter (with 'hair-met' to protect the Pertwee bouffant) and an annoyingly named <a href="https://www.youtube.com/watch?v=q3noPBEtOBk" title="Whomobile story, according to Jon Pertwee">Whomobile flying car</a>. Tom Baker drove Bessie once then decided he'd prefer to wander the universe in a space / time machine. Also he couldn't be bothered taking it through its <jargon type="MOT"/>.</p>
+		</char>
+		
+		<p>As Blake and Cally move to follow the car, they trigger a movement detector which sounds like a frog, but looks like a billiard ball. Some guards move in to investigate, their nylon uniforms making an incredible racket as they move<note><strong>Nylon uniforms</strong><br/> Weight: 0.5kg<br/> Value: 2 gold<br/> Charisma: -1<br/> Armour: +2<br/> Stealth: -3</note>.</p>
+		
+		<figure class="img-r">
+			<img src="/img/series-1/episode-11-bounty/the-chocolatiere.jpg" alt=""/>
+			<figcaption><em>The Chocolatiere</em> from <em>Harry and Paul</em>. This reference will become hilarious, once you find out what planet Sarkoff comes from.</figcaption>
+		</figure>
+
+		<h2>You can never be overdressed or overeducated</h2>
+		<p>Sarkoff arrives at a <a href="http://www.quexringers.org/" title="Big shout out to The Waterloo Tower - the actual filming location for some of this episode">tiny castle</a>, with a sort of television transmitter on top of it. He's dressed somewhere between <a href="https://www.google.co.uk/search?q=Quentin+Crisp&amp;tbm=isch" title="Google Image search for 'Quentin Crisp'">Quentin Crisp</a> and a <a href="https://www.youtube.com/watch?v=p3tUqRBiMVo" title="The 'Question Time' sketch from 'Harry and Paul'">Harry and Paul</a> character called <em>The Chocolatiere</em>.</p>
+		
+		<h2>God save the Star Queen</h2>
+		<p><em>The Liberator</em> picks up a distress call from the <em>Star Queen</em>, which claims to be a civilian cruiser. Everyone's deeply suspicious.</p>
+
+		<ross>
+			<p>Around this point, we learn that Sarkoff has been exiled on this planet for seven years. Moments later, Zen says that <em>The Liberator</em> is seven minutes away from the <q cite="http://blakes7.wikia.com/wiki/Bounty_(dialogue_transcript)">Star Queen</q>. This figure (suggested by the series title) comes up often. It's nice.</p>
+			<p>As in <a href="/series-1/episode-7-mission-to-destiny/">Mission to Destiny</a>, the music on the planet is oboes, violins and flutes, where as the music in space is synthesisers.</p>
+		</ross>
+		
+		<char>
+			<p><a href="https://en.wikipedia.org/wiki/Dudley_Simpson" title="The Wikipedia page on Dudley Simpson">Dudley Simpson</a> was <em>Doctor Who</em> composer for many years and known for his rather beautiful orchestral scoring. Then the 80s arrived and it was the law that all space music had to played on a synthesiser. Fortunately this hasn't dated those episodes at all.</p>
+		</char>
+
+		<p>This scene plays out:</p>
+
+		<blockquote class="screenplay">
+			<header>
+				<p><b>B</b><b>B</b><b>C</b> <b>tv</b></p>
+				<h2>Blake's 7</h2>
+				<h3>&quot;Bounty&quot;</h3>
+			</header>
+
+			<p><abbr title="Interior">Int</abbr>. Liberator bridge</p>
+			<dl>
+				<dt>Gan</dt>
+				<dd>Zen, are we in teleport range?</dd>
+				<dt>Zen</dt>
+				<dd>Liberator will be within teleport range of the civilian cruiser <q cite="http://blakes7.wikia.com/wiki/Bounty_(dialogue_transcript)">Star Queen</q> in seven minutes.</dd>
+				<dt>Gan</dt>
+				<dd>Good.</dd>
+				<dt>Avon</dt>
+				<dd>No.</dd>
+				<dt>Gan</dt>
+				<dd>They need <em>help</em></dd>
+				<dt>Avon</dt>
+				<dd>Do they?</dd>
+				<dt>Gan</dt>
+				<dd><ins>(Indicating the display)</ins> Well, you heard him!</dd>
+				<dt>Avon</dt>
+				<dd>It's not quite the same thing.</dd>
+			</dl>
+			<footer class="clearfix">
+				<p>Commercial and in confidence</p>
+				<p>Page 10 of 51</p>
+			</footer>
+		</blockquote>
+
+		<blockquote class="screenplay">
+			<header>
+				<p><b>B</b><b>B</b><b>C</b> <b>tv</b></p>
+				<h2>Blake's 7</h2>
+				<h3>&quot;Bounty&quot;</h3>
+			</header>
+			<dl>
+				<dt>Jenna</dt>
+				<dd><ins>(To Gan)</ins> Avon's right: we need more information.</dd>
+				<dt>Gan</dt>
+				<dd>Let me go across and get it. If it is a trap, I'll warn you. <ins>(Looks to Vila with slight menace)</ins> Then Vila can open fire.</dd>
+				<dt>Vila</dt>
+				<dd>With <em>you</em> on board?</dd>
+				<dt>Gan</dt>
+				<dd>If necessary.</dd>
+				<dt>Vila</dt>
+				<dd>You feeling alright?</dd>
+				<dt>Gan</dt>
+				<dd><ins>(Neutrally)</ins> Fine.</dd>
+				<dt>Avon</dt>
+				<dd>You would give the instruction for your own death. And you expect us to believe that?</dd>
+				<dt>Gan</dt>
+				<dd><ins>(Eyeing Avon suspiciously)</ins> Yes, I expect you to believe that.</dd>
+			</dl>
+			<footer class="clearfix">
+				<p>Commercial and in confidence</p>
+				<p>Page 11 of 51</p>
+			</footer>
+		</blockquote>
+		
+		<ross>
+			<p>David Jackson's performance as Olag Gan is so weird, that I can't tell if he's playing Gan as a sadistic psychopath, whose terrible inclination toward violence is only just being kept in check, or if he's just a bad actor.</p>
+			<p>Let's give Jackson the benefit of the doubt: Gan has successfully pulled the wool over Vila's eyes and is now painting himself as a moral and idealistic character, in the hope that at some point, the crew of <em>The Liberator</em> will trust him to such an extent, they'll remove his limiter completely.</p>
+			<p>Remember, we've just Gan's account to go on, that the only person he killed was the murderer of his <q>woman</q>. For all we know, he could be a serial killer.</p>
+		</ross>
+
+		<h2>Careless Wispa</h2>
+		<p>Blake pulls a grappling hook<note>It looks more like a small anchor</note> out of Vila's fuchsia picnic box then scales a wall of the tiny castle. Cally spots a guard on patrol and leaps off the wall onto his bonce wearing high-heeled boots. He doesn't stand a chance. She tells Blake using THE POWER OF HER MIND to go ahead to Sarkoff, while she hides the body.</p>
+		<p>On <em>The Liberator</em>, Gan calls in from <em>Star Queen</em> and tells them everything is alright. BUT WAIT: then Zen announces that it wasn't the <em>real</em> Gan speaking. Unfortunately, Zen isn't piped through to the teleport room, so Avon operates the teleport, while Vila frantically tries to warn him about the deception.</p>
+		
+		<ross>
+			<p>There's a nice use of shifting perspectives here: we never see Gan teleport across to the <q cite="http://blakes7.wikia.com/wiki/Bounty_(dialogue_transcript)">Star Queen</q>, or see what happens to him there. And when Vila is trying to warn Avon and Jenna about the deception, we mostly see it from his perspective. This builds tension <em>and</em> keeps the budget down.</p>
+		</ross>
+
+		<p>Vila straps on a blaster, and goes to the teleport room, grimfaced.</p>
+		<p>Blake reaches Sarkoff's inner chamber, which is decorated in a Gothic brick style, but with a <em>lot</em> of silver paint, because it's the FUTURE. He finds a beautiful blue butterfly, pinned inside a display case<note>METAPHOR ALERT</note>.</p>
+		
+		<h2>I know why the caged bird swings both ways</h2>
+		<p>Sarkoff enters, and seems rather a nice chap. Sarkoff assumes Blake is there to assassinate him and Blake tries to deny this, but Sarkoff has clearly been fantasising about this moment for years, and has quite a lot of dialogue to get out.</p>
+
+		<biog>
+			<src>/img/characters/sarkoff.png</src>
+			<info type="Name">Sarkoff</info>
+			<info type="Job">Ex-president of <em>Lindor</em></info>
+			<info type="Dramatic role">Moral football</info>
+			<info type="Camp level">David Walliams</info>
+			<info type="Look-a-like"><a href="http://www.imdb.com/name/nm0507207/" title="That Scottish actor you've seen a thousand times, but you can't remember a single thing he's been in.">Gary Lewis</a></info>
+			<info type="Perfect weekend">Saturday: bistro for a light lunch with the boys, then in the evening, pop along to <q>Sindbad's</q>, to catch up with the gossip. Sunday: visit a car boot sale to get some trinkets, then take the dogs for a walk and a quiet night in with the wife.</info>
+		</biog>
+		
+		<ross>
+			<p>Sarkoff is played by T.P. McKenna who - and you're going to be surprised here - also had a role in <em>Doctor Who</em> as <q>The Captain</q> in the notorious <em>The Greatest Show in the Galaxy</em>. Charlotte! Put that episode of <em>Doctor Who</em> in some context:</p>
+		</ross>
+		
+		<char>
+			<figure class="img-r">
+				<img src="/img/series-1/episode-11-bounty/the-captain.jpg" alt=""/>
+				<figcaption>The Captain from <em>The Greatest Show in the Galaxy</em></figcaption>
+			</figure>
+			<p>The feel of this era of was of a show that knew it was ending. There were returns from the 'golden age': the Master, the Brigadier and Coal Hill School. Underneath were themes which were quite adult and bitter, which is possibly why I found them frightening. <em>Ghostlight</em>, <em>the Happiness Patrol</em> and <em>Curse of Fenric</em> all had these. Terrifying monsters too (like a psychopathic Bertie Basset). <em>Greatest Show</em> was, I found later, about the pressure to entertain. Like <em>Trial of a Time Lord</em>, both the Doctor and the series were fighting for their lives. A 'fan' even met his death in the ring. The mirror eyed clowns and billowing circus tents were designed to scare. The Captain was a terrific character in an extremely dark piece. In the same way as I love the Gothic Hinchcliffe era, which wasn't afraid to take the show to unsettling places, I have an affection for these stories. They had nothing to lose.</p>
+		</char>
+		
+		<p>Sarkoff points an old-fashioned revolver at Blake and pulls the trigger, but it's not loaded, which suggests he has a fun, quirky side. He has a bunch of unrealistically fruity, but still quite nice, dialogue, which gives Tyce more than enough time to creep up behind Blake, and point a duelling pistol at his neck.</p>
+
+		<biog>
+			<src>/img/characters/tyce.png</src>
+			<info type="Name">Tyce</info>
+			<info type="Job">Chauffeur / bodyguard</info>
+			<info type="Dramatic role">Sarkoff's conscience / reminder that Blake is sexually attractive, apparently</info>
+			<info type="Favourite bands"><em>The Beatles</em> (Sergeant Pepper only), <em>Kasabian</em>, <em>Coldplay</em> (<em>Viva la Vida</em> only)</info>
+			<info type="Hobbies">Vintage car maintenance, Napoleonic cosplay, sneering</info>
+			<info type="Look-a-like"><a href="https://www.google.co.uk/search?q=cat+deeley&amp;tbm=isch">Cat Deeley</a></info>
+		</biog>
+
+		<h2>It's your beauty to be dutiful</h2>
+		<p>Sarkoff asks Tyce to lower her weapons and she asks Blake what he wants. Blake says that he wants to take Sarkoff <q cite="http://blakes7.wikia.com/wiki/Bounty_(dialogue_transcript)">back to his people</q>.</p>
+		<p>Cally's finished taking that corpse to the correctly marked recycle bin and climbs the wall. Guards have discovered that one of their number is missing and start running about all over the shop in their wellington boots.</p>
+		<p>Tyce captures Cally and brings her to Sarkoff. We learn that Sarkoff was driven out of office by a vote of no confidence, and exiled himself on the nameless planet where they find themselves. Cally has a punt at persuading Sarkoff to govern again. She doesn't get anywhere.</p>
+		<p>Blake tells him that his home planet, <a href="https://www.youtube.com/watch?v=cFB0XBV6JdU" title="Because he's The Chocolatiere!">Lindor</a> is in chaos and the Federation will move in and take it over, unless someone can unite the waring factions. Blake knows all of this because the Federation Cypher machine they pinched during <a href="/series-1/episode-6-seek-locate-destroy/">Seek-Locate-Destroy</a><note>We also learn that they've changed the codes, so this particular deus ex machina won't work any more.</note>. Sarkoff struggles to believe Blake, but Tyce was already convinced that his place is with his people.</p>
+		<p>Blake tries to contact <em>The Liberator</em> and doesn't even get an out-of-office from Zen.</p>
+		<p>Sarkoff refuses to wear the teleport bracelet and Cally reports they're completely surrounded. Because the guards might search the castle at any moment, Blake decides to flee and hide,	until <em>The Liberator</em> comes back <q cite="http://blakes7.wikia.com/wiki/Bounty_(dialogue_transcript)">on station</q>. And also because no-one has run about in a foggy wood for a bit, and frankly there's been a lot of talking.</p>
+		
+		<char>
+			<p>Foggy woods are up there with quarries and corridors for a good bit of pointless running up and down. Helps add pace and padding.</p>
+		</char>
+		
+		<ross>
+			<p>It's at about this point in the episode when Tyce hands Blake a cylinder, claiming <q cite="http://blakes7.wikia.com/wiki/Bounty_(dialogue_transcript)">If you ignite this, it explodes</q>. As far as I can tell, this bomb is never mentioned again, although <em>perhaps</em> this is why the car gets blown up later. It's difficult to tell.</p>
+		</ross>
+		
+		<h2>Breakaway</h2>
+		<p>Blake uses his blaster to create a distraction so that Cally and Tyce can nip out the front and bring up the vintage car. Sarkoff refuses to follow Blake, so Blake starts smashing up his priceless collection of twentieth century antiques<note>His house is basically a car boot sale</note>. Sarkoff agrees to come with Blake, and wear his bangle, because he hates it when people mess with his stuff.</p>
+		
+		<char>
+			<p>I'm now sympathising with this character. No one likes it when people touch your stuff. Like unalphabetising your books while you're out of the room making a cuppa.</p>
+		</char>
+		
+		<ross>
+			<p>Blake makes no attempt to make a comparison between Sarkoff's indifference to the fate of his people, and his passion for inanimate objects.</p>
+		</ross>
+
+		<p>They run out the front, to meet Cally and Tyce, but the car stalls and Blake has to crank it, while the guards run round from the back. A guard stops them, but Blake does a karate chop to him, and they drive off.</p>
+		<p>Blake is frantically radioing <em>The Liberator</em> and we get a series of empty corridor shots on board. As the car approaches a road block, <em>The Liberator</em> teleports them away, and the car smashes through the roadblock, then explodes off-screen with a sound effects library and the acting of the guards the only indication of this.</p>
+		<p>Blake, Cally, Tyce and Sarkoff arrive on <em>The Liberator</em> to find it deserted. Blake goes off to find out what's up.</p>
+		
+		<h2>Under new management</h2>
+		<p>Blake asks Zen where the rest of his crew are, but Zen acts like a petulant teenager with the voice of a disinterested bank manager, as always. He finds Jenna, who claims that the others are all dead. He starts to comfort her, but then gets GASSED IN THE FACE by someone in a purple suit:</p>
+		
+		<blockquote class="imgur-embed-pub" lang="en" data-id="a/TcxcV"><a href="//imgur.com/TcxcV">Gassed in the face</a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		
+		<ross>
+			<p>You can't tell at this point, but the guy who gasses Blake looks like <a href="https://www.youtube.com/watch?v=m8Da7PQE8O8" title="Naboo turns his back on Vince and Howard">Naboo, from the Mighty Boosh</a>.</p>
+		</ross>
+
+		<p>Blake wakes up in a cell with Gan, Cally, Avon and Vila, all of whom are wearing lovely sparkly collars. Vila starts picking the locks on Blake's handcuffs.</p>
+		
+		<h2>Turkish delight</h2>
+		<p>Cally recognises their captors as Amagons, who are just generally bad sports, it would seem. They fill Blake in and tell him that Jenna has switched her allegiance to their captors.</p>
+		
+		<char>
+			<p>Necklets, sparkly or otherwise, seem to be a recurring device for mind control. I could add another pointless list here, but don't want to show off.</p>
+		</char>
+		
+		<p>On the bridge, we learn that Jenna has worked in the past with Tarvin, the leader of the Amagons. While he removes her collar, there's some pretty artificial, but arch, dialogue between them. He desperately tries to make the conversation sexy, but Jenna heroically resists. After Tarvin has removed Jenna's collar, he throws it to the ground, then points a remote at it, which makes it explode.</p>
+		
+		<biog>
+			<src>/img/characters/tarvin.png</src>
+			<info type="Name">Tarvin</info>
+			<info type="Job">Freelance terrorist</info>
+			<info type="Dramatic role">Antagonist, manifestation of xenophobic fears</info>
+			<info type="Secret fear">That Jenna could beat him in an arm wrestle</info>
+			<info type="Other secret fear">That people can hear his thoughts, but are too polite to mention it</info>
+			<info type="Third secret fear">That there's one part of his body which he can't reach in the shower, and it's <em>filthy</em></info>
+		</biog>
+
+		<ross>
+			<p>Marc Zuber, who plays Tarvin, <em>hasn't</em> worked on Doctor Who<note>Instead, he got to be in <em>Space: 1999</em>. <em>Twice</em>.</note>. But he has played one character called <q>Mr. Choudhury</q> and another called <q>Dr. Choudry</q>.</p>
+			<p>Let's put this in context: in 1973, <jargon type="OAPEC"/> raised the price of oil by 70%, in protest to the <jargon type="USA"/> involvement in the Yom Kippur War. This led to oil producing countries accumulating vast wealth<note>And had the effect in the <jargon type="UK"/> of making drilling for oil in the North Sea economically viable for the first time.</note>.</p>
+			<p>In the late 1970s and early 1980s, the <em>idea</em> of rich Sheikhs coming to the <jargon type="UK"/> and spending lavish amounts of money was commonplace. This led to a sort of low-level anxiety about the British Empire of old being reversed, as the <jargon type="UK"/> weathered the economic hardships of the 1970s.</p>
+			<p>The character of Tarvin seems to combine many elements: his costume is reminiscent of Emirati attire, with his helmet somewhere between scale armour and a traditional gold head dress from Qatar. He deals in slaves, which fits uncomfortably into the trope of a Sheikh offering holiday makers twenty camels for their daughter. To credit Marc Zuber, he makes no attempt at an accent: his dialogue is basically delivered in <jargon type="RP"/>.</p>
+		</ross>
+		
+		<char>
+			<h2>Sheik and vac</h2>
+			<p>I can't think of any sheik related content in my specialist Who era. In <em>Terror of the Zygons</em> the Loch Ness Monster does destroy some oil rigs. The fourth Doctor says he doesn't care as he doesn't like fossil fuels anyway. I always got the impression he was a bit of a hippy. He doesn't give an opinion on off-shore wind farms.</p>
+		</char>
+
+		<h2>Credit where credit's due</h2>
+		<p>Tarvin plans to sell Blake and his crew to the Federation for thirteen million credits, which he'll get, if all the crew are intact. Jenna offers him three hundred million credits, to let them go. She tells him the credits are hidden somewhere on board <em>The Liberator</em>. Tarvin agrees, but insists that his guard should follow Jenna to retrieve the money. Jenna leads the guard through some corridors, then takes him down with space jiu jitsu<note>It's that same guard who looks like Naboo.</note>.</p>
+		<p>Jenna is stopped in a corridor by a different guard. She tells him she was going to check on the prisoners. He's suspicious and accompanies her to the room where Blake and his crew are being held. She quickly realises that they are no longer handcuffed, but doesn't let on to the guard because she's SECRETLY STILL LOYAL TO BLAKE.</p>
+		<p>Jenna leads the guard back to where she booted the last guard and somehow knocks him unconscious with a single blow to his wrist. SPACE KARATE!</p>
+		
+		<h2>Death by irony</h2>
+		<p>Vila successfully picks the lock on Blake's collar while Avon has a go at the door lock, with some tools he had hidden in his shoe, like a World War II film. As they open the door, this happens:</p>
+		
+		<blockquote class="imgur-embed-pub" lang="en" data-id="70inL4M"><a href="//imgur.com/70inL4M">Blake uses an exploding slave collar as a Frisbee(c) against a guard</a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		
+		<p>Blake heads off, and tells them to wait in the cells, because their necklaces make them too vulnerable. He meets a guard in the corridor, but Jenna saves him with some more <jargon type="RADA"/> karate.</p>
+		
+		<h2>Twix a rock and a hard place</h2>
+		<p>Tyce pulls a secret boot gun on Tarvin, but he gets out of it with some dreadful schtick about turning to one side and calling out <q>Sarkoff</q>, then when she turns to look, he wallops her into a sofa tumble<note>A good actor knows the best ground to pick their tumbles.</note>. Sarkoff ends up holding her gun and Tyce implores him <q cite="http://blakes7.wikia.com/wiki/Bounty_(dialogue_transcript)">shoot him, father</q>, because she believes Sarkoff governing Lindor is more important than her life.</p>
+		
+		<h2>You live by the schtick, you die by the schtick</h2>
+		<p>Blake and Jenna walk in, and Blake calls out Tarvin's name<note>Hang on: they've never met.</note>. This makes him wheel round to point his head-asplode button at Blake, which has no effect because Blake ain't got no collar on. Sarkoff takes his shot at Tarvin, hits him and Tarvin dies. Sarkoff is moved by Tyce's commitment to the cause of Lindor, so agrees to return to his home planet.</p>
+		<p>Sarkoff and Tyce teleport down to Lindor, but not before Tyce makes it perfectly clear that she wants to make <q cite="https://en.wikipedia.org/wiki/Beast_with_two_backs">the beast with two backs</q> with Blake. Ew.</p>
+
+		<h2>Watch <em>Bounty</em> on YouTube</h2>
+		<youtube id="2_Gls6JOtsE"/>
+	</content>
+</page>

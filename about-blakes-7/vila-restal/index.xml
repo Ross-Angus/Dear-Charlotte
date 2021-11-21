@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>Quick character summary of Vila Restal</description>
+		<path>/about-blakes-7/vila-restal/</path>
+	</meta>
+	<content type="main">
+		<h1>Vila Restal</h1>
+		<biog>
+			<src>/img/characters/vila-restal.png</src>
+			<info type="Name">Vila Restal</info>
+			<info type="Special skills">Unlocking stuff, nicking stuff, making jokes</info>
+			<info type="Dramatic role">Comic relief</info>
+		</biog>
+
+		<figure class="img-r">
+			<img src="/img/series-1/episode-1-the-way-back/blake-confronts-vila.jpg" alt=""/>
+			<figcaption>Blake confronts Vila, during <em>The Way Back</em>.</figcaption>
+		</figure>
+		<h2>First meeting</h2>
+		<p>Blake encounters Vila in the holding cell at the end of <em>The Way Back</em>. Vila is picking Blake's pockets.</p>
+		
+		<h2>Character development</h2>
+		<p>Vila has a few character traits which are similar to <a href="/about-blakes-7/kerr-avon/">Avon</a>: primarily concerned with his own survival, existing on the wrong side of the law and having a high intelligence. However, Vila is much more comfortable in a group than Avon is, and seems to relish the stability of life on <em>The Liberator</em>.</p>
+		<p>Even Vila and Avon's names seem to mirror each other, the <q>V</q> like an inverted <q>A</q>, each four letters long.</p>
+		<p>From a narrative point of view, Vila's main skill - lock-picking - and his main weakness - cowardice - mean that he is generally required to be in the thick of the action, where he is most uncomfortable. While this isn't ideal for Vila, it's good for drama.</p>
+		<p>I quite like Michael Keating's performance. While it can be quite wide, he's not afraid of allowing Vila to be unlikeable.</p>
+	</content>
+</page>

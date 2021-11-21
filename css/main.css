@@ -1,0 +1,1343 @@
+/* Based on html5doctor.com Reset Stylesheet v1.6.1 */
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, menu, main, nav, section, summary,
+time, mark, audio, video {
+    background:transparent;
+    border:0;
+    font-size:100%;
+    margin:0;
+    outline:0;
+    padding:0;
+    vertical-align:baseline;
+}
+
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+body {
+    background: #f9f9f9;
+    color: #222;
+    line-height: 1.4;
+    margin: 0 auto;
+    max-width: 55em;
+    padding: 0 1em;
+}
+body:before, body:after,
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+body:after, .clearfix:after {clear: both;}
+
+    /* This ain't no CSS framework! */
+    aside {
+        float: left;
+        padding: 1em;
+        width: 30%;
+    }
+    /* All the centre content is inside this */
+    main {
+        float: left;
+        width: 70%;
+    }
+
+body, input, select {
+    font-family: Calibri, Segoe, "Segoe UI", "Gill Sans", "Gill Sans MT", sans-serif;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,menu,main,nav,section {
+    box-sizing: border-box;
+    display:block;
+}
+
+a         {color: #339;}
+a:visited {color: #936;}
+a:active  {color: #933;}
+
+blockquote, q {quotes:none;}
+q:before  {content:'“';}
+q:after   {content:'”';}
+
+abbr[title], dfn[title] {
+    border-bottom:.1em dotted #666;
+    cursor:help;
+	display: inline-block;
+    text-decoration: none;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+    margin: 0 0 1em;
+}
+  table, caption, th, td {
+    border: solid 1px #aaa;
+    padding: .2em .4em;
+    text-align: left;
+  }
+  caption {
+    border-bottom: none;
+  }
+
+input, select, button {vertical-align:middle;}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+.js .js-hidden {display: none;}
+
+.media, .bd {
+	overflow:hidden;
+}
+.media .img {
+	float:left;
+	margin-right: 10px;
+}
+
+/* Main navigation, left */
+[aria-label="Main"] ul ul a, [aria-label="Main"] ul ul em {
+	padding: 0 0 0 1em;
+}
+	[aria-label="Main"] a, [aria-label="Main"] em {
+		border-bottom: solid .1em transparent;
+		color: #666;
+		display: block;
+	}
+	/* You are here */
+	[aria-label="Main"] em,
+	[aria-label="Main"] a:hover,
+	[aria-label="Main"] a:focus,
+	[aria-label="Main"] a:active	{
+		border-bottom: solid .1em #ddd;
+		color: #000;
+		font-style: normal;
+	}
+
+
+h1, .h1 {
+    color: #aaa;
+    font-size: 4em;
+    letter-spacing: -.05em;
+    line-height: .9;
+	margin: 0 0 .1em;
+}
+h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    color: #666;
+  	font-weight: normal;
+    line-height: 1;
+}
+h2, .h2 {font-size: 1.8em;}
+h3, .h3 {font-size: 1.4em;}
+h4, .h4 {font-size: 1.2em;}
+h4, .h4, h5, .h5, h6, .h6 {
+	font-weight: bold;
+	margin: 0 0 .5em;
+}
+h5, .h5, h6, .h6 {font-size: 1em;}
+p, ul, ol, dl, pre {
+    margin: 0 0 1em;
+}
+
+nav ul {list-style:none;}
+    nav li {margin: 0;}
+		nav a {text-decoration: none;}
+
+li {margin-left: 2em;}
+
+iframe, img {max-width: 100%;}
+
+/* Used to be used instead of <aside/>. Not so sure about it now. */
+hr {
+	border: none;
+	border-top: double .3em #666;
+	margin: 0 0 2em;
+	position: relative;
+}
+	hr:before, hr:after {
+		border: solid .5em transparent;
+		content: "";
+		left: 50%;
+		position: absolute;
+	}
+	hr:before {
+		border-bottom-color: #666;
+		border-top: none;
+		top: -.7em;
+	}
+	hr:after {
+		border-bottom: none;
+		border-top-color: #666;
+	}
+
+small {font-size: .8em;}
+
+/* Generic show/hide CSS magic */
+.toggle, .comment-toggle, .js .js-hide {display: none;}
+
+/* General class for tooltips, the timeline, anything The Purhundi says and the tag results listing */
+.details {
+	background: #ddd;
+	-webkit-box-shadow: 5px 5px 10px 0 rgba(0,0,0,.5);
+	   -moz-box-shadow: 5px 5px 10px 0 rgba(0,0,0,.5);
+			box-shadow: 5px 5px 10px 0 rgba(0,0,0,.5);
+	border: solid 1px #222;
+	padding: .5em;
+	position: relative;
+    -webkit-transition: opacity .5s;
+       -moz-transition: opacity .5s;
+         -o-transition: opacity .5s;
+            transition: opacity .5s;
+}
+
+/* This is supposed to look a bit like a wobbly line */
+del {
+	display: inline-block;
+	position: relative;
+	text-decoration: none;
+}
+	del:before, del:after {
+		border-top: dotted .15em #222;
+		content: "";
+		position: absolute;
+	}
+	del:before {
+		left: .15em;
+		right: 0;
+		top: 48%;
+	}
+	del:after {
+		left: 0;
+		right: .15em;
+		top: 52%;
+	}
+
+sup, sub {
+    font-size: .85em;
+    position: relative;
+}
+/* Superscript is used as a sort of tooltip / note thing.
+These styles are reused for the tagging system. */
+sup {top: -.4em;}
+
+/* The tagging system, left */
+.tags {
+	padding: 0 0 1em;
+	position: relative;
+}
+	.tags ul {
+		margin: 0;
+	}
+		.tags li {
+			display: inline-block;
+			margin: 0;
+		}
+			/* Pills */
+			.tags label, .tags .details a {
+				background: #ddd;
+				border-radius: .3em;
+				color: #666;
+				display: block;
+				font-style: normal;
+				margin: 0 .2em .2em 0;
+				padding: 0 .4em;
+				text-decoration: none;
+			}
+			/* Selected tag */
+			.tags .toggle:checked ~ label {
+				background: #666;
+				color: #fff;
+			}
+			.tags a {
+				background: #eee;
+			}
+			.tags a:hover
+			.tags a:focus
+			.tags a:active {
+				color: #000;
+			}
+
+			.js-tooltip {
+				display: inline-block;
+				vertical-align: middle;
+				top: 0;
+			}
+				/* Big hit areas for sausage fingers */
+				sup label {
+					border: solid .1em #339;
+					border-radius: 1em;
+					color: #339;
+					cursor: help;
+					display: inline-block;
+					font-size: 1.3em;
+					line-height: 1.22;
+					padding: 0 .2em;
+				}
+
+			.tags label {cursor: pointer;}
+
+			sup .details,
+			.tags .details {
+				opacity: 0;
+				overflow: hidden;
+				position: absolute;
+				z-index: -1;
+			}
+			/* The tooltip speech bubble attached to (❆), aligned to the centre. */
+			sup .details {
+				bottom: 2em;
+				left: -6em;
+				width: 12em;
+			}
+			/* As above, but when it's against the left-hand edge of the page */
+			.tip-left .details {
+				left: 0;
+			}
+			/* As above, but when it's against the right-hand edge of the page */
+			.tip-right .details {
+				left: -9em;
+			}
+			/* We need to leave a little room for the [×], if there's js */
+			.js sup .details, .js .tags .details {
+				padding-right: 1.5em;
+			}
+			/* These bubbles behave slightly differently within tags */
+			.tags .details {
+				top: 100%;
+				left: 0;
+				right: 0;
+			}
+				/* × - close button for the tooltips (added by JavaScript) */
+				.details button {
+          background: transparent;
+          border: none;
+          color: inherit;
+					cursor: pointer;
+					display: block;
+					font-size: 1.7em;
+					line-height: 1.1;
+					right: 0;
+					padding: 0;
+					position: absolute;
+					text-decoration: none;
+					top: 0;
+				}
+
+			/* This is an attempt to make the <note/> tags at the top of the page appear inside the viewable area of the screen. */
+			main :first-of-type sup .details {
+				bottom: auto;
+				top: 2em;
+			}
+			sup .toggle:checked + .details,
+			.tags .toggle:checked ~ .details {
+				opacity: 1;
+				overflow: visible;
+				z-index: 1;
+			}
+				/* The little speech mark, at the bottom of the bubble */
+				.details:before, .details:after {
+					border: solid 1em transparent;
+					border-top: none;
+					top: 100%;
+					content: "";
+					position: absolute;
+					z-index: 1;
+				}
+
+				/* The speech mark points to the left, when it's a <note/> ... */
+				.details:before, .details:after {
+					border-left: solid 1em #ddd;
+					border-right: none;
+					left: 7em;
+				}
+
+				/* When the bubble is too close to the right, the speech mark needs to be
+				alligned to the right */
+				.tip-right .details:before {left: 10em;}
+				.tip-right .details:after  {left: 10.1em;}
+
+				/* When the bubble is too close to the left, the speech mark needs to be
+				alligned to the left */
+				.tip-left .details:before {left: 1em;}
+				.tip-left .details:after  {left: 1.1em;}
+
+				/* This *almost* sits on top of the other speech mark, to make it look like it's got a border. Technique by James Hadrill */
+				.details:before {
+					border-bottom: solid 1.2em transparent;
+					border-left: solid 1.2em #222;
+					left: 6.9em;
+				}
+				/* If the <note/> is at the top of the page, it needs to go down, rather than up. */
+				/* The little speech mark, at the bottom of the bubble */
+				main :first-of-type sup span:before,
+				main :first-of-type sup span:after {
+					border-top: solid 1em transparent;
+					border-bottom: none;
+					bottom: 100%;
+					top: auto;
+				}
+				/* This *almost* sits on top of the other speech mark, to make it look like it's got a border. Technique by James Hadrill */
+				main :first-of-type sup span:before {
+					border-top: solid 1.1em transparent;
+				}
+				/* The other tag pages doesn't need the speech mark */
+				.tags .details:before, .tags .details:after {
+					display: none;
+				}
+
+sub {bottom: .4em;}
+
+/* Used for image next to the text */
+figure {
+	background: #fff;
+	border: solid .1em #aaa;
+	clear: both;
+	color: #666;
+	margin: 0 0 1em;
+	padding: 1em;
+}
+	figure img, figure iframe {
+		display: block;
+		margin: 0 auto .8em;
+	}
+
+.img-r {
+	float: right;
+	margin: 0 0 1em 1em;
+	max-width: 50%;
+}
+.img-l {
+	float: left;
+	margin: 0 1em 1em 0;
+	max-width: 50%;
+}
+/* Sometimes .img-r and .img-l is inside an <aside/> */
+main > .img-r {margin: 0 -20% 1em 1em;}
+main > .img-l {margin: 0 1em 1em -20%;}
+
+/* Dumb terminal style summary card. Used in the character biographies and in episodes when new, one-shot characters are introduced. */
+.biog {
+    background: #26220c;
+    border: solid 1em #d4cf94;
+    border-bottom: solid 4em #d4cf94;
+    border-radius: 1em;
+    -webkit-box-shadow: inset 0 1em 1em 0 #000, 0 .2em .5em 0 #999;
+       -moz-box-shadow: inset 0 1em 1em 0 #000, 0 .2em .5em 0 #999;
+            box-shadow: inset 0 1em 1em 0 #000, 0 .2em .5em 0 #999;
+    color: #86fbff;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", "Bitstream Vera Sans Mono", monaco, Consolas, monospace;
+    margin: 0 0 2em;
+    padding: 1em 1em 0;
+    position: relative;
+    text-shadow: 0 0 .5em #86fbff;
+}
+	.biog img {
+		display: block;
+		margin: 0 0 1em;
+	}
+    .biog dt {
+      float: left;
+      padding: 0 1em 0 0;
+      width: 30%;
+    }
+    .biog dd {
+        float: left;
+        width: 70%;
+    }
+		/* A flashing cursor at the bottom */
+		.biog dl:last-of-type dd:after {
+			animation-direction: alternate;
+			animation-duration: .6s;
+			animation-iteration-count: infinite;
+			animation-name: flash;
+			animation-timing-function: ease-in-out;
+			border-bottom: solid .15em #86fbff;
+			content: "";
+			display: inline-block;
+			margin: 0 0 0 .1em;
+			position: relative;
+			top: .2em;
+			width: .6em;
+		}
+		@keyframes flash {
+			from {opacity: 1;}
+			to   {opacity: 0;}
+		}
+
+		.biog a {color: #86fbff;}
+		.biog abbr[title], .biog dfn[title] {border-bottom: dotted .1em #86fbff;}
+
+	/* Terran Federation logo */
+    .biog p {
+        bottom: -8em;
+        font-size: .4em;
+        left: 1em;
+        position: absolute;
+    }
+    /* Power button, bottom right */
+    .biog:before {
+        bottom: -2.6em;
+        color: #BCB77A;
+        content: "Power";
+        font-family: Calibri, Segoe, "Segoe UI", "Gill Sans", "Gill Sans MT", sans-serif;
+        font-weight: bold;
+        position: absolute;
+        right: 1.5em;
+		text-shadow: 0 -.1em 0 #a59f55;
+    }
+    .biog:after {
+        background: #3ada1b;
+        border-radius: .2em;
+        bottom: -2.5em;
+        -webkit-box-shadow: 0 0 .5em 0 #3ada1b;
+           -moz-box-shadow: 0 0 .5em 0 #3ada1b;
+                box-shadow: 0 0 .5em 0 #3ada1b;
+        content: "";
+        height: 1em;
+        position: absolute;
+        right: 0;
+        width: 1em;
+    }
+
+/* Screenplay formatting. */
+.screenplay {
+	background: #FDF9E4;
+	-webkit-box-shadow: 0 .3em .5em #443E24, inset 0 0 10em #B3A87B;
+	   -moz-box-shadow: 0 .3em .5em #443E24, inset 0 0 10em #B3A87B;
+	        box-shadow: 0 .3em .5em #443E24, inset 0 0 10em #B3A87B;
+	border-radius: .4em .1em .3em .2em;
+	color: #443E24;
+	font-family: "Lucida Sans Typewriter","Lucida Console",monaco,"Bitstream Vera Sans Mono",monospace;
+	font-size: .9em;
+	margin: 0 0 2em;
+	overflow: hidden;
+	padding: 2.5em 2em 1em;
+	position: relative;
+	-webkit-transform: rotate(.5deg);
+	   -moz-transform: rotate(.5deg);
+	    -ms-transform: rotate(.5deg);
+	     -o-transform: rotate(.5deg);
+	        transform: rotate(.5deg);
+	z-index: 1;
+}
+	/* Coffee rings */
+	.screenplay:before, .screenplay:after {
+		border: solid .5em rgba(128,105,8,.1);
+		border-radius: 50%;
+		content: "";
+		height: 20em;
+		position: absolute;
+		width: 20em;
+	}
+	.screenplay:before {
+		right: -10%;
+		top: -1%;
+	}
+	.screenplay:after {
+		bottom: 10%;
+		left: -10%;
+	}
+
+
+	.screenplay header {
+		margin: 0 0 2em;
+		text-align: center;
+	}
+		/* The BBC logo, 1971 - 1988 */
+		.screenplay header b {
+			background: #443E24;
+			border-radius: .2em;
+			color: #FDF9E4;
+			display: inline-block;
+			font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+			font-weight: bold;
+			line-height: 1;
+			margin: 0 .1em 0 0;
+			padding: .1em .2em .1em .2em;
+			-webkit-transform: skew(-15deg);
+			   -moz-transform: skew(-15deg);
+			    -ms-transform: skew(-15deg);
+			     -o-transform: skew(-15deg);
+			        transform: skew(-15deg);
+		}
+		.screenplay header h2, .screenplay header h3 {
+			color: #443E24;
+			font-size: 1em;
+		}
+		.screenplay header h2, .screenplay > p, .screenplay dt {
+			text-transform: uppercase;
+		}
+		.screenplay .desc {
+			text-transform: none;
+		}
+
+	/* Character names */
+	.screenplay dt {margin: 0 35%;}
+	/* Dialogue */
+	.screenplay dd {margin: 0 20% 1em;}
+	/* Stage instructions beside speech */
+	.screenplay ins {
+		display: block;
+		margin: 0 10%;
+		text-decoration: none;
+	}
+
+	/* Legal notice and page numbers */
+	.screenplay footer p {
+		float: left;
+		text-align: right;
+		width: 50%;
+	}
+	.screenplay footer p:first-child {
+		text-align: left;
+	}
+
+/* Used for comments about the episode, rather than a description of what's going on. */
+.ross, .charlotte {
+	clear: both;
+	border: solid .1em transparent;
+	float: none;
+	margin: 0 0 1em 120px;
+	min-height: 97px;
+	padding: 1em 1em 0;
+	position: relative;
+	width: auto;
+}
+	.ross:before, .charlotte:before,
+	.ross:after,  .charlotte:after {
+		content: "";
+		position: absolute;
+	}
+
+	/* Avatars
+	Charlotte's puffin image taken from here:
+	www.flickr.com/photos/markturner/14310057931
+	*/
+	.ross:before, .charlotte:before {
+		background: url(/img/sprite-comments.png) 0 0 no-repeat;
+		background-size: 100px 210px;
+		bottom: 0;
+		height: 100px;
+		left: -120px;
+		width: 100px;
+	}
+
+	/* Speech marks */
+	.ross:after,  .charlotte:after {
+		border: solid 1em transparent;
+		border-left: none;
+		bottom: 64px;
+		right: 100%;
+	}
+
+.charlotte {
+	/* Tints of the blue in the Federation logo, top left */
+	background: #BBE6FA;
+	color: #012F44;
+}
+	.charlotte:after {border-right: solid 1.5em #BBE6FA;}
+	.charlotte h2, .charlotte h3 {color: #1C6E94;}
+
+.ross {
+	/* Tints of the pink in the Federation logo, top left #bf808f */
+	background: #F8D5DD;
+	color: #5B2A35;
+}
+	.ross:before {background-position: 0 -110px;}
+	.ross:after  {border-right: solid 1.5em #F8D5DD;}
+	.ross h2, .ross .h2,
+  .ross h3, .ross .h3 {
+    color: #7B3E4C;
+  }
+
+/* A timeline, used in the episode "Duel" */
+.timeline {
+	margin: 0 0 1em;
+	overflow-x: scroll;
+	/* For cheeky wee iOS */
+	-webkit-overflow-scrolling: touch;
+}
+	.timeline ol {
+		display: table;
+		margin: 0;
+		/* Needed for the mobile users note */
+		position: relative;
+	}
+	/* CSS can't use attribute values, apart from as selectors, unfortunately.
+	Rather than lean on jQuery, I'll need to add a new rule for each timeline.
+	I had this working perfectly without this, but then Safari happened. */
+	.timeline ol[start="1918"] {counter-reset: year 1917;}
+	.timeline ol[start="1925"] {counter-reset: year 1924;}
+  .timeline ol[start="1917"] {counter-reset: year 1916;}
+		.timeline ol:before {
+			content: "Hey mobile users! Try swiping right!";
+			font-size: .8em;
+			left: 0;
+			position: absolute;
+			top: 0;
+		}
+		.timeline li {
+			list-style-type: none;
+    		counter-increment: year;
+    		display: table-cell;
+			/* Display: table-cell is a better idea, but I need the numbers from the bullets to appear. */
+			/*float: left;*/
+			/*list-style-position: inside;*/
+			margin: 0;
+			/* The top value might need to increase, if the bubbles get taller. */
+			padding: 13em .5em 0;
+			position: relative;
+			text-align: center;
+			white-space: nowrap;
+			/*width: 3.5em;*/
+		}
+			.timeline li:before {
+				content: counter(year);
+			}
+			.timeline .details {
+				bottom: 2.5em;
+				display: block;
+				font-size: .9em;
+				left: 0;
+				position: absolute;
+				text-align: left;
+				white-space: normal;
+				width: 10em;
+			}
+			/* Sometimes, two bubbles are too close, so one needs to be aligned to the left. */
+			.timeline .bubble-left {
+				left: auto;
+				right: .5em;
+			}
+				.timeline .details:before {left: 1.5em;}
+				.timeline .details:after  {left: 1.6em;}
+				.timeline .bubble-left:before {left: 8.5em;}
+				.timeline .bubble-left:after  {left: 8.6em;}
+
+/* The Purhindi, who peeks in the side of the page, like a creeper */
+.purhundi {
+	background: transparent;
+	border: none;
+	padding: 0;
+	position: absolute;
+	left: 0;
+	max-width: 50%;
+	-webkit-transform-origin: 0 100%;
+	    -ms-transform-origin: 0 100%;
+	        transform-origin: 0 100%;
+	/* Hidden */
+	-webkit-transform: rotate(-36deg);
+	    -ms-transform: rotate(-36deg);
+	        transform: rotate(-36deg);
+    transition: all 500ms ease-in-out;
+	width: 318px;
+	/* Because that bloody cat is always getting in the way */
+	z-index: 1;
+}
+.js .purhundi {cursor: pointer;}
+.purhundi.pop {
+	/* Showing */
+	-webkit-transform: rotate(0);
+	    -ms-transform: rotate(0);
+	        transform: rotate(0);
+}
+	.purhundi figcaption {
+		bottom: 100%;
+		left: 1em;
+		position: absolute;
+		right: 0;
+	}
+
+/* The Blake's 7 version of Twitter. Markup is an unordered list, in case I feel like redesigning
+threading of messages in Twitter at some point. It's done in a sort of 2005 style web 2.0. */
+.tarial, .tarial li {
+	clear: both;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.tarial {
+	border: solid .1em #aaa;
+	border-radius: 1em;
+	font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Futura,'Trebuchet MS', sans-serif;
+	margin: 0 0 1em;
+}
+	.tarial:before {
+		background: #ddd;
+		border-radius: .8em .8em 0 0;
+		content: "Welcome to t'Arial! instant messaging and micro-blogging.";
+		font-size: 1.3em;
+	}
+	.tarial:before, .tarial:after {
+		display: block;
+		padding: 1em;
+	}
+	.tarial h3 {
+		font-size: 1em;
+	}
+	.tarial section p {
+		font-size: .8em;
+	}
+
+	.tarial li {
+		background: -webkit-linear-gradient(top, #ddd 0,#fff 100%);
+		background:    -moz-linear-gradient(top, #ddd 0,#fff 100%);
+		background:   linear-gradient(to bottom, #ddd 0,#fff 100%);
+		border-top: solid .1em #aaa;
+		padding: 1em;
+	}
+		.tarial blockquote {
+			font-size: 1.1em;
+		}
+	.tarial:after {
+		border-top: solid .1em #aaa;
+		content: "Please respect individuals life choices.";
+		font-size: .7em;
+	}
+
+
+	/* Profile image */
+	.tarial header i {
+		background: url(/img/sprite-tarial.jpg);
+		/* Remember to update this, if the number of profiles increases */
+		background-size: 250px 100px;
+		float: left;
+		height: 50px;
+		margin: 0 1em 1em 0;
+		/*overflow: hidden;*/
+		width: 50px;
+	}
+	.taria header, .taria section {overflow: hidden;}
+	/* Each profile */
+	.tarial .tarial-federation {background-position:    0   0;}
+	.tarial .tarial-xk-72      {background-position:  -50px 0;}
+	.tarial .tarial-prell      {background-position: -100px 0;}
+	.tarial .tarial-sinofar    {background-position: -150px 0;}
+	.tarial .tarial-sonheim    {background-position: -200px 0;}
+  .tarial .tarial-crabs      {background-position:    0   -50px;}
+	.tarial .tarial-carnell    {background-position:  -50px -50px;}
+  .tarial .tarial-horizon    {background-position: -100px -50px;}
+
+/* Pop-out Tom Baker, as used on this page:
+/charlotte-responds/loving-the-alien/
+*/
+.bakerfact {
+  background: transparent;
+	border: none;
+	clear: both;
+	margin: 0 0 1em;
+	padding: 0;
+}
+	.bakerfact .toggle-link {
+		-webkit-box-shadow: inset 0 -30px 30px -30px rgba(0,0,0,.8);
+		   -moz-box-shadow: inset 0 -30px 30px -30px rgba(0,0,0,.8);
+            box-shadow: inset 0 -30px 30px -30px rgba(0,0,0,.8);
+		display: block;
+		height: 142px;
+		overflow: hidden;
+		-webkit-transition: all .5s;
+		   -moz-transition: all .5s;
+			   -o-transition: all .5s;
+				    transition: all .5s;
+	}
+	.bakerfact .toggle-link.open {
+		-webkit-box-shadow: none;
+		   -moz-box-shadow: none;
+				    box-shadow: none;
+		/* This means it'll only work with that one shot of Baker */
+		height: 289px;
+	}
+	.bakerfact img {
+		-webkit-box-shadow: inset 0 -30px 30px -30px rgba(0,0,0,.8);
+		   -moz-box-shadow: inset 0 -30px 30px -30px rgba(0,0,0,.8);
+				    box-shadow: inset 0 -30px 30px -30px rgba(0,0,0,.8);
+		margin: 0;
+	}
+	.bakerfact .open img {
+		-webkit-box-shadow: none;
+		   -moz-box-shadow: none;
+				    box-shadow: none;
+	}
+
+	.bakerfact figcaption {
+		background: #CFC0C7;
+		border-radius: .3em;
+		-webkit-box-shadow: inset 0 0 2em 2em rgba(0,0,0,.1), 0 15px 10px -10px rgba(0,0,0,.8);
+		   -moz-box-shadow: inset 0 0 2em 2em rgba(0,0,0,.1), 0 15px 10px -10px rgba(0,0,0,.8);
+				    box-shadow: inset 0 0 2em 2em rgba(0,0,0,.1), 0 15px 10px -10px rgba(0,0,0,.8);
+		color: #2F0D1D;
+		font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+		font-size: .9em;
+		margin: 0 0 1em;
+		padding: 1em;
+	}
+
+/* End Baker fact style */
+
+/* A sort of sticker which might read "Tom Baker fact!" */
+.sticker {
+  background: #BDA3AF;
+  -webkit-box-shadow: 0 5px 20px 5px rgba(0,0,0,.5);
+     -moz-box-shadow: 0 5px 20px 5px rgba(0,0,0,.5);
+          box-shadow: 0 5px 20px 5px rgba(0,0,0,.5);
+  color: #000;
+  float: right;
+  font-size: 1.2em;
+  font-style: normal;
+  font-weight: bold;
+  height: 4em;
+  line-height: 1;
+  margin: 1em;
+  padding: .3em 0;
+  position: relative;
+  text-align: center;
+  -webkit-transform: rotate(8deg);
+     -moz-transform: rotate(8deg);
+      -ms-transform: rotate(8deg);
+       -o-transform: rotate(8deg);
+          transform: rotate(8deg);
+  width: 4em;
+}
+  .sticker:before, .sticker:after {
+    background: #BDA3AF;
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+  }
+  .sticker:before {
+    -webkit-transform: rotate(30deg);
+       -moz-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+         -o-transform: rotate(30deg);
+            transform: rotate(30deg);
+  }
+  .sticker:after {
+    -webkit-transform: rotate(60deg);
+       -moz-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+         -o-transform: rotate(60deg);
+            transform: rotate(60deg);
+  }
+
+/* "Top Trump" style card. First used on S2E4
+To do: make a strip of selotape covering a tear
+ */
+.top-trump {
+    background: #FFE;
+    border: solid 1em #ECED8C;
+    border-radius: 2em;
+    -webkit-box-shadow: 0 .2em .5em #999, inset 0 0 10em #E8E8DB;
+  	   -moz-box-shadow: 0 .2em .5em #999, inset 0 0 10em #E8E8DB;
+  	        box-shadow: 0 .2em .5em #999, inset 0 0 10em #E8E8DB;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    overflow: hidden;
+    position: relative;
+    -webkit-transform: rotate(1deg);
+       -moz-transform: rotate(1deg);
+        -ms-transform: rotate(1deg);
+         -o-transform: rotate(1deg);
+            transform: rotate(1deg);
+}
+  /* It's supposed to look like a fold. Shut up. */
+  .top-trump:before, .top-trump:after {
+    content: "";
+    background: #E6E6CF;
+    border-bottom: dotted .1em #BDBDA8;
+    border-top: dashed .1em #DBDBB3;
+    height: .1em;
+    position: absolute;
+    -webkit-transform: rotate(43deg);
+       -moz-transform: rotate(43deg);
+        -ms-transform: rotate(43deg);
+         -o-transform: rotate(43deg);
+            transform: rotate(43deg);
+    width: 50%;
+  }
+  .top-trump:before {
+    top: 0;
+    right: -10%;
+  }
+  .top-trump:after {
+    bottom: 0;
+    left: -10%;
+  }
+  .top-trump header {
+    border: solid 1px #555;
+    margin: 0 0 .5em;
+  }
+    .top-trump header:before, .top-trump header:after {
+      content: "";
+      position: absolute;
+      top: -.5em;
+      -webkit-transform: rotate(3deg);
+         -moz-transform: rotate(3deg);
+          -ms-transform: rotate(3deg);
+           -o-transform: rotate(3deg);
+              transform: rotate(3deg);
+    }
+    /* Tear */
+    .top-trump header:before {
+      background: #C2C2AD;
+      border-bottom: dotted .1em #BDBDA8;
+      border-top: dashed .1em #DBDBB3;
+      height: 7em;
+      left: 30%;
+      width: .1em;
+    }
+    /* Selotape */
+    .top-trump header:after {
+      background: #DDDB99;
+      height: 8em;
+      left: 25%;
+      opacity: .3;
+      width: 3em;
+    }
+    .top-trump header p {
+      background: #ECED8C;
+      border-right: solid 1px #555;
+      float: left;
+      margin: 0 .5em 0 0;
+      padding: .2em .5em;
+    }
+    .top-trump header h2 {
+      color: #AF5454;
+      font-size: 1.4em;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+
+    .top-trump figcaption {
+      font-weight: bold;
+    }
+  .top-trump dl {
+    margin: 0 0 1em;
+  }
+    .top-trump dt, .top-trump dd {
+      float: left;
+      font-size: .8em;
+      width: 50%;
+    }
+    .top-trump dt {
+      clear: left;
+      font-weight: bold;
+    }
+
+    .top-trump ol {
+      font-weight: bold;
+      margin-bottom: 0;
+    }
+  .top-trump ol em {
+    color: #AF5454;
+    font-style: normal;
+  }
+
+/* Psion style
+Chicago:
+font-family: Chicago, Krungthep, Silom, sans-serif;
+Monospaced:
+font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+
+Pixel fonts:
+font-smooth: never;
+-webkit-font-smoothing: none;
+-moz-osx-font-smoothing: unset;
+*/
+
+
+/* Disqus comments, bottom */
+.comments {
+	clear: both;
+	margin: 0 0 1em;
+}
+
+	/* The indicators on "Show comments", previous page, top and next page links have some styles in common */
+	.point-down, .point-left, .point-up, .point-right,
+	.point-down:visited, .point-left:visited, .point-up:visited, .point-right:visited {
+		background: #ddd;
+		color: #333;
+		display: block;
+		font-size: 1.1em;
+		padding: .5em;
+		position: relative;
+		text-align: center;
+		text-decoration: none;
+	}
+	/* No link to follow */
+	del.point-down, del.point-left, del.point-up, del.point-right {
+		color: #aaa;
+	}
+		.point-down:after, .point-left:after, .point-up:after, .point-right:after {
+			border: solid .8em transparent;
+			content: "";
+			position: absolute;
+		}
+		/* v */
+		.point-down:after {
+			top: 100%;
+			border-bottom: none;
+			border-top: solid .6em #ddd;
+			left: 50%;
+			margin: 0 0 0 -.8em;
+			right: auto;
+		}
+		/* < */
+		.point-left:after {
+			border-left: none;
+			border-right: solid .6em #ddd;
+			left: auto;
+			margin: -.8em 0 0;
+			right: 100%;
+			top: 50%;
+		}
+		/* ^ */
+		.point-up:after {
+			border-bottom: solid .6em #ddd;
+			margin: 0 0 0 -.8em;
+			bottom: 100%;
+			left: 50%;
+		}
+		/* > */
+		.point-right:after {
+			border-left: solid .8em #ddd;
+			border-right: none;
+			margin: -.8em 0 0;
+			left: 100%;
+			right: auto;
+			top: 50%;
+		}
+
+/* < Previous ^ Top Next > links, bottom of the page */
+.footer-nav {
+	padding: 2em 0 1em;
+}
+	.footer-nav a, .footer-nav del {
+		float: left;
+		margin: 0 1%;
+		/* This width is only used by "Top", which is SO WEE */
+		width: 10%;
+	}
+	.footer-nav :first-child, .footer-nav :last-child {
+		margin: 0;
+		width: 44%;
+	}
+		.footer-nav del:before {display: none;}
+
+/* Legal navigation, under the page navigation links */
+.legal-nav a, .legal-nav em {
+	color: #666;
+	display: inline-block;
+	font-style: normal;
+	line-height: 2;
+	padding: 0 1em 0 0;
+	text-decoration: none;
+}
+.legal-nav a:hover,
+.legal-nav a:focus,
+.legal-nav em {
+	color: #000;
+	text-decoration: underline;
+}
+
+	/* CSS icons
+   General icon class */
+.shape {
+	box-sizing: border-box;
+	display: inline-block;
+	font-size: 1px;
+	font-style: normal;
+	font-weight: normal;
+	position: relative;
+	vertical-align: middle;
+}
+	.shape:before, .shape:after {
+		content: "";
+		position: absolute;
+	}
+
+/* CSS shape of a simplified version of the Terran Federation logo. A poor-man's SVG. */
+.logo-terran-federation {
+    background: #9f4057;
+    border-left: solid .8em #bf808f;
+    border-radius: 5.5em / 5em;
+    border-right: solid .8em #bf808f;
+	display: block;
+	font-size: 1em;
+    height: 5em;
+    margin: 0 auto 1em;
+    width: 5.5em;
+}
+    .logo-terran-federation:before, .logo-terran-federation:after {
+        border: solid 4em transparent;
+        border-bottom: none;
+        border-top: solid 1.8em #89cff0;
+        left: -2em;
+        top: 1.5em;
+    }
+    .logo-terran-federation:after {
+		-webkit-transform: rotate(155deg);
+		   -moz-transform: rotate(155deg);
+		    -ms-transform: rotate(155deg);
+		     -o-transform: rotate(155deg);
+		        transform: rotate(155deg);
+    }
+
+/* Twitter
+Bird body */
+.sh-twitter {
+	border-right: solid 3em #1DA1F2;
+	border-radius: 0 8em 8em 0;
+	height: 14em;
+	margin: 2em 3em 0 6em;
+	transform: rotate(65deg);
+	transform-origin: 3em 6em;
+	width: 7em;
+}
+	/* Head */
+	.sh-twitter:before {
+		background: #1DA1F2;
+		border-radius: 0 3em 3em 3em;
+		left: -1em;
+		height: 5.5em;
+		transform: rotate(49deg);
+		width: 5.5em;
+	}
+	/* Wing */
+	.sh-twitter:after {
+		border-bottom: solid 5em #1DA1F2;
+		border-radius: 0 0 8em 8em;
+		height: 8em;
+		left: -5em;
+		top: 3em;
+		transform: rotate(-27deg);
+		width: 12em;
+	}
+
+@media all and (max-width: 1100px) {
+
+	main > .img-r {margin: 0 0 1em 1em;}
+
+}
+
+@media all and (max-width: 800px) {
+
+	.logo-terran-federation {margin: 0 1em 1em;}
+
+	body {
+		padding: 1em 1em 0;
+		max-width: none;
+	}
+
+	aside, main {
+		float: none;
+		padding: 0;
+		width: auto;
+	}
+
+	main > .img-r, main > .img-l {
+		float: none;
+		margin: 0 0 1em;
+		max-width: 100%;
+	}
+   	.footer-nav a, .footer-nav del {font-size: 2.5vw;}
+
+}
+
+@media all and (max-width: 600px) {
+
+	h1, .h1 {font-size: 10vw;}
+	h2, .h2 {font-size: 8vw;}
+
+    .purhundi figcaption {
+    	right: -50%;
+    }
+    .img-r, .img-l {
+  		float: none;
+  		margin: 0 0 1em;
+  		max-width: 100%;
+  	}
+    .bakerfact img {width: 65vw;}
+    .sticker {
+      height: 12vw;
+      font-size: 3vw;
+      width: 12vw;
+    }
+    .bakerfact .toggle-link {
+  		height: 142px;
+      height: 25vw;
+  	}
+  	.bakerfact .toggle-link.open {
+  		height: 289px;
+      height: 47vw;
+  	}
+
+}
+
+@media all and (max-width: 400px) {
+
+  .biog {font-size: .7em;}
+
+  .ross, .charlotte {
+    margin: 0 0 1em 60px;
+  }
+    .ross:before, .charlotte:before {
+    	background-size: 50px 106px;
+    	height: 50px;
+    	left: -60px;
+    	width: 50px;
+    }
+     .ross:before {background-position: 0 -57px;}
+
+     /* Speech marks */
+    	.ross:after,  .charlotte:after {
+        border-width: .5em;
+        border-right-width: 1em;
+        bottom: 40px;
+    	}
+      .screenplay {
+        font-size: 4vw;
+        padding: 5vw;
+      }
+        .screenplay dt {margin: 0 17vw;}
+        .screenplay dd {margin: 0 8vw 1em;}
+          .screenplay ins {margin: 0 3vw;}
+
+    .mob {
+      border: none;
+      padding: 0;
+    }
+    th, td {font-size: .8em;}
+
+    .footer-nav {
+      margin: 0;
+      padding: 0;
+    }
+      .footer-nav a,
+      .footer-nav del,
+      .footer-nav *:first-child,
+      .footer-nav *:last-child  {
+        float: none;
+        font-size: 1em;
+        margin: 0 0 1em;
+        width: auto;
+      }
+}

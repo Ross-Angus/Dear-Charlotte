@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>A human-readable page about the privacy on www.dear-charlote.com.</description>
+		<path>/privacy/</path>
+	</meta>
+	<content type="main">
+		<h1>Privacy information</h1>
+		<ross>
+			<h2>Hello.</h2>
+			<p>This page is about all the creepy tracking that this site does. I'm hoping to make it human readable, which presumably means that it won't stand up in a court of law, because it's not written in Latin.</p>
+		</ross>
+		<h2>Basic server-side tracking</h2>
+		<p>My hosting company, <a href="https://www.one.com/">One.com</a>, monitors some basic information about each visitor, based on what are called <a href="https://en.wikipedia.org/wiki/HTTP_referer"><jargon type="HTTP"/> referer [<jargon type="sic"/>] fields</a>. This tracking doesn't use cookies but also doesn't provide me with a lot of detail about <em>you</em>, the reader of this site.</p>
+		<p>While this information isn't hugely useful or detailed, it also is quite difficult for you to block, unfortunately. But it would be next to impossible for me to identify anyone using this information (your <jargon type="ISP"/> might have more luck).</p>
+		<h2>More comprehensive tracking</h2>
+		<p>Up until April 2018, I used <a href="http://searchbusinessanalytics.techtarget.com/definition/Google-Analytics">Google Analytics</a> to track users more comprehensively on the site. Then I got bored, and never checked it. Google Analytics is <em>complicated</em>, isn't it? <jargon type="GDPR"/> was the nudge I needed to get rid of all that nonsense. This still means that Google are tracking you in loads of ways across other sites which <em>also</em> use Google Analytics. If this bothers you, you can <a href="https://tools.google.com/dlpage/gaoptout">download a browser add-on which lets you opt-out of such foolishness</a>. I, for one, would completely understand, you proud Internet Ninja.</p>
+		<!--<p>I'm using Google Analytics for the following reasons:</p>
+		<ul>
+			<li>Vanity</li>
+			<li>Curiosity</li>
+			<li>To find other sites where this web site might be mentioned (see first point)</li>
+		</ul>-->
+		<p>I'm not interested in making money out of this site. I hope this doesn't change, and make me look foolish in the future.</p>
+		<!--<h3>Extra stuff which Google Analytics tracks</h3>
+		<p>There's a few special bits of tracking Google Analytics does, which I've added myself. These are:</p>
+		<ul>
+			<li>When you click on one of the tags, under the main navigation</li>
+			<li>When you click on one of the notes<note>This is a note right here</note></li>
+			<li>When you click on the <q cite="https://www.dear-charlotte.com/">Show comments (Disqus)</q> button, down the bottom there<note>I'll talk more about this button in a bit</note></li>
+		</ul>
+		<p>I do this, because I'm curious as to how useful these elements are on the page, and to see if I can improve the jokes in any way.</p>-->
+		<h2>Third-party stuff</h2>
+		<p>Because I embed content from third-party services such as <a href="http://imgur.com/">Imgur</a>, <a href="https://disqus.com/">Disqus</a> and <a href="https://soundcloud.com/">Soundcloud</a>, they'll do all kinds of creepy tracking themselves. Sorry about this. In order to speed up page load and to allow you to opt out of sending your clicks there, I've hidden Disqus behind a clicky toggle thing<note>Look! It's right down there↓</note>. Before you click on that button, nothing will be loaded from Disqus, so no third-party tracking from them will take place.</p>
+	</content>
+</page>

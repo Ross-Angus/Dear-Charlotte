@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<global>
+	<meta>
+		<site-title>Dear Charlotte: A Blake's 7 episode guide</site-title>
+		<description>A light-hearted review of every episode of Blake's 7 (eventually).</description>
+		<base-url>https://www.dear-charlotte.com</base-url>
+		<open-graph-type>website</open-graph-type>
+		<site-image>/img/logo-terran-federation.png</site-image>
+		<language>en-gb</language>
+		<charset>utf-8</charset>
+		<viewport>content="width=device-width, initial-scale=1.0</viewport>
+		<X-UA-Compatible>IE=Edge</X-UA-Compatible>
+		<HandheldFriendly>true</HandheldFriendly>
+	</meta>
+
+	<nav type="footer" title="Legal chum">
+		<link url="/privacy/" text="Privacy information"/>
+		<link url="/acknowledgements/" text="Acknowledgements"/>
+		<link url="https://twitter.com/Trundles_bot" text="Dear Charlotte on Twitter" shape="sh-twitter"/>
+	</nav>
+
+	<nav type="main" title="Main">
+		<link url="/" text="Home">
+			<tag>Introduction</tag>
+			<tag>Intro</tag>
+		</link>
+		<link url="/about-blakes-7/" text="An introduction to Blake's 7">
+			<tag>Introduction</tag>
+			<tag>Intro</tag>
+			<link url="/about-blakes-7/vila-restal/" text="Vila Restal">
+				<tag>Charactor</tag>
+			</link>
+			<link url="/about-blakes-7/roj-blake/" text="Roj Blake">
+				<tag>Charactor</tag>
+			</link>
+			<link url="/about-blakes-7/jenna-stannis/" text="Jenna Stannis">
+				<tag>Charactor</tag>
+			</link>
+			<link url="/about-blakes-7/kerr-avon/" text="Kerr Avon">
+				<tag>Charactor</tag>
+			</link>
+			<link url="/about-blakes-7/olag-gan/" text="Olag Gan">
+				<tag>Charactor</tag>
+			</link>
+			<link url="/about-blakes-7/zen/" text="Zen">
+				<tag>Charactor</tag>
+			</link>
+			<link url="/about-blakes-7/cally/" text="Cally">
+				<tag>Charactor</tag>
+			</link>
+			<link url="/about-blakes-7/servalan/" text="Servalan">
+				<tag>Charactor</tag>
+			</link>
+			<link url="/about-blakes-7/travis/" text="Travis">
+				<tag>Charactor</tag>
+			</link>
+			<link url="/about-blakes-7/ensor-senior/" text="Ensor Senior">
+				<tag>Charactor</tag>
+			</link>
+		</link>
+		<link url="/charlotte-responds/" text="Charlotte responds">
+			<tag>Introduction</tag>
+			<tag>Intro</tag>
+			<link url="/charlotte-responds/use-of-quarries/" text="Use of quarries">
+				<tag>Gravel pits</tag>
+			</link>
+			<link url="/charlotte-responds/stage-fighting/" text="Stage fighting">
+				<tag>Stage fighting</tag>
+				<tag>RADA fighting</tag>
+				<tag>Luxurious hair</tag>
+			</link>
+			<link url="/charlotte-responds/rada-acting/" text="RADA acting">
+				<tag>ACTING</tag>
+			</link>
+			<link url="/charlotte-responds/weird-cults/" text="Weird cults">
+				<tag>Cults</tag>
+			</link>
+			<link url="/charlotte-responds/women-in-the-fourth-doctor-era/" text="Women in the fourth Doctor era">
+				<tag>Neutral female</tag>
+				<tag>Skimpy outfit</tag>
+				<tag>Big hair</tag>
+				<tag>Luxurious hair</tag>
+			</link>
+			<link url="/charlotte-responds/loving-the-alien/" text="Loving the Alien">
+				<tag>David Bowie</tag>
+			</link>
+			<link url="/charlotte-responds/oh-no-it-isnt/" text="Oh, no it isn’t">
+				<tag>Pantomime</tag>
+				<tag>Stage fighting</tag>
+				<tag>RADA fighting</tag>
+			</link>
+		</link>
+		<link url="/series-1/" text="Series 1">
+			<tag>Series 1</tag>
+			<tag>Terry Nation</tag>
+			<tag>World building</tag>
+			<tag>Terrorism</tag>
+			<tag>Genre</tag>
+			<tag>Star Trek</tag>
+			<tag>Weirdo of the week</tag>
+			<tag>Trippy montage sequence</tag>
+			<tag>Backstory</tag>
+			<link url="/series-1/episode-1-the-way-back/" text="Episode 1: The Way Back">
+				<tag>CCTV</tag>
+				<tag>Dystopia</tag>
+				<tag>Politics</tag>
+				<tag>Genocide</tag>
+				<tag>Totalitarianism</tag>
+				<tag>Torture</tag>
+				<tag>Legal drama</tag>
+				<tag>Luxurious hair</tag>
+				<tag>Strobe lighting</tag>
+				<tag>Brain washing</tag>
+				<tag>Tabard</tag>
+			</link>
+			<link url="/series-1/episode-2-space-fall/" text="Episode 2: Space Fall">
+				<tag>Prison</tag>
+				<tag>London</tag>
+				<tag>Redshirts</tag>
+				<tag>Gurning</tag>
+				<tag>Hard sci-fi</tag>
+				<tag>Sex pest</tag>
+				<tag>Hacking</tag>
+				<tag>ACTING</tag>
+			</link>
+			<link url="/series-1/episode-3-cygnus-alpha/" text="Episode 3: Cygnus Alpha">
+				<tag>Prison</tag>
+				<tag>Artificial Intelligence</tag>
+				<tag>Hyperspace</tag>
+				<tag>London</tag>
+				<tag>Landing sequence</tag>
+				<tag>Zen</tag>
+				<tag>Castle</tag>
+				<tag>Cults</tag>
+				<tag>Cod-Medieval</tag>
+				<tag>Gravel pits</tag>
+				<tag>Neutral female</tag>
+				<tag>Shouting</tag>
+				<tag>Star Trek</tag>
+				<tag>Hessian</tag>
+				<tag>ACTING</tag>
+				<tag>Space sickness</tag>
+				<tag>Costume change</tag>
+			</link>
+			<link url="/series-1/episode-4-time-squad/" text="Episode 4: Time Squad">
+				<tag>Gravel pits</tag>
+				<tag>Star Trek</tag>
+				<tag>Terrorism</tag>
+				<tag>Computer error</tag>
+				<tag>Limiters</tag>
+				<tag>Cryogenic</tag>
+				<tag>Telepathy</tag>
+				<tag>Brownouts</tag>
+				<tag>Hacking</tag>
+				<tag>Lockpicking</tag>
+				<tag>Skimpy outfit</tag>
+				<tag>Brood units</tag>
+			</link>
+			<link url="/series-1/episode-5-the-web/" text="Episode 5: The Web">
+				<tag>Unconsciousness</tag>
+				<tag>Puppets</tag>
+				<tag>David Bowie</tag>
+				<tag>Lettice</tag>
+				<tag>Fungus</tag>
+				<tag>Star Trek</tag>
+				<tag>Anthocentricism</tag>
+				<tag>Bromance</tag>
+				<tag>Morality</tag>
+				<tag>Telepathy</tag>
+				<tag>Mind control</tag>
+				<tag>Neutron blasters</tag>
+				<tag>Evil albino</tag>
+				<tag>Trippy montage sequence</tag>
+			</link>
+			<link url="/series-1/episode-6-seek-locate-destroy/" text="Episode 6: Seek-Locate-Destroy">
+				<tag>Robots</tag>
+				<tag>Trundles</tag>
+				<tag>Schtick</tag>
+				<tag>Flirting</tag>
+				<tag>Cyborgs</tag>
+				<tag>Mutoids</tag>
+				<tag>Mobile phones</tag>
+				<tag>Backstory</tag>
+				<tag>Unconsciousness</tag>
+				<tag>Micro tapes</tag>
+				<tag>Cyphers</tag>
+				<tag>Hacking</tag>
+				<tag>Lockpicking</tag>
+				<tag>Costume change</tag>
+				<tag>Swiss Army Hand</tag>
+				<tag>Space station</tag>
+			</link>
+			<link url="/series-1/episode-7-mission-to-destiny/" text="Episode 7: Mission to Destiny">
+				<tag>Unconsciousness</tag>
+				<tag>Fungus</tag>
+				<tag>Ghosts</tag>
+				<tag>Whodunit</tag>
+				<tag>Look-a-like</tag>
+				<tag>Hostage</tag>
+				<tag>Replicator</tag>
+				<tag>Sex pest</tag>
+				<tag>Bereavement counselling tips</tag>
+				<tag>Gas</tag>
+				<tag>Sono gas</tag>
+				<tag>Secret weekend wizard</tag>
+				<tag>Meteorite storm</tag>
+				<tag>Homing beam transmitter</tag>
+				<tag>Force wall</tag>
+				<tag>Energy shortage</tag>
+			</link>
+			<link url="/series-1/episode-8-duel/" text="Episode 8: Duel">
+				<tag>Trippy montage sequence</tag>
+				<tag>Hessian</tag>
+				<tag>Limiters</tag>
+				<tag>2001</tag>
+				<tag>Radiation</tag>
+				<tag>Arena</tag>
+				<tag>Mutoids</tag>
+				<tag>Space magic</tag>
+				<tag>Space battle</tag>
+				<tag>Force wall</tag>
+				<tag>Energy shortage</tag>
+				<tag>Skimpy outfit</tag>
+				<tag>Metal</tag>
+				<tag>Strobe lighting</tag>
+				<tag>Swiss Army Hand</tag>
+				<tag>Nipples</tag>
+			</link>
+			<link url="/series-1/episode-9-project-avalon/" text="Episode 9: Project Avalon">
+				<tag>Mutoids</tag>
+				<tag>Skimpy outfit</tag>
+				<tag>Strobe lighting</tag>
+				<tag>Robots</tag>
+				<tag>Trundles</tag>
+				<tag>Unconsciousness</tag>
+				<tag>Star Wars</tag>
+				<tag>Stormtroopers</tag>
+				<tag>Eye roll</tag>
+				<tag>Torture</tag>
+				<tag>Lockpicking</tag>
+				<tag>Swiss Army Hand</tag>
+				<tag>Caves</tag>
+			</link>
+			<link url="/series-1/episode-10-breakdown/" text="Episode 10: Breakdown">
+				<tag>Unconsciousness</tag>
+				<tag>Limiters</tag>
+				<tag>ACTING</tag>
+				<tag>Star Trek</tag>
+				<tag>Artificial Intelligence</tag>
+				<tag>Computer error</tag>
+				<tag>Trippy montage sequence</tag>
+				<tag>Mobile phones</tag>
+				<tag>Look-a-like</tag>
+				<tag>Sex pest</tag>
+				<tag>Gurning</tag>
+				<tag>RADA fighting</tag>
+				<tag>Cats</tag>
+				<tag>Medibot</tag>
+				<tag>Meteorite storm</tag>
+				<tag>Loyalty</tag>
+				<tag>Flirting</tag>
+				<tag>Plasma bolts</tag>
+				<tag>Gravity vortex</tag>
+				<tag>Space station</tag>
+				<tag>t'Arial!</tag>
+			</link>
+			<link url="/series-1/episode-11-bounty/" text="Episode 11: Bounty">
+				<tag>Costume change</tag>
+				<tag>Politics</tag>
+				<tag>Totalitarianism</tag>
+				<tag>Cyphers</tag>
+				<tag>Gas</tag>
+				<tag>Unconsciousness</tag>
+				<tag>Space karate</tag>
+				<tag>The Prisoner</tag>
+				<tag>Empire</tag>
+				<tag>RADA tumbling</tag>
+				<tag>Lockpicking</tag>
+				<tag>Chocolate</tag>
+				<tag>Camp</tag>
+				<tag>Telepathy</tag>
+				<tag>Sheikh</tag>
+				<tag>Jenna's shady past</tag>
+				<tag>Backstory</tag>
+				<tag>Castle</tag>
+				<tag>Slavery</tag>
+				<tag>Secret boot gun</tag>
+				<tag>Schtick</tag>
+			</link>
+			<link url="/series-1/episode-12-deliverance/" text="Episode 12: Deliverance">
+				<tag>Unconsciousness</tag>
+				<tag>Cavemen</tag>
+				<tag>Radiation</tag>
+				<tag>Life pod</tag>
+				<tag>Cults</tag>
+				<tag>Gravel pits</tag>
+				<tag>Crash</tag>
+				<tag>Life pods</tag>
+				<tag>Bomb</tag>
+				<tag>Backstory</tag>
+				<tag>Nuclear war</tag>
+				<tag>Bunkers</tag>
+				<tag>Neanderthal</tag>
+				<tag>Passive-aggression</tag>
+				<tag>Cod-Medieval</tag>
+				<tag>Prophecy</tag>
+				<tag>Launch</tag>
+				<tag>Brood units</tag>
+				<tag>Lady boner</tag>
+			</link>
+			<link url="/series-1/episode-13-orac/" text="Episode 13: Orac">
+				<tag>Costume change</tag>
+				<tag>Radiation</tag>
+				<tag>Artificial Intelligence</tag>
+				<tag>Mime</tag>
+				<tag>Computer error</tag>
+				<tag>Space sickness</tag>
+				<tag>Force wall</tag>
+				<tag>Robots</tag>
+				<tag>Recap</tag>
+				<tag>Swiss Army Hand</tag>
+				<tag>Computer error</tag>
+				<tag>Hacking</tag>
+				<tag>Reptiles</tag>
+				<tag>Maps</tag>
+				<tag>Drones</tag>
+			</link>
+		</link>
+		<link url="/series-2/" text="Series 2">
+			<link url="/series-2/episode-1-redemption/" text="Episode 1: Redemption">
+				<tag>Costume change</tag>
+				<tag>Force wall</tag>
+				<tag>Artificial Intelligence</tag>
+				<tag>Unconsciousness</tag>
+				<tag>David Bowie</tag>
+				<tag>Computer error</tag>
+				<tag>Hacking</tag>
+				<tag>Look-a-like</tag>
+				<tag>Lockpicking</tag>
+				<tag>Evil albino</tag>
+				<tag>Ghosts</tag>
+				<tag>Recap</tag>
+				<tag>Prediction</tag>
+				<tag>RADA tumbling</tag>
+				<tag>Backstory</tag>
+				<tag>Funny robot people</tag>
+				<tag>Tabard</tag>
+				<tag>Gurning</tag>
+				<tag>Skimpy outfit</tag>
+				<tag>Landing sequence</tag>
+				<tag>RADA karate</tag>
+			</link>
+			<link url="/series-2/episode-2-shadow/" text="Episode 2: Shadow">
+				<tag>Costume change</tag>
+				<tag>Unconsciousness</tag>
+				<tag>Neutron blasters</tag>
+				<tag>Trippy montage sequence</tag>
+				<tag>Weirdo of the week</tag>
+				<tag>Hessian</tag>
+				<tag>Computer error</tag>
+				<tag>Organised crime</tag>
+				<tag>Disorganised crime</tag>
+				<tag>2001</tag>
+				<tag>Chris Boucher</tag>
+				<tag>Space station</tag>
+				<tag>Drugs</tag>
+				<tag>Addiction</tag>
+				<tag>Drunkenness</tag>
+				<tag>Plinth</tag>
+				<tag>Libertarian paradise</tag>
+				<tag>Jenna's shady past</tag>
+				<tag>Telepathy</tag>
+				<tag>High-fives</tag>
+				<tag>Pet rock</tag>
+				<tag>Nuke it from orbit</tag>
+			</link>
+			<link url="/series-2/episode-3-weapon/" text="Episode 3: Weapon">
+				<tag>Swiss Army Hand</tag>
+				<tag>Costume change</tag>
+				<tag>Clones</tag>
+				<tag>RADA fighting</tag>
+				<tag>Luxurious hair</tag>
+				<tag>Skimpy outfit</tag>
+				<tag>Weirdo of the week</tag>
+				<tag>Slavery</tag>
+				<tag>Chris Boucher</tag>
+				<tag>Huge collars</tag>
+				<tag>Cults</tag>
+				<tag>Caste system</tag>
+				<tag>Flirting</tag>
+				<tag>Weird flirting</tag>
+				<tag>Psychostrategist</tag>
+				<tag>Man candy</tag>
+				<tag>Chess</tag>
+				<tag>Acronym</tag>
+			</link>
+			<link url="/series-2/episode-4-horizon/" text="Episode 4: Horizon">
+				<tag>Radiation</tag>
+				<tag>Telepathy</tag>
+				<tag>Force wall</tag>
+				<tag>Slavery</tag>
+				<tag>Empire</tag>
+				<tag>Imperialism</tag>
+				<tag>Nipples</tag>
+				<tag>Weirdo of the week</tag>
+				<tag>Backstory</tag>
+				<tag>Torture</tag>
+				<tag>London</tag>
+				<tag>Skimpy outfit</tag>
+				<tag>Unconsciousness</tag>
+				<tag>Loyalty</tag>
+				<tag>Caves</tag>
+				<tag>CCTV</tag>
+				<tag>Top Trumps</tag>
+				<tag>t'Arial!</tag>
+				<tag>Blow pipe</tag>
+			</link>
+			<!--link url="/series-2/episode-5-pressure-point/" text="Episode 5: Pressure Point">
+				<tag>CCTV</tag>
+				<tag>Mutoids</tag>
+				<tag>Costume change</tag>
+				<tag>Unconsciousness</tag>
+				<tag>Sono gas</tag>
+			</link-->
+		</link>
+		<link url="/writing/" text="Writing">
+			<tag>Writing</tag>
+			<link url="/writing/domestic-servants/" text="Domestic servants"/>
+		</link>
+	</nav>
+</global>

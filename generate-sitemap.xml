@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc [
+	<!ENTITY nav SYSTEM '/data/global.xml'>
+]>
+<?xml-stylesheet type="text/xsl" href="/xslt/sitemap.xslt"?>
+<root>&nav;</root>

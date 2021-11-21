@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>An introduction to Charlotte's essay and introduction to Doctor Who.</description>
+		<path>/charlotte-responds/</path>
+	</meta>
+	<content type="main">
+		<h1>Charlotte responds</h1>
+
+		<char>
+			<h2>Hello!</h2>
+			<p>So you've decided to open this bit have you? Great! A few words of warning...</p>
+		</char>
+
+		<figure class="img-r">
+			<img src="/img/charlotte-responds/tom-baker.jpg" alt=""/>
+			<figcaption>Tom Baker</figcaption>
+		</figure>
+		
+		<p>I have very generously been allowed to intersperse the odd comment relating to my husband, sorry,'the Fourth Dr', in the main blog. For those of you who have too much time on your hands, or who have always wondered what a phd in 70s DW would look like, these tabs are for you. Think of them as an appendices if you will.</p>
+		<p>I am available for lectures.</p>
+
+		<p>So, bearing in mind ‘70s Doctor Who fan’ is the target audience, I’m going to take a few of these little sections to give some initial reactions on running themes and cross-overs. I should explain I’ve still not actually watched Blake’s 7, rather have experienced it via this website. Honestly, I get the impression it might be more fun this way.</p>
+		
+	</content>
+</page>

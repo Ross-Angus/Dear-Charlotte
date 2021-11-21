@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>Quick character summary of Cally</description>
+		<path>/about-blakes-7/cally/</path>
+	</meta>
+	<content type="main">
+		<h1>Cally</h1>
+		<biog>
+			<src>/img/characters/cally.png</src>
+			<info type="Name">Cally</info>
+			<info type="Special skills">Telepathy / freelance terrorism</info>
+			<info type="Character from Star Trek: the Next Generation she most resembles">Deanna Troy</info>
+			<info type="Hair hero">Brian May</info>
+		</biog>
+
+		<figure class="img-r">
+			<img src="/img/series-1/episode-11-bounty/cally-attack.jpg" alt=""/>
+			<figcaption>Cally gets her boots on the ground during <em>Bounty</em></figcaption>
+		</figure>
+
+		<h2>First meeting</h2>
+		<p>We first meet Cally during <a href="/series-1/episode-4-time-squad/">Time Squad</a>. She's a guerrilla fighter on the planet of Saurian Major, with a really cool steam-punk gun. She's the last surviving member of her cell and had originally planned to die fighting the Federation.</p>
+		
+		<h2>Background</h2>
+		<p>Cally suffers from telepathy and comes from the planet Auron, like Saymon from <a href="/series-1/episode-5-the-web/">The Web</a> and Lehan<note>Mentioned in name only</note> from <a href="/series-1/episode-11-bounty/">Bounty</a>. Auron seems a strangely honourable place - Cally feels unable to return, until she has carried out her mission, which appears to be to destroy the Federation single-handed. They must have <em>really</em> wanted rid of her.</p>
+
+		<h2>Character development</h2>
+		<p>I get the feeling that Cally was originally intended to be a more hands-on character, to contrast with Vila and Avon's self-preservation. Jenna may have an idealistic side, but it was really only Blake who willingly threw himself into danger, until Cally came along.</p>
+		
+		<p>Ultimately, she's underused in this capacity and Dayna seemed to slot into this role, in the second series.</p>
+		<p>Perhaps Cally's telepathic abilities suggested a more sensitive role. Unfortunately, in practise, Cally is often left on the sidelines, with little important to do.</p>
+		
+		<h2>Role in society</h2>
+		<p>Jan Chappell, who played Cally, felt that she wanted a larger role in the second series. What I find interesting about the world of <em>Blake's 7</em> is that as a society, women and men seem to have complete equality - women are in positions of power throughout the series and this is not questioned in-universe.</p>
+		<p>Unfortunately, Jan Chappell (and Sally Knyvette, who played Jenna, who also felt underused) had a point - Blake's female crew members in the first series were often placed in the background.</p>
+		<p>It's interesting to contrast this with a show such as <em>Game of Thrones</em>, where women's place in society is subject to all kinds of restrictions, and yet women characters share screen time with men and are clearly defined characters in their own right.</p>
+	</content>
+</page>

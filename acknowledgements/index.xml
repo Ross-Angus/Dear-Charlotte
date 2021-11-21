@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>Stuff and people to thank, for bringing you www.dear-charlote.com.</description>
+		<path>/acknowledgements/</path>
+	</meta>
+	<content type="main">
+		<h1>Acknowledgements</h1>
+		<ross>
+			<h2>Ta</h2>
+			<p>This is a bunch of shout-outs, to stuff I've used in building this site and people who've helped, in no particular order.</p>
+		</ross>
+
+		<h2>Takahē</h2>
+		<p>This site is built using <a href="https://github.com/Ross-Angus/Takahe">Takahē</a>, a client-side <jargon type="XSLT"/> framework I built, for some reason.</p>
+
+		<h2>Charlotte's puffin avatar</h2>
+		<p>I'm grateful to <a href="https://www.flickr.com/photos/markturner/" title="Mark Turner on Flickr">Mark Turner</a>, for providing <a href="https://www.flickr.com/photos/markturner/14310057931/">an image of a shouting Puffin</a> which I used to represent Charlotte, in her spirit-animal form.</p>
+
+		<h2>The <em>Blake's 7</em> YouTube channel</h2>
+		<p>Big thanks to <a href="https://www.youtube.com/channel/UCLIv-DVrjhZJqb7hvTVgL_w">the <em>Blake's 7</em> YouTube channel</a>, which allowed me to watch <em>Blake's 7</em> for the first time since about 1999. The videos from their channel are embedded at the bottom of every episode.</p>
+
+		<h2>James Haddrill</h2>
+		<p>I work with James and he once suggested a neat little solution to how to get a black outline around a CSS shape, which I used for the notes speech mark<note>This is a note</note>. He probably doesn't remember.</p>
+
+		<h2><jargon type="CSS"/> shapes</h2>
+		<p>I've reused a few of the techniques I developed for my <a href="http://labs.realise.com/rossa/css-icons/"><jargon type="CSS"/> icons</a> on this site - for example the Federation logo in the top left hand corner and all those little speech ticks. Basically I'll do whatever I can to avoid loading in an image, because I'm lazy.</p>
+		
+		<h2>The <em>Blake's 7</em> and <jargon type="sci-fi"/> subreddits</h2>
+		<p>Both <a href="https://www.reddit.com/r/Blakes7/">the <em>Blake's 7</em> subreddit</a> and <a href="https://www.reddit.com/r/scifi"><jargon type="sci-fi"/> subreddit</a> have kindly answered questions I had on various topics, improving this blog significantly. Or at the very least satisfying my curiosity.</p>
+		
+		<h2>Software</h2>
+		<p>Some software and services which have been useful:</p>
+		<ul>
+			<li><a href="http://www.audacityteam.org/">Audacity</a></li>
+			<li><a href="http://www.favicomatic.com/">Favic-o-matic</a></li>
+			<li><a href="http://blog.bahraniapps.com/gifcam/">GifCam</a></li>
+			<li><a href="https://inkscape.org/">Inkscape</a></li>
+			<li><a href="https://notepad-plus-plus.org/">Notepad++</a></li>
+			<li><a href="https://tinypng.com/">Tiny<jargon type="PNG"/></a></li>
+			<li>... plus an antique version of Photoshop</li>
+		</ul>
+		
+		<h2>Metal consultancy</h2>
+		<p>I'm grateful to <em><a href="https://yourloyalsubjects.bandcamp.com/">Your Loyal Subjects</a></em>, for providing a heavy metal consultancy service, improving a so-called running joke about baddies being metal.</p>
+
+		<h2>Charlotte</h2>
+		<p>I set up this site without consulting <a href="/">Charlotte</a>, using her as a sort of mental audience for my writing. To my delight, not only was she not freaked out by the site, but has agreed to help out with it too. Or at least store her accumulated 4th Doctor facts here, which amounts to much the same thing.</p>
+	</content>
+</page>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<description>Quick character summary of Jenna Stannis</description>
+		<path>/about-blakes-7/jenna-stannis/</path>
+	</meta>
+	<content type="main">
+		<h1>Jenna Stannis</h1>
+		<biog>
+			<src>/img/characters/jenna-stannis.png</src>
+			<info type="Name">Jenna Stannis</info>
+			<info type="Special skills">Pilot</info>
+			<info type="Dramatic role">Moral compass</info>
+		</biog>
+
+		<h2>First meeting</h2>
+		<p>Blake meets Jenna and Vila in the transit cells, during <a href="/series-1/episode-1-the-way-back/">The Way Back</a>.</p>
+		
+		<h2>Background</h2>
+		<p>Jenna used to be a smuggler and is an excellent pilot, consorting with <a href="/series-1/episode-11-bounty/#tarvin">Tarvin</a>, who we meet during <a href="/series-1/episode-11-bounty/">Bounty</a>.</p>
+
+		<figure class="img-r">
+			<img src="/img/series-1/episode-8-duel/up-a-tree-in-duel.jpg" alt=""/>
+			<figcaption>Jenna and Blake spend the night up a tree during <em>Duel</em>.</figcaption>
+		</figure>
+
+		<h2>Character development</h2>
+		<h3>Joining the crew</h3>
+		<p>The scene in <a href="/series-1/episode-2-space-fall/">Space Fall</a> between Blake, Jenna and Avon establishes her character well - Jenna wants to believe in something, and chooses Blake.</p>
+		
+		<h3>The key to <em>The Liberator</em></h3>
+		<p>During <em><a href="/series-1/episode-3-cygnus-alpha/">Cygnus Alpha</a></em>, Jenna triggers a control on <em>The Liberator</em> which causes Zen to be loyal to her - and by extension, Blake and Avon. She describes the sensation thus: <q>to be completely known. It's like ... innocence</q>.</p>
+
+		<h3>Relationship with Blake</h3>
+		<p>Their friendship is touching - she is loyal to him and he often selects her for missions, despite her lack of aptitude for violence. During the episode <a href="/series-1/episode-8-duel/">Duel</a>, <a href="/series-1/episode-8-duel/#sinofar">Sinofar</a> selects Jenna as Blake's second, in his fight with Travis, because she wants Blake to understand the impact of the death of a friend.</p>
+		<p>Jenna is a strangely sexless character who only occasionally is the object of other's sexual interest, notably <a href="/series-1/episode-11-bounty/#tarvin">Tarvin</a> and <a href="/series-1/episode-10-breakdown/#renor">Renor</a>.</p>
+		<p>Like Cally, Jenna is regrettably underused but Nation is consistent in allowing her to provide any exposition regarding space ships or piloting.</p>
+	</content>
+</page>

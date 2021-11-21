@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslt/page.xslt"?>
+<page>
+	<meta>
+		<path>/</path>
+	</meta>
+	<content type="main">
+		<h1>Dear Charlotte</h1>
+		<p>A light hearted review of every<note>Eventually. Give me time, OK?</note> episode of <em>Blake's 7</em>.</p>
+
+		<h2>What's <em>Blake's 7</em>?</h2>
+		<p><em>Blake's 7</em> was a British sci-fi television series which ran from 1978 to 1981. It's like a <em>slightly</em> more adult version of <em>Doctor Who</em>. Just a whisker. Seriously, you'll hardly notice it.</p>
+
+		<h2>Who's Charlotte?</h2>
+		<p>My friend Charlotte <em>loves</em> <em>Doctor Who</em>. <em>All</em> of it, but <em>especially</em> the Tom Baker years. She's never seen <em>Blake's 7</em>, and feels she ought to.</p>
+
+		<h2>What's Charlotte like?</h2>
+		<p>Sorry - I was forgetting what the Internet is like. Charlotte's spirit animal would probably be a Puffin. She loves the outdoors, reading, wildlife, sci-fi and proper literature too. She's in her mid thirties, works for a charity as a fund raiser and is extremely cool, just not in a skateboarding-while-wearing-aviator-shades kind of way.</p>
+		<p>Since I started doing this, Charlotte has not only given her blessing, she'll be adding commentary herself, usually relating to <em>Doctor Who</em>. Say something, Charlotte:</p>
+		
+		<char>
+			<p>I'm going to shout Doctor Who facts at you until you learn to love Tom Baker.</p>
+		</char>
+		
+		<p>Sometimes, I'll need to stop the episode description for a digression which isn't <em>strictly speaking</em> on topic. When I do, it looks like this:</p>
+		
+		<ross>
+			<p>Avon may not be the hero you want, but he's the hero you <em>deserve</em>.</p>
+		</ross>
+
+		<h2>Yeah, but why are you doing this?</h2>
+		<p>My friend Vicko is currently introducing Charlotte to the new(ish) Battlestar Galactica in a series of evening events, which I sometimes attend. It's ... <em>a bit rubbish</em> the second time round.</p>
+		<p>I figured I should jump on the bandwagon, but in blog form. And because one should always imagine an audience when one writes, I've chosen to imagine her for this blog.</p>
+		<p>There's nothing <em>funny</em> going on here.</p>
+
+	</content>
+</page>
